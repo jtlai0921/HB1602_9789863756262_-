@@ -1,0 +1,39 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>use Python in ASP</title>
+</head>
+<body>
+<center>
+<h1>所有留言</h1>
+</center>
+<hr />
+<%	
+import MySQLdb											# 匯入MySQLdb模組
+db = MySQLdb.connect(host='localhost',						# 連線到資料庫
+		user='root',
+		passwd='python',
+		db='message',
+		charset='gb2312')						# 設定字元解碼
+cur = db.cursor()
+cur.execute('select * from message')				
+results = cur.fetchall()
+for result in results:								# 輸出留言內容
+	req.write( '姓名：%s' % result[0].encode('gb2312') )
+	req.write( '<br>' )
+	req.write( '時間: %s' % result[4] )
+	req.write( '<br>' )
+	req.write( '信箱: %s' % result[1].encode('gb2312') )
+	req.write( '<br>' )
+	req.write( '網站: %s' % result[2].encode('gb2312') )
+	req.write( '<br>' )
+	req.write( '留言內容:' )
+	req.write( '<br>' )
+	req.write( result[3].encode('gb2312') )
+	req.write( '<hr />' )
+cur.close()
+db.close()
+%>
+</body>
+</html>
+

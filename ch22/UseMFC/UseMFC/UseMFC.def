@@ -1,0 +1,7 @@
+; UseMFC.def : 宣告 DLL 的模組參數。
+
+LIBRARY      "UseMFC"
+
+EXPORTS
+    ; 此處可以是顯性匯出
+	PyInit_UseMFC

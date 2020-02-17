@@ -1,0 +1,557 @@
+Microsoft C/C++ MSF 7.00
+DSà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€`à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€è¼¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿˜à€€ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿ï¿¿å¡žà€€à€€'à€€à€€aà€€à€€à€€à€€È·à€€à€€sGà€€à€€L=à€€à€€à€€à€€ÐŠà€€à€€5_à€€à€€ë €à€€è’™à€€<à€€à€€Hpà€€à€€é¤˜à€€Aà€€à€€cqà€€à€€Zeà€€à€€â¦€à€€ã¶€à€€ïŒ€à€€ÎŸà€€à€€hà€€à€€í´€à€€ALà€€à€€Xlà€€à€€i2à€€à€€Qà€€à€€d
+à€€à€€nWà€€à€€	Fà€€à€€ï¹à€€à€€Qmà€€à€€f2à€€à€€hà€€à€€v}à€€à€€Ø»à€€à€€e{à€€à€€`	à€€à€€ÕŠà€€à€€í¡€à€€Jyà€€à€€Mà€€à€€Ð„à€€à€€ç€€à€€ê€€à€€Ç‡à€€à€€+~à€€à€€H+à€€à€€í“€à€€ä¡€à€€ê­€à€€r2à€€à€€ç‡€à€€STà€€à€€ëœ€à€€H4à€€à€€zuà€€à€€USà€€à€€2!à€€à€€8Nà€€à€€Lqà€€à€€ä³€à€€î¬€à€€Zlà€€à€€_tà€€à€€à¾€à€€ÓŸà€€à€€Tà€€à€€Ú‡à€€à€€è³€à€€ïº€à€€æ€à€€9)à€€à€€â¼€à€€'à€€à€€â“€à€€ä†€à€€Ðœà€€à€€)Yà€€à€€éà€€àº€à€€R=à€€à€€t2à€€à€€èˆ€à€€jà€€à€€uà€€à€€?,à€€à€€ã‡€à€€=à€€à€€Ó à€€à€€Qà€€à€€	?à€€à€€rà€€à€€à€€ä¼¼à€€?.à€€à€€N[à€€à€€QWà€€à€€RPà€€à€€ç‘€à€€ë €à€€á©€à€€}@à€€à€€à¶€à€€Õ‹à€€à€€*rà€€à€€ã¦€à€€~à€€à€€à€€èŠ€à€€z	à€€à€€à€€à€€ã³€à€€1Sà€€à€€bà€€à€€1xà€€à€€v2à€€à€€.(à€€à€€}8à€€à€€è„€à€€Oà€€à€€èª˜à€€é»ƒà€€åœ‹à€€^Eà€€à€€9rà€€à€€á•€à€€Uqà€€à€€á‰€à€€á©€à€€4sà€€à€€ë›€à€€É¾à€€à€€á’€à€€X-à€€à€€Ó«à€€à€€`à€€à€€Là€€à€€2~à€€à€€8à€€à€€9à€€à€€â¦€à€€Õ€à€€à€€á–€à€€9Jà€€à€€dFà€€à€€ì€à€€wsà€€à€€é¡€à€€*oà€€à€€ì¸€à€€u^à€€à€€Î€à€€btà€€à€€é¨€à€€ëŒ€à€€Æ¶à€€à€€n>à€€à€€[à€€à€€\9à€€à€€%pà€€à€€à²€à€€â³€à€€ë€à€€äª€à€€Ê€à€€à€€Sà€€à€€è–€à€€"&à€€à€€GIà€€à€€qoà€€à€€í±€à€€u1à€€à€€å‘€à€€à€€à€€Ò€à€€åˆ–à€€è¬€à€€4#à€€à€€Ç²à€€à€€é€à€€î­€à€€gà€€à€€ÖŠà€€à€€]'à€€à€€k_à€€à€€&[à€€à€€	à€€à€€ë·€à€€Wà€€à€€)Fà€€à€€å¶€à€€ëŸ€à€€~à€€à€€ê€à€€áª€à€€è’™à€€á €à€€.à€€à€€í½€à€€ë¯€à€€í¯€à€€Eà€€à€€yà€€à€€í€à€€~à€€à€€b5à€€à€€~à€€à€€và€€à€€ Và€€à€€ç‡Žà€€è„¹à€€Ï›à€€à€€'à€€à€€ä­€à€€Aà€€à€€â‘€à€€ï²€à€€î¤€à€€B à€€à€€.là€€à€€Î¦à€€à€€J=à€€à€€ç¶´à€€ì£€à€€P?à€€à€€q[à€€à€€f#à€€à€€î¨€à€€â®€à€€ë´€à€€ubà€€à€€î³€à€€åœ‹à€€á¿€à€€saà€€à€€oqà€€à€€@/à€€à€€92à€€à€€è‰€à€€å¶à€€lrà€€à€€ßà€€à€€zZà€€à€€Pgà€€à€€ë¥€à€€%à€€à€€ä¡€à€€gà€€à€€Ryà€€à€€á¸€à€€mvà€€à€€ï³€à€€å‰ƒà€€â†€à€€æ¿€à€€é‹€à€€äŒ€à€€Ä­à€€à€€ "à€€à€€ì˜€à€€7tà€€à€€æ·¨à€€0|à€€à€€KXà€€à€€Èà€€à€€ã”€à€€`%à€€à€€@à€€à€€ieà€€à€€3aà€€à€€æ¾€à€€'Cà€€à€€ã¨€à€€~à€€à€€âš€à€€âƒ€à€€&à€€à€€Ö¹à€€à€€í¿€à€€p^à€€à€€5à€€à€€*à€€à€€è£€à€€ë´€à€€m
+à€€à€€î°€à€€;	à€€à€€<(à€€à€€ã€à€€Ô¤à€€à€€ Wà€€à€€à€€à€€Ù¬à€€à€€î¸€à€€	à€€à€€}à€€à€€à€€à€€Ü’à€€à€€è§€à€€(nà€€à€€á§€à€€åƒ€à€€Wà€€à€€3à€€à€€TQà€€à€€b}à€€à€€zà€€à€€ê™€à€€58à€€à€€\'à€€à€€Ià€€à€€"mà€€à€€ç¿€à€€ã’€à€€4Qà€€à€€Î¨à€€à€€î˜€à€€k1à€€à€€Ø€à€€IIà€€à€€é¹€:à€€à€€2à€€à€€:à€€à€€Ià€€à€€Eà€€à€€îŸ€à€€Î¹à€€à€€ã€à€€Xà€€à€€<à€€à€€á²€à€€O@à€€à€€è§€à€€yà€€à€€é»€à€€;à€€à€€HSà€€à€€S.à€€à€€ï¾€à€€dà€€à€€GYà€€à€€9{à€€à€€52à€€à€€;à€€à€€Ð‚à€€}gà€€à€€ä“€à€€à€€ÞŽà€€.Zà€€à€€îž€à€€	Rà€€à€€Çà€€à€€Fà€€à€€Î™à€€à€€æƒ€à€€ê‡€à€€à€€ã€à€€ä¢€à€€HNà€€à€€<ià€€à€€!kà€€à€€M|à€€à€€Ycà€€à€€á¦€à€€Ä†à€€zEà€€à€€ç¬€à€€Ú‰à€€à€€æ¾à€€é§˜à€€Ò˜Uà€€à€€:à€€à€€1à€€à€€?>à€€à€€l*à€€à€€ãœ€à€€à€€à€€à€€à€€à€€í‚€à€€à€€A.à€€à€€ìƒ€à€€å­€à€€à·€à€€SWà€€à€€ë»€à€€%à€€à€€é¹€à€€Ïšà€€]à€€à€€î•€à€€=à€€à€€]\à€€à€€Kà€€à€€'8à€€à€€Ö©à€€'=à€€à€€éŒ€à€€à€€à€€mà€€à€€éˆ€à€€è™€à€€Zà€€à€€(à€€à€€à€€à€€gMà€€à€€å±€à€€í¸€à€€à€€ë°€à€€à€€=Nà€€à€€q*à€€à€€ê€€à€€ß¢à€€jà€€à€€ìŸ€à€€HRà€€à€€hnà€€à€€R)à€€à€€=zà€€à€€	$à€€à€€^9à€€à€€3dà€€à€€
+à€€à€€n{à€€à€€à¡€à€€à€€aà€€à€€#$à€€à€€Yà€€à€€kvà€€à€€-hà€€à€€Mà€€à€€vjà€€à€€2[à€€à€€à€€à€€d:à€€à€€5/à€€à€€(	à€€à€€|Ià€€à€€Üƒà€€ì”€à€€æ°€à€€7+à€€à€€ä…€à€€à€€í†€à€€æª¢à€€è·à€€ZQà€€à€€.à€€à€€ì±€à€€ë†€à€€ë£€à€€ì´€à€€Ugà€€à€€[à€€à€€è•€à€€Ì¦à€€Ç€à€€^@à€€à€€Xfà€€à€€YOà€€à€€å†€à€€2à€€à€€tkà€€à€€ê¿€à€€à€€),à€€à€€Ù‚à€€à€€y0à€€à€€)à€€à€€>à€€à€€ÓŸà€€Ôà€€à€€É§à€€à€€Pà€€à€€Âà€€à€€fà€€à€€yà€€à€€Eà€€à€€Bà€€à€€4à€€à€€.à€€à€€h:à€€à€€eà€€à€€và€€à€€#Rà€€à€€é¡€à€€à€€I1à€€à€€=8à€€à€€Wrà€€à€€â¹€à€€à€€è…€à€€á§€à€€4à€€à€€éŠ€à€€Ú‡à€€cà€€à€€?à€€à€€ä¥€à€€	à€€à€€é¾œà€€5?à€€à€€ì‘€à€€à€€'zà€€à€€$à€€à€€:Dà€€à€€1à€€à€€í¬€à€€ä €à€€B_à€€à€€zfà€€à€€í€à€€à€€à€€à€€Pà€€à€€â£€à€€ä¨€à€€7à€€à€€Ýµà€€á°€à€€""à€€à€€é¯€à€€ZIà€€à€€ìŽ€à€€à€€çª€à€€È¬à€€bà€€à€€aà€€à€€î€à€€*à€€à€€é´€à€€yPà€€à€€Ô€à€€ä‡€à€€à€€ià€€à€€âˆ€à€€à€€à€€p=à€€à€€Þ©à€€Î›à€€à€€T`à€€à€€Ç’à€€oà€€à€€åˆ‡à€€Å¤à€€à€€pYà€€à€€æ’€à€€à€€bà€€à€€`bà€€à€€í„€à€€à€€Y à€€à€€î‹€à€€ä°€à€€6	à€€à€€cdà€€à€€á¾€à€€è¿«à€€o à€€à€€ì¸€à€€Èƒà€€Ô¨à€€FEà€€à€€é€†à€€ï¾€à€€à€€)Qà€€à€€G	à€€à€€é¶¿à€€
+à€€à€€ÐŸà€€à€€à€€à€€!à€€à€€â‰€à€€×”à€€à€€Kpà€€à€€Ì¥à€€í¡€à€€à€€Ñ€à€€à€€5]à€€à€€dà€€à€€e1à€€à€€Ê‚&à€€à€€ÆŸà€€-Uà€€à€€å§€à€€é¡€à€€à€€}Kà€€à€€4wà€€à€€?à€€à€€à¤€à€€à€€ç·€à€€-aà€€à€€â­€à€€à€€~gà€€à€€á˜€à€€fhà€€à€€ë¿€à€€ä’€à€€ç—€à€€æœ€à€€k=à€€à€€Öžà€€!à€€à€€ä‡€aà€€à€€ë²€à€€â€€à€€Ý½à€€à€€^và€€à€€ãŸ€à€€:à€€à€€85à€€à€€Và€€à€€à€€à€€à€€Oà€€à€€â†€à€€Ò¾à€€åº€à€€Fà€€à€€à€€ê¶€|à€€à€€j/à€€à€€æ€à€€Zà€€à€€î´€à€€æ¯€à€€è„€à€€O#à€€à€€Xà€€à€€wqà€€à€€á€à€€à€€Òà€€â¼€à€€ZEà€€à€€æ¬¾à€€ì©€à€€à€€í¶€à€€@kà€€à€€â¤€à€€å‚€à€€f1à€€à€€C
+à€€à€€ï‡€à€€×«à€€à€€Î—à€€à€€{Yà€€à€€]à€€à€€î€€à€€Õ½à€€
+Ià€€à€€Ú‡à€€(@à€€à€€Âà€€Gà€€à€€á¦€à€€é¡€à€€à€€$à€€à€€y^à€€à€€= à€€à€€Ü›à€€à€€à€€à€€èž¿à€€(;à€€à€€îµ€à€€Eà€€à€€ÚŒà€€à€€é½”à€€æŒ€à€€rà€€à€€Ìà€€à€€áœ€à€€rà€€à€€í†€à€€Æ€à€€à€€Ùƒà€€à€€Ëà€€à€€Eà€€à€€ê”€à€€dà€€à€€Öºà€€Õ»à€€à€€=Nà€€à€€å–€à€€\à€€à€€Ù»à€€à€€åˆ–à€€è¼€à€€î‰€à€€ÅŠà€€à€€é½€à€€Eà€€à€€\dà€€à€€@^à€€à€€^-à€€à€€â‰€à€€à€€à€€9]à€€à€€;yà€€à€€(à€€à€€â€€à€€à€€æ¢€à€€v.à€€à€€_à€€à€€Ó±à€€à€€ä‚€à€€à€€é€à€€	!à€€à€€r)à€€à€€åˆ‡à€€3`à€€à€€ì½€à€€à€€n5à€€à€€î²€à€€å’€à€€Ð€à€€Zcà€€à€€á»€à€€Ö»à€€à€€Ù£à€€í…€à€€s9à€€à€€r9à€€à€€ià€€à€€(5à€€à€€9Eà€€à€€à¬€à€€æ€à€€Hpà€€à€€â£€à€€ã€€à€€h2à€€à€€áƒ€à€€à€€â¾€à€€à€€Mà€€à€€Ì¤à€€@à€€à€€Éªà€€è†à€€-à€€à€€~à€€à€€r^à€€à€€à€€à€€ê¡€à€€?!à€€à€€à³€à€€O2à€€à€€ï®€à€€:à€€à€€Fuà€€à€€!à€€à€€,\à€€à€€\dà€€à€€hà€€à€€`=à€€à€€å»‹à€€æ…€à€€0à€€à€€
+à€€à€€ãž€à€€à€€ßžà€€à€€â¿€à€€à®€à€€P9à€€à€€]à€€à€€Ê—à€€è™€à€€W\à€€à€€Sà€€à€€Õˆà€€â­€à€€à€€Ø€à€€ë‡€à€€>Aà€€à€€W&à€€à€€î¬€à€€ä‡€à€€à€€Î²à€€à€€È à€€à€€æ›€à€€Í¬à€€)à€€à€€|Jà€€à€€{Xà€€à€€è§€à€€è–€à€€ï¬€à€€ã®€à€€ä›€à€€ë›€à€€à€€yqà€€à€€@à€€à¯€à€€à€€Ò˜à€€ì¢€à€€và€€à€€ìŸ€à€€4Rà€€à€€{à€€à€€m*à€€à€€ê¡€à€€6zà€€à€€&*à€€à€€î™€à€€5Mà€€à€€ç§€à€€×‘à€€Yoà€€à€€Ô«à€€à€€ì¸€à€€*Ià€€à€€1à€€à€€7à€€à€€W~à€€à€€æ·¨à€€*à€€à€€swà€€à€€bà€€à€€(à€€à€€ä¦€à€€á €à€€è¬€à€€à€€à€€à€€à€€ëµ€à€€à€€C2à€€à€€ì¾€à€€à€€ï©€à€€}à€€à€€kZà€€à€€	~à€€à€€G=à€€à€€(à€€à€€ã‹€à€€XNà€€à€€æ¬€à€€q5à€€à€€Ïœà€€#à€€à€€Ý“à€€è’€à€€í”€à€€æˆ€à€€auà€€à€€à€€à€€à€€à€€×Šà€€}Sà€€à€€nà€€à€€Ô¡à€€à€€Ð à€€à€€	,à€€à€€}Cà€€à€€A à€€à€€Çªà€€\-à€€à€€È¥à€€ç“€à€€1Mà€€à€€í‰€à€€à€€?à€€à€€â²€à€€à€€d,à€€à€€ì¾€à€€à€€:à€€à€€[à€€à€€$à€€à€€k=à€€à€€kaà€€à€€4à€€à€€â¤€à€€à€€Q/à€€à€€Uià€€à€€àº€à€€à€€æ‡·à€€<à€€à€€Lfà€€à€€å‡ºà€€Îà€€4à€€à€€ë—€à€€BYà€€à€€Xtà€€à€€GFà€€à€€kIà€€à€€Eà€€à€€Úˆà€€tHà€€à€€ç§€à€€èŒ€à€€Ô€à€€|à€€à€€{ à€€à€€6à€€à€€&	à€€à€€Yà€€à€€heà€€à€€Í„à€€ÌŠà€€à€€ã»€à€€Ü‹à€€à€€Nà€€à€€<uà€€à€€i
+à€€à€€à€€à€€Ö€à€€;Tà€€à€€ê €à€€à€€M,à€€à€€Øà€€à€€ì‘€à€€ê’€à€€à€€ä€€à€€=[à€€à€€l5à€€à€€'>à€€à€€Ê±à€€Sà€€à€€ã“€à€€à€€[à€€à€€N^à€€à€€ipà€€à€€(à€€à€€à€€à€€à€€à€€à€€à€€à€€ç®Žà€€$ à€€à€€Yà€€à€€$@à€€à€€ï¿„à€€`à€€à€€äŽ€à€€à€€à€€à€€à€€uà€€à€€â±Šà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€â±Š8à€€à€€à€€à€€à€€à€€â±Šà€€è‹€à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€Là€€à€€Là€€à€€8à€€à€€à€€áŠ€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€à€€ã²±à€€à€€à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€
+à€€pà€€à€€à€€à€€â±à€€à€€à€€
+à€€
+à€€qà€€à€€à€€à€€â±¾à€€à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€ã²±
+à€€à€€à€€
+à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€	à€€à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadlocaleinfostructà€€Uthreadlocaleinfostruct@@à€€áŠ€à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadmbcinfostructà€€Uthreadmbcinfostruct@@à€€á•
+à€€à€€à€€
+à€€*à€€à€€à€€à€€à€€à€€locinfoà€€á•à€€à€€à€€à€€mbcinfoà€€á•à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€â±à€€à€€à€€à€€qà€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_iobufà€€U_iobuf@@à€€á†€à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€î€ƒà€€pà€€à€€à€€à€€_ptrà€€ã²±à€€tà€€à€€à€€à€€_cntà€€á•à€€pà€€à€€à€€_baseà€€à€€tà€€à€€à€€à€€_flagà€€à€€tà€€à€€à€€à€€_fileà€€à€€tà€€à€€à€€à€€_charbufà€€â±ªà€€tà€€à€€à€€à€€_bufsizà€€ã²±à€€pà€€à€€à€€_tmpfnameà€€&à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_iobufà€€U_iobuf@@à€€â±Šà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€áŠ€à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€#à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€%à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€'à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€à€€à€€à€€)à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€+à€€à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€ã²±"à€€à€€à€€à€€à€€à€€à€€quotà€€ã²±à€€à€€à€€à€€à€€remà€€â±à€€à€€à€€.à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€â±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€-à€€à€€à€€à€€à€€0à€€à€€
+à€€à€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€2à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€Aà€€à€€à€€à€€à€€à€€4à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€6à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€à€€à€€8à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€:à€€à€€
+à€€à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€<à€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€>à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€Bà€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€à€€à€€Dà€€à€€
+à€€à€€à€€à€€à€€ã²±à€€Fà€€à€€
+à€€
+à€€à€€à€€à€€Gà€€à€€à€€qà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Jà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€Là€€à€€à€€pà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€pà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Oà€€à€€à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tmà€€Utm@@à€€â±Qà€€à€€
+à€€æ†®à€€tà€€à€€à€€à€€à€€tm_secà€€â±à€€tà€€à€€à€€à€€tm_minà€€â±à€€tà€€à€€à€€à€€tm_hourà€€áž€à€€tà€€à€€à€€à€€tm_mdayà€€áŽ€à€€tà€€à€€à€€à€€tm_monà€€áŠ€à€€tà€€à€€à€€à€€tm_yearà€€áŠ€à€€tà€€à€€à€€à€€tm_wdayà€€Þ€à€€tà€€à€€à€€à€€tm_ydayà€€ã²±à€€tà€€à€€à€€ à€€tm_isdstà€€ã²±	à€€à€€Sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€$à€€tmà€€Utm@@à€€â±Rà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€Rà€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Và€€à€€
+à€€à€€à€€à€€Rà€€à€€à€€à€€à€€à€€à€€à€€à€€Xà€€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Zà€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_stat64i32à€€U_stat64i32@@à€€á•\à€€à€€
+à€€à€€à€€à€€à€€tà€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€^à€€à€€"à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€statà€€Ustat@@à€€ã²±`à€€à€€
+à€€ã²±à€€uà€€à€€à€€à€€à€€st_devà€€â±à€€!à€€à€€à€€à€€st_inoà€€â±à€€!à€€à€€à€€à€€st_modeà€€á•à€€à€€à€€à€€à€€st_nlinkà€€á•à€€à€€à€€à€€
+à€€st_uidà€€á¢€à€€à€€à€€à€€à€€st_gidà€€á®€à€€uà€€à€€à€€à€€st_rdevà€€áŽ€à€€à€€à€€à€€à€€st_sizeà€€â±Šà€€à€€à€€à€€à€€st_atimeà€€ã²±à€€à€€à€€à€€ à€€st_mtimeà€€â±Šà€€à€€à€€à€€(à€€st_ctimeà€€á‚€à€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€statà€€Ustat@@à€€ã²±à€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€_stat64i32à€€U_stat64i32@@à€€â±Šà€€à€€à€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€eà€€à€€
+à€€tà€€à€€à€€à€€â±Šà€€gà€€à€€
+à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€uà€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€ià€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€kà€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€mà€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€áŠ€
+à€€oà€€à€€à€€áŠ€à€€pà€€à€€
+à€€à€€ à€€à€€à€€"à€€à€€à€€à€€à€€ã²±à€€"à€€à€€à€€à€€à€€Data1à€€à€€!à€€à€€à€€à€€Data2à€€à€€!à€€à€€à€€à€€Data3à€€à€€rà€€à€€à€€Data4à€€&à€€à€€à€€sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€á€
+à€€pà€€à€€*à€€à€€à€€à€€à€€uà€€à€€uà€€à€€à€€tà€€à€€à€€à€€à€€à€€và€€à€€
+à€€à€€à€€à€€à€€ã€à€€xà€€à€€
+à€€
+à€€à€€à€€
+à€€
+à€€pà€€à€€à€€à€€ä€à€€{à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€ã²±}à€€à€€
+à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_POOLà€€U_TP_POOL@@à€€ã²±à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CLEANUP_GROUPà€€U_TP_CLEANUP_GROUP@@à€€ê€
+à€€ë€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€â±žà€€
+à€€â±à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ACTIVATION_CONTEXTà€€U_ACTIVATION_CONTEXT@@à€€Ð€
+à€€æ”™à€€
+à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_INSTANCEà€€U_TP_CALLBACK_INSTANCE@@à€€á•
+à€€ç®Žà€€
+à€€à€€à€€à€€à€€é€à€€à€€à€€à€€à€€à€€à€€à€€à€€â€à€€
+à€€á•à€€
+à€€^à€€à€€à€€è¿à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>à€€T<unnamed-type-u>@_TP_CALLBACK_ENVIRON@@à€€ã²±à€€à€€"à€€à€€à€€à€€à€€Versionà€€â±à€€ì€à€€à€€Poolà€€á•à€€í€à€€à€€CleanupGroupà€€ã²±à€€å’©à€€à€€CleanupGroupCancelCallbackà€€í€à€€à€€à€€à€€RaceDllà€€áŠ€à€€ç€à€€à€€ActivationContextà€€à€€Ð€à€€à€€FinalizationCallbackà€€â€à€€à€€ì€à€€<unnamed-type-u>à€€í€à€€ê€…à€€à€€uà€€Bà€€	à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€ï¿¿ï¿¿à€€
+à€€
+à€€ï¿¿à€€
+à€€
+à€€å’©à€€
+à€€
+à€€ç€à€€
+à€€
+à€€â±Šà€€
+à€€
+à€€â±Šà€€
+à€€
+à€€å’©à€€
+à€€â±Šà€€à€€è¿à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>::<unnamed-type-s>à€€U<unnamed-typî¯¾ï€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ã²±ï€€à€€à€€áŠ€ï€€à€€à€€ã²±ïŠ€à€€à€€à€€à€€â±à€€à€€à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€
+à€€pà€€à€€à€€à€€â±¾à€€à€€à€€
+à€€
+à€€qà€€à€€à€€à€€ã²±à€€à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€áŠ€
+à€€à€€à€€
+à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€	à€€à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadlocaleinfostructà€€Uthreadlocaleinfostruct@@à€€á•à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadmbcinfostructà€€Uthreadmbcinfostruct@@à€€á•
+à€€à€€à€€
+à€€*à€€à€€à€€à€€à€€à€€locinfoà€€á•à€€à€€à€€à€€mbcinfoà€€â±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€á†€à€€à€€à€€à€€qà€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_iobufà€€U_iobuf@@à€€ã²±à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€î€ƒà€€pà€€à€€à€€à€€_ptrà€€á•à€€tà€€à€€à€€à€€_cntà€€â±ªà€€pà€€à€€à€€_baseà€€à€€tà€€à€€à€€à€€_flagà€€à€€tà€€à€€à€€à€€_fileà€€à€€tà€€à€€à€€à€€_charbufà€€ã²±à€€tà€€à€€à€€à€€_bufsizà€€â±Šà€€pà€€à€€à€€_tmpfnameà€€&à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_iobufà€€U_iobuf@@à€€áŠ€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€#à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€%à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€'à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€à€€à€€à€€)à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€+à€€à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€ã²±"à€€à€€à€€à€€à€€à€€à€€quotà€€â±à€€à€€à€€à€€à€€remà€€â±à€€à€€à€€.à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€-à€€à€€à€€à€€à€€0à€€à€€
+à€€à€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€2à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€Aà€€à€€à€€à€€à€€à€€4à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€6à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€à€€à€€8à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€:à€€à€€
+à€€à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€<à€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€>à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€Bà€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€à€€à€€Dà€€à€€
+à€€à€€à€€à€€à€€â±à€€Fà€€à€€
+à€€
+à€€à€€à€€à€€Gà€€à€€à€€qà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Jà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€Là€€à€€à€€pà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€pà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Oà€€à€€à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tmà€€Utm@@à€€â±Qà€€à€€
+à€€æ†®à€€tà€€à€€à€€à€€à€€tm_secà€€â±à€€tà€€à€€à€€à€€tm_minà€€áž€à€€tà€€à€€à€€à€€tm_hourà€€áŽ€à€€tà€€à€€à€€à€€tm_mdayà€€áŠ€à€€tà€€à€€à€€à€€tm_monà€€áŠ€à€€tà€€à€€à€€à€€tm_yearà€€Þ€à€€tà€€à€€à€€à€€tm_wdayà€€ã²±à€€tà€€à€€à€€à€€tm_ydayà€€ã²±à€€tà€€à€€à€€ à€€tm_isdstà€€â±	à€€à€€Sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€$à€€tmà€€Utm@@à€€á•Rà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€Rà€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Và€€à€€
+à€€à€€à€€à€€Rà€€à€€à€€à€€à€€à€€à€€à€€à€€Xà€€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Zà€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_stat64i32à€€U_stat64i32@@à€€ã²±\à€€à€€
+à€€à€€à€€à€€à€€tà€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€^à€€à€€"à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€statà€€Ustat@@à€€ã²±`à€€à€€
+à€€â±à€€uà€€à€€à€€à€€à€€st_devà€€â±à€€!à€€à€€à€€à€€st_inoà€€á•à€€!à€€à€€à€€à€€st_modeà€€á•à€€à€€à€€à€€à€€st_nlinkà€€á¢€à€€à€€à€€à€€
+à€€st_uidà€€á®€à€€à€€à€€à€€à€€st_gidà€€áŽ€à€€uà€€à€€à€€à€€st_rdevà€€â±Šà€€à€€à€€à€€à€€st_sizeà€€ã²±à€€à€€à€€à€€à€€st_atimeà€€â±Šà€€à€€à€€à€€ à€€st_mtimeà€€á‚€à€€à€€à€€à€€(à€€st_ctimeà€€ã²±à€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€statà€€Ustat@@à€€â±Šà€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€_stat64i32à€€U_stat64i32@@à€€â±Šà€€à€€à€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€eà€€à€€
+à€€tà€€à€€à€€à€€áŠ€à€€gà€€à€€
+à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€uà€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€ià€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€kà€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€mà€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€áŠ€
+à€€oà€€à€€à€€ã²±à€€pà€€à€€
+à€€à€€ à€€à€€à€€"à€€à€€à€€à€€à€€á€à€€"à€€à€€à€€à€€à€€Data1à€€à€€!à€€à€€à€€à€€Data2à€€à€€!à€€à€€à€€à€€Data3à€€à€€rà€€à€€à€€Data4à€€&à€€à€€à€€sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€ã€
+à€€pà€€à€€*à€€à€€à€€à€€à€€uà€€à€€uà€€à€€à€€tà€€à€€à€€à€€à€€à€€và€€à€€
+à€€à€€à€€à€€à€€ä€à€€xà€€à€€
+à€€
+à€€à€€à€€
+à€€
+à€€pà€€à€€à€€à€€ã²±à€€{à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€ã²±}à€€à€€
+à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_POOLà€€U_TP_POOL@@à€€ê€à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CLEANUP_GROUPà€€U_TP_CLEANUP_GROUP@@à€€ë€
+à€€â±žà€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€â±à€€
+à€€Ð€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ACTIVATION_CONTEXTà€€U_ACTIVATION_CONTEXT@@à€€á•
+à€€æ”™à€€
+à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_INSTANCEà€€U_TP_CALLBACK_INSTANCE@@à€€â€
+à€€ç®Žà€€
+à€€à€€à€€à€€à€€é€à€€à€€à€€à€€à€€à€€à€€à€€à€€á•à€€
+à€€ã²±à€€
+à€€^à€€à€€à€€è¿à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>à€€T<unnamed-type-u>@_TP_CALLBACK_ENVIRON@@à€€â±à€€à€€"à€€à€€à€€à€€à€€Versionà€€ì€à€€á•à€€à€€Poolà€€í€à€€ã²±à€€à€€CleanupGroupà€€í€à€€å’©à€€à€€CleanupGroupCancelCallbackà€€áŠ€à€€à€€à€€à€€RaceDllà€€Ð€à€€ç€à€€à€€ActivationContextà€€à€€â€à€€à€€FinalizationCallbackà€€ì€à€€à€€í€à€€<unnamed-type-u>à€€ê€…à€€ã²±à€€à€€uà€€Bà€€	à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€ã²±â±Šà€€
+à€€
+à€€ê€à€€
+à€€
+à€€å’©à€€
+à€€
+à€€ç€à€€
+à€€
+à€€â±Šà€€
+à€€
+à€€â±®à€€
+à€€
+à€€å’©à€€
+à€€ì€à€€à€€è¿à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>::<unnamed-type-s>à€€U<unnamed-type-s>@<unnamed-type-u>@_TP_CALLBACK_ENVIRON@@à€€á•:à€€à€€"à€€à€€à€€à€€à€€Flagsà€€à€€à€€ç€à€€<unnamed-type-s>à€€í€à€€ç€à€€à€€à€€sà€€^à€€à€€ç®Žà€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>à€€T<unnamed-type-u>@_TP_CALLBACK_ENVIRON@@à€€â±Šà€€ç€à€€
+à€€
+à€€ã²±à€€
+à€€
+à€€"à€€à€€à€€à€€áŠ€à€€"à€€à€€à€€Ð€â±Šà€€à€€â€à€€à€€à€€LongFunctionà€€ã€à€€ä€à€€à€€à€€Privateà€€â€€à€€à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>::<unnamed-type-s>à€€U<unnamed-type-s>@<unnamed-type-u>@_TP_CALLBACK_ENVIRON@@à€€ê€"à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TEBà€€U_TEB@@à€€Ð€ì€à€€
+à€€
+à€€à€€à€€à€€à€€â€à€€Ð€à€€
+à€€à€€à€€à€€à€€áŠ€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€â€à€€à€€à€€à€€à€€yà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€æ”™à€€
+à€€à€€à€€à€€
+á²€
+à€€ç®Žà€€
+à€€
+à€€à€€à€€à€€~à€€à€€à€€à€€à€€à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€~à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€~à€€à€€ã²±à€€å’©à€€à€€à€€à€€à€€à€€à€€à€€î€à€€à€€à€€à€€à€€~à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ã²±à€€6à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagPROPVARIANTà€€UtagPROPVARIANT@@à€€ã²±áŠ€à€€
+à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€_LARGE_INTEGERà€€T_LARGE_INTEGER@@à€€í€à€€à€€Â€à€€à€€à€€à€€à€€_ULARGE_INTEGERà€€T_ULARGE_INTEGER@@à€€ã²±à€€à€€à€€Â€à€€à€€à€€à€€à€€tagCYà€€TtagCY@@à€€ã²±.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_FILETIMEà€€U_FILETIME@@à€€áŠ€
+à€€oà€€à€€
+à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCLIPDATAà€€UtagCLIPDATA@@à€€áŠ€
+à€€é€à€€
+à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagBSTRBLOBà€€UtagBSTRBLOB@@à€€Å*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagBLOBà€€UtagBLOB@@à€€áŠ€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€IUnknownà€€UIUnknown@@à€€Çáª€à€€
+à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€IDispatchà€€UIDispatch@@à€€ã²±
+à€€ï€à€€
+à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€IStreamà€€UIStream@@à€€áª€
+à€€Pà€€à€€
+à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€IStorageà€€UIStorage@@à€€ã²±Dà€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVersionedStreamà€€UtagVersionedStream@@à€€áª€ã²±à€€à€€
+à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagSAFEARRAYà€€UtagSAFEARRAY@@à€€áª€ã²±à€€à€€
+à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACà€€UtagCAC@@à€€áª€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAUBà€€UtagCAUB@@à€€á®€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAIà€€UtagCAI@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAUIà€€UtagCAUI@@à€€áª€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCALà€€UtagCAL@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAULà€€UtagCAUL@@à€€ã²±&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAHà€€UtagCAH@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAUHà€€UtagCAUH@@à€€á¶€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAFLTà€€UtagCAFLT@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCADBLà€€UtagCADBL@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCABOOLà€€UtagCABOOL@@à€€ã²±.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCASCODEà€€UtagCASCODE@@à€€á²€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACYà€€UtagCACY@@à€€ã²±.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCADATEà€€UtagCADATE@@à€€á¦€6à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAFILETIMEà€€UtagCAFILETIME@@à€€áŠ€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACLSIDà€€UtagCACLSID@@à€€ßà€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACLIPDATAà€€UtagCACLIPDATA@@à€€È.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCABSTRà€€UtagCABSTR@@à€€â…ƒ6à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCABSTRBLOBà€€UtagCABSTRBLOB@@à€€ã²±.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCALPSTRà€€UtagCALPSTR@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCALPWSTRà€€UtagCALPWSTR@@à€€ã²±:à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAPROPVARIANTà€€UtagCAPROPVARIANT@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagDECà€€UtagDEC@@à€€á•á•à€€à€€
+à€€
+à€€æ”™à€€
+à€€
+à€€qà€€à€€
+à€€
+à€€î€à€€
+à€€
+à€€à€€à€€
+à€€
+à€€á•à€€à€€
+à€€á•à€€!à€€à€€à€€à€€à€€vtà€€ã²±à€€!à€€à€€à€€à€€wReserved1à€€â±à€€!à€€à€€à€€à€€wReserved2à€€ä€à€€!à€€à€€à€€à€€wReserved3à€€á•à€€pà€€à€€à€€à€€cValà€€ã²±à€€ à€€à€€à€€à€€bValà€€ã²±à€€à€€à€€à€€à€€iValà€€â±à€€!à€€à€€à€€à€€uiValà€€à€€à€€à€€à€€à€€lValà€€á•à€€"à€€à€€à€€à€€ulValà€€à€€tà€€à€€à€€à€€intValà€€á•à€€uà€€à€€à€€à€€uintValà€€ê€à€€â±à€€à€€hValà€€ë€à€€å’©à€€à€€uhValà€€à€€@à€€à€€à€€à€€fltValà€€â±à€€Aà€€à€€à€€à€€dblValà€€ì€à€€à€€à€€à€€à€€boolValà€€á•à€€à€€à€€à€€à€€scodeà€€à€€æ”™à€€à€€cyValà€€à€€Aà€€à€€à€€à€€dateà€€ã²±à€€ç€à€€à€€filetimeà€€â±à€€ç®Žà€€à€€puuidà€€à€€â±à€€à€€pclipdataà€€à€€qà€€à€€à€€bstrValà€€á•à€€Âà€€à€€bstrblobValà€€â±à€€Äà€€à€€blobà€€á•à€€pà€€à€€à€€pszValà€€Æà€€qà€€à€€à€€pwszValà€€á•à€€î€à€€à€€punkValà€€Èà€€à€€à€€à€€pdispValà€€ã²±à€€Éà€€à€€à€€pStreamà€€â±à€€Êà€€à€€à€€pStorageà€€á•à€€Ëà€€à€€à€€pVersionedStreamà€€â±à€€Ìà€€à€€à€€parrayà€€á•à€€Íà€€à€€à€€cacà€€â±à€€Îà€€à€€à€€caubà€€á•à€€Ïà€€à€€à€€caià€€â±à€€Ðà€€à€€à€€cauià€€á•à€€Ñà€€à€€à€€calà€€Òà€€Óà€€à€€à€€caulà€€ã²±à€€Ôà€€à€€à€€cahà€€â±à€€Õà€€à€€à€€cauhà€€á•à€€Öà€€à€€à€€cafltà€€à€€ã²±à€€à€€à€€cadblà€€à€€×à€€à€€à€€caboolà€€ã²±à€€Øà€€à€€à€€cascodeà€€ã²±à€€Ùà€€à€€à€€cacyà€€ã²±à€€Úà€€à€€à€€cadateà€€ã²±à€€Ûà€€à€€à€€cafiletimeà€€ã²±à€€Üà€€à€€à€€cauuidà€€â±à€€Ýà€€à€€à€€caclipdataà€€á•à€€Þà€€à€€à€€cabstrà€€ã²±à€€ã²±à€€à€€à€€cabstrblobà€€â±à€€á•à€€à€€à€€calpstrà€€â±à€€â±à€€à€€à€€calpwstrà€€á•à€€Ð€à€€à€€à€€capropvarà€€à€€pà€€à€€à€€pcValà€€à€€ à€€à€€à€€pbValà€€à€€à€€à€€à€€piValà€€à€€!à€€à€€à€€puiValà€€â±à€€à€€à€€à€€plValà€€à€€"à€€à€€à€€pulValà€€ã²±à€€tà€€à€€à€€pintValà€€á€à€€uà€€à€€à€€puintValà€€ã²±à€€@à€€à€€à€€pfltValà€€â€à€€Aà€€à€€à€€pdblValà€€á•à€€à€€à€€à€€pboolValà€€ã€à€€á•à€€à€€pdecValà€€ä€à€€à€€à€€à€€pscodeà€€â±à€€ã€à€€à€€pcyValà€€â±à€€Aà€€à€€à€€pdateà€€à€€ßà€€à€€pbstrValà€€ã²±à€€á®€à€€à€€ppunkValà€€áŠ€à€€ê€à€€à€€ppdispValà€€à€€å’©à€€à€€pparrayà€€ã²±à€€ì€à€€à€€pvarValà€€âƒƒà€€ã²±à€€à€€à€€à€€decValà€€ã²±6à€€Mà€€à€€æ”™à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagPROPVARIANTà€€UtagPROPVARIANT@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVARIANTà€€UtagVARIANT@@à€€ã²±ç®Žà€€
+à€€à€€à€€à€€à€€é€à€€é€à€€"à€€à€€à€€"à€€à€€à€€à€€à€€à€€à€€à€€à€€á•à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€IRecordInfoà€€UIRecordInfo@@à€€á•
+à€€á•à€€
+à€€ã²±à€€!à€€à€€à€€à€€à€€vtà€€ã²±à€€!à€€à€€à€€à€€wReserved1à€€â±à€€!à€€à€€à€€à€€wReserved2à€€á•à€€!à€€à€€à€€à€€wReserved3à€€â±à€€à€€à€€à€€à€€llValà€€à€€à€€à€€à€€à€€lValà€€â±à€€ à€€à€€à€€à€€bValà€€á•à€€à€€à€€à€€à€€iValà€€Èà€€@à€€à€€à€€à€€fltValà€€ã²±à€€Aà€€à€€à€€à€€dblValà€€ã²±à€€à€€à€€à€€à€€boolValà€€â±à€€à€€à€€à€€à€€scodeà€€à€€æ”™à€€à€€cyValà€€à€€Aà€€à€€à€€à€€dateà€€â±à€€qà€€à€€à€€bstrValà€€á•à€€î€à€€à€€punkValà€€ã²±à€€à€€à€€à€€pdispValà€€á€à€€ã²±à€€à€€à€€parrayà€€â€à€€ à€€à€€à€€pbValà€€à€€à€€à€€à€€piValà€€à€€à€€à€€à€€plValà€€à€€à€€à€€à€€pllValà€€á•à€€@à€€à€€à€€pfltValà€€ã€à€€Aà€€à€€à€€pdblValà€€á•à€€à€€à€€à€€pboolValà€€ä€à€€à€€à€€à€€pscodeà€€â±à€€â±à€€à€€pcyValà€€á•à€€Aà€€à€€à€€pdateà€€à€€ã²±à€€à€€pbstrValà€€ã²±à€€â±à€€à€€ppunkValà€€Ð€à€€â±à€€à€€ppdispValà€€à€€å’©à€€à€€pparrayà€€ã²±à€€é€à€€à€€pvarValà€€ã²±à€€à€€à€€à€€byrefà€€à€€pà€€à€€à€€à€€cValà€€â±à€€!à€€à€€à€€à€€uiValà€€à€€"à€€à€€à€€à€€ulValà€€à€€#à€€à€€à€€à€€ullValà€€â±à€€tà€€à€€à€€à€€intValà€€á•à€€uà€€à€€à€€à€€uintValà€€á•à€€í€à€€à€€pdecValà€€á•à€€pà€€à€€à€€pcValà€€à€€!à€€à€€à€€puiValà€€ßà€€"à€€à€€à€€pulValà€€ã²±à€€#à€€à€€à€€pullValà€€á¦€à€€tà€€à€€à€€pintValà€€áŠ€à€€uà€€à€€à€€puintValà€€Ð€à€€à€€à€€à€€pvRecordà€€ã²±à€€â€à€€à€€pRecInfoà€€áª€à€€ã²±à€€à€€à€€à€€decValà€€ä€.à€€2à€€à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVARIANTà€€UtagVARIANT@@à€€á€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€HWND__à€€UHWND__@@à€€á²€ã²±à€€
+à€€à€€à€€tà€€à€€à€€à€€à€€unusedà€€ì€&à€€à€€à€€í€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€HWND__à€€UHWND__@@à€€â±ªà€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_objectà€€U_object@@à€€ã²±
+à€€á€à€€
+à€€à€€à€€à€€à€€å’©à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€æ”™à€€
+à€€à€€à€€
+à€€
+à€€pà€€à€€
+à€€
+à€€áŽ€à€€
+à€€à€€à€€à€€"à€€à€€à€€à€€à€€áŽ€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_typeobjectà€€U_typeobject@@à€€áŽ€
+à€€á²€à€€
+à€€*à€€à€€tà€€à€€à€€à€€à€€ob_refcntà€€à€€ã²±à€€à€€ob_typeà€€á²€à€€à€€à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_objectà€€U_object@@à€€ã²±à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€uà€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€å’©à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€à€€à€€ã²±à€€à€€"à€€à€€à€€à€€à€€ã²±à€€à€€"à€€à€€à€€à€€à€€á•à€€à€€"à€€à€€à€€à€€à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyModuleDefà€€UPyModuleDef@@à€€â±
+à€€à€€à€€
+à€€à€€à€€à€€à€€	à€€à€€tà€€à€€à€€à€€å’©à€€à€€à€€à€€
+à€€à€€:à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyModuleDef_Baseà€€UPyModuleDef_Base@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyMethodDefà€€UPyMethodDef@@à€€ã²±
+à€€à€€à€€
+à€€
+à€€à€€à€€à€€å’©à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€
+à€€à€€à€€
+à€€à€€à€€à€€à€€å’©à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€
+à€€à€€à€€
+à€€à€€à€€à€€à€€å’©à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€
+à€€à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€à€€à€€
+à€€æ†®à€€à€€à€€à€€à€€m_baseà€€ä€€à€€à€€à€€à€€m_nameà€€ã²±à€€à€€à€€à€€m_docà€€à€€tà€€à€€à€€à€€m_sizeà€€Ð€à€€à€€à€€ à€€m_methodsà€€à€€à€€à€€$à€€m_reloadà€€â±†à€€à€€à€€(à€€m_traverseà€€áº€à€€à€€à€€,à€€m_clearà€€á‚•à€€à€€à€€0à€€m_freeà€€á‚•2à€€	à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€4à€€PyModuleDefà€€UPyModuleDef@@à€€á¶‚Nà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€vc_attributes::PreAttributeà€€UPreAttribute@vc_attributes@@à€€
+à€€à€€à€€
+ã²±à€€	à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€2à€€à€€@ïŽoà€€á•à€€â±ïaybeà€€à€€ï™esà€€ã²±à€€à€€à€€tà€€à€€à€€ à€€à€€vc_attributes::YesNoMaybeà€€W4YesNoMaybe@vc_attributes@@à€€ã²±à€€à€€à€€NoAccessà€€â±à€€à€€Readà€€ã²±à€€à€€Writeà€€à€€à€€ReadWriteà€€Fà€€à€€à€€tà€€à€€à€€"à€€à€€vc_attributes::AccessTypeà€€W4AccessType@vc_attributes@@à€€â±à€€á•à€€à€€PreAttributeà€€ã²±à€€uà€€à€€à€€à€€à€€Derefà€€à€€!à€€à€€à€€Validà€€à€€!à€€à€€à€€Nullà€€á•à€€!à€€à€€à€€Taintedà€€ã²±à€€#à€€à€€à€€Accessà€€â±à€€uà€€à€€à€€à€€ValidElementsConstà€€á•à€€uà€€à€€à€€à€€ValidBytesConstà€€â±à€€à€€à€€à€€ValidElementsà€€à€€à€€à€€ à€€ValidBytesà€€ã²±à€€à€€à€€$à€€ValidElementsLengthà€€ã²±à€€à€€à€€(à€€ValidBytesLengthà€€â€à€€uà€€à€€à€€,à€€WritableElementsConstà€€à€€uà€€à€€à€€0à€€WritableBytesConstà€€ã²±à€€à€€à€€4à€€WritableElementsà€€ã²±à€€à€€à€€8à€€WritableBytesà€€à€€à€€à€€<à€€WritableElementsLengthà€€ã²±à€€à€€à€€@à€€WritableBytesLengthà€€ã²±à€€uà€€à€€à€€Dà€€ElementSizeConstà€€ã²±à€€à€€à€€Hà€€ElementSizeà€€ã²±à€€!à€€à€€Là€€NullTerminatedà€€ã²±à€€à€€à€€Pà€€Conditionà€€Nà€€à€€$à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Tà€€vc_attributes::PreAttributeà€€UPreAttribute@vc_attributes@@à€€à€€à€€à€€à€€å’©à€€å’©à€€à€€å’©à€€à€€à€€à€€&à€€à€€à€€å’©à€€à€€à€€à€€à€€à€€à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€áŠ€à€€ä€à€€à€€pElemsà€€â±.à€€à€€à€€)à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCABSTRà€€UtagCABSTR@@à€€ã²±*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€â±à€€"à€€à€€à€€pElemsà€€ã²±*à€€à€€à€€+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAULà€€UtagCAUL@@à€€áŽ€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€áª€à€€à€€à€€à€€pElemsà€€áŽ€.à€€à€€à€€-à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCASCODEà€€UtagCASCODE@@à€€á¾€(à€€à€€
+à€€Rà€€à€€ä®±à€€à€€à€€ob_baseà€€ì¯¿à€€/à€€à€€à€€m_inità€€á®€à€€tà€€à€€à€€à€€m_indexà€€áŠ€à€€å’©à€€à€€m_copyà€€ê€:à€€à€€à€€0à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyModuleDef_Baseà€€UPyModuleDef_Base@@à€€ã²±"à€€à€€à€€"à€€à€€à€€à€€à€€ì€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagLC_IDà€€UtagLC_ID@@à€€âƒƒ3à€€à€€"à€€à€€à€€$à€€à€€ã²±à€€à€€è¿à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadlocaleinfostruct::<unnamed-type-lc_category>à€€U<unnamed-type-lc_cã²±,zRà€€à€€à€€5q(!æ€Fã²±ç©¾à€€à€€à€€/namesà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Tà€€UtagPROPVARIANT@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVARIANTà€€UtagVARIANT@@à€€á•ç®Žà€€
+à€€à€€à€€à€€à€€é€à€€é€à€€"à€€à€€à€€"à€€à€€à€€à€€à€€à€€à€€à€€à€€á•à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€IRecordInfoà€€UIRecordInfo@@à€€á•
+à€€ã²±à€€
+à€€ã²±à€€!à€€à€€à€€à€€à€€vtà€€â±à€€!à€€à€€à€€à€€wReserved1à€€á•à€€!à€€à€€à€€à€€wReserved2à€€â±à€€!à€€à€€à€€à€€wReserved3à€€â±à€€à€€à€€à€€à€€llValà€€à€€à€€à€€à€€à€€lValà€€á•à€€ à€€à€€à€€à€€bValà€€Èà€€à€€à€€à€€à€€iValà€€ã²±à€€@à€€à€€à€€à€€fltValà€€ã²±à€€Aà€€à€€à€€à€€dblValà€€â±à€€à€€à€€à€€à€€boolValà€€â±à€€à€€à€€à€€à€€scodeà€€à€€æ”™à€€à€€cyValà€€à€€Aà€€à€€à€€à€€dateà€€á•à€€qà€€à€€à€€bstrValà€€ã²±à€€î€à€€à€€punkValà€€á€à€€à€€à€€à€€pdispValà€€ã²±à€€â€à€€à€€à€€parrayà€€á•à€€ à€€à€€à€€pbValà€€à€€à€€à€€à€€piValà€€à€€à€€à€€à€€plValà€€à€€à€€à€€à€€pllValà€€ã€à€€@à€€à€€à€€pfltValà€€á•à€€Aà€€à€€à€€pdblValà€€ä€à€€à€€à€€à€€pboolValà€€â±à€€à€€à€€à€€pscodeà€€â±à€€á•à€€à€€pcyValà€€ã²±à€€Aà€€à€€à€€pdateà€€à€€ã²±à€€à€€pbstrValà€€â±à€€Ð€à€€à€€ppunkValà€€â±à€€ã²±à€€à€€ppdispValà€€à€€å’©à€€à€€pparrayà€€ã²±à€€é€à€€à€€pvarValà€€â±à€€à€€à€€à€€byrefà€€à€€pà€€à€€à€€à€€cValà€€â±à€€!à€€à€€à€€à€€uiValà€€à€€"à€€à€€à€€à€€ulValà€€à€€#à€€à€€à€€à€€ullValà€€á•à€€tà€€à€€à€€à€€intValà€€á•à€€uà€€à€€à€€à€€uintValà€€í€à€€á•à€€à€€pdecValà€€ßà€€pà€€à€€à€€pcValà€€à€€!à€€à€€à€€puiValà€€ã²±à€€"à€€à€€à€€pulValà€€á¦€à€€#à€€à€€à€€pullValà€€áŠ€à€€tà€€à€€à€€pintValà€€Ð€à€€uà€€à€€à€€puintValà€€ã²±à€€à€€à€€à€€pvRecordà€€â€à€€áª€à€€à€€pRecInfoà€€ã²±à€€ä€à€€à€€à€€à€€decValà€€á€.à€€2à€€à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVARIANTà€€UtagVARIANT@@à€€á²€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€HWND__à€€UHWND__@@à€€ã²±ì€à€€
+à€€à€€à€€tà€€à€€à€€à€€à€€unusedà€€í€&à€€à€€à€€â±ªà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€HWND__à€€UHWND__@@à€€ã²±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_objectà€€U_object@@à€€â±Ž
+à€€á¦€à€€
+à€€à€€à€€à€€à€€å’©à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€æ”™à€€
+à€€à€€à€€
+à€€
+à€€pà€€à€€
+à€€
+à€€ã²±à€€
+à€€à€€à€€à€€"à€€à€€à€€à€€à€€â±Šà€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_typeobjectà€€U_typeobject@@à€€â±Š
+à€€áŠ€à€€
+à€€*à€€à€€tà€€à€€à€€à€€à€€ob_refcntà€€à€€Æà€€à€€ob_typeà€€á•à€€à€€à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_objectà€€U_object@@à€€â±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ategory>@threadlocaleinfostruct@@à€€á•à€€5à€€à€€"à€€à€€à€€`à€€à€€â±à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€lconvà€€Ulconv@@à€€á•
+à€€7à€€à€€
+à€€
+à€€!à€€à€€à€€à€€ì€­à€€9à€€à€€
+à€€
+à€€ à€€à€€à€€à€€ã²±à€€;à€€à€€
+à€€6à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€__lc_time_dataà€€U__lc_time_data@@à€€â±=à€€à€€
+à€€ä€¬à€€tà€€à€€à€€à€€à€€refcountà€€ã²±à€€uà€€à€€à€€à€€lc_codepageà€€ã²±à€€uà€€à€€à€€à€€lc_collate_cpà€€à€€2à€€à€€à€€lc_handleà€€à€€4à€€à€€$à€€lc_idà€€à€€à€€5à€€à€€<unnamed-type-lc_category>à€€ì€¬à€€6à€€à€€Hà€€lc_categoryà€€â±à€€tà€€à€€à€€è€¬c_clikeà€€Ä€à€€tà€€à€€à€€ã²±b_cur_maxà€€È€à€€tà€€à€€,conv_intl_refcountà€€ã²±à€€tà€€à€€Ì€conv_num_refcountà€€ã²±à€€tà€€à€€è€¬conv_mon_refcountà€€Ð€à€€8à€€à€€ã²±convà€€à€€tà€€à€€à€€ctype1_refcountà€€Ô€à€€!à€€à€€á†€ctype1à€€Ø€à€€:à€€à€€á¾pctypeà€€ã²±à€€<à€€à€€ã²±pclmapà€€ã²±à€€<à€€à€€ã²±pcumapà€€ã²±à€€>à€€à€€á‚•lc_time_currà€€á‚•à€€?à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€á‚•threadlocaleinfostructà€€Uthreadlocaleinfostruct@@à€€â±‚à€€à€€PARSE_CANONICALIZEà€€â±‚à€€à€€PARSE_FRIENDLYà€€ã²±à€€à€€PARSE_SECURITY_URLà€€á‚•à€€à€€PARSE_ROOTDOCUMENTà€€á‚•à€€à€€PARSE_DOCUMENTà€€ã²±à€€à€€PARSE_ANCHORà€€á‚•à€€à€€PARSE_ENCODEà€€ã²±à€€à€€PARSE_DECODEà€€á‚•à€€	à€€PARSE_PATH_FROM_URLà€€ã²±à€€
+à€€PARSE_URL_FROM_PATHà€€ã²±à€€à€€PARSE_MIMEà€€ã²±à€€à€€PARSE_SERVERà€€ã²±à€€à€€PARSE_SCHEMAà€€Òƒà€€à€€PARSE_SITEà€€ã²±à€€à€€PARSE_DOMAINà€€ã²±à€€à€€PARSE_LOCATIONà€€â±‚à€€à€€PARSE_SECURITY_DOMAINà€€à€€à€€PARSE_ESCAPEà€€â±‚à€€à€€PARSE_UNESCAPEà€€á‚•2à€€à€€à€€tà€€à€€à€€Aà€€à€€_tagPARSEACTIONà€€W4_tagPARSEACTION@@à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€â±‚à€€à€€à€€à€€pElemsà€€á‚•.à€€à€€à€€Cà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCABOOLà€€UtagCABOOL@@à€€ã²±ã²±à€€à€€à€€FEATURE_OBJECT_CACHINGà€€ã²±à€€à€€FEATURE_ZONE_ELEVATIONà€€â±‚à€€à€€FEATURE_MIME_HANDLINGà€€à€€à€€FEATURE_MIME_SNIFFINGà€€à€€à€€FEATURE_WINDOW_RESTRICTIONSà€€ã²±à€€à€€FEATURE_WEBOC_POPUPMANAGEMENTà€€à€€à€€FEATURE_BEHAVIORSà€€à€€à€€FEATURE_DISABLE_MK_PROTOCOLà€€â±‚à€€à€€FEATURE_LOCALMACHINE_LOCKDOWNà€€à€€	à€€FEATURE_SECURITYBANDà€€â±‚à€€
+à€€FEATURE_RESTRICT_ACTIVEXINSTALLà€€â±‚à€€à€€FEATURE_VALIDATE_NAVIGATE_URLà€€à€€à€€FEATURE_RESTRICT_FILEDOWNLOADà€€à€€à€€FEATURE_ADDON_MANAGEMENTà€€â±‚à€€à€€FEATURE_PROTOCOL_LOCKDOWNà€€à€€à€€FEATURE_HTTP_USERNAME_PASSWORD_DISABLEà€€Ò€à€€à€€FEATURE_SAFE_BINDTOOBJECTà€€à€€à€€FEATURE_UNC_SAVEDFILECHECKà€€â±‚à€€à€€FEATURE_GET_URL_DOM_FILEPATH_UNENCODEDà€€á‚•à€€à€€FEATURE_TABBED_BROWSINGà€€á‚•à€€à€€FEATURE_SSLUXà€€à€€à€€FEATURE_DISABLE_NAVIGATION_SOUNDSà€€à€€à€€FEATURE_DISABLE_LEGACY_COMPRESSIONà€€á‚•à€€à€€FEATURE_FORCE_ADDR_AND_STATUSà€€à€€à€€FEATURE_XMLHTTPà€€ã²±à€€à€€FEATURE_DISABLE_TELNET_PROTOCOLà€€ã²±à€€à€€FEATURE_FEEDSà€€à€€à€€FEATURE_BLOCK_INPUT_PROMPTSà€€â±‚à€€à€€FEATURE_ENTRY_COUNTà€€á‚•à€€à€€à€€tà€€à€€à€€Eà€€à€€_tagINTERNETFEATURELISTà€€W4_tagINTERNETFEATURELIST@@à€€ã²±à€€à€€à€€CC_FASTCALLà€€á‚•à€€à€€CC_CDECLà€€á‚•à€€à€€CC_MSCPASCALà€€á‚•à€€à€€CC_PASCALà€€à€€à€€CC_MACPASCALà€€ã²±à€€à€€CC_STDCALLà€€â±‚à€€à€€CC_FPFASTCALLà€€à€€à€€CC_SYSCALLà€€â±‚à€€à€€CC_MPWCDECLà€€â±’à€€à€€CC_MPWPASCALà€€â±Šà€€	à€€CC_MAXà€€ä€€*à€€à€€à€€tà€€à€€à€€Gà€€à€€tagCALLCONVà€€W4tagCALLCONV@@à€€:à€€à€€à€€CIP_DISK_FULLà€€à€€à€€CIP_ACCESS_DENIEDà€€à€€à€€CIP_NEWER_VERSION_EXISTSà€€â±à€€à€€CIP_OLDER_VERSION_EXISTSà€€á•à€€à€€CIP_NAME_CONFLICTà€€à€€à€€CIP_TRUST_VERIFICATION_COMPONENT_MISSINGà€€â±à€€à€€CIP_EXE_SELF_REGISTERATION_TIMEOUTà€€ã²±à€€à€€CIP_UNSAFE_TO_ABORTà€€ã²±à€€à€€CIP_NEED_REBOOTà€€â±à€€	à€€CIP_NEED_REBOOT_UI_PERMISSIONà€€Fà€€
+à€€à€€tà€€à€€à€€Ià€€à€€__MIDL_ICodeInstall_0001à€€W4__MIDL_ICodeInstall_0001@@à€€ã²±à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€vc_attributes::PostAttributeà€€UPostAttribute@vc_attributes@@à€€â±à€€Kà€€à€€
+á•à€€	à€€à€€à€€Kà€€à€€Là€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Jà€€Mà€€à€€PostAttributeà€€ã²±à€€uà€€à€€à€€à€€à€€Derefà€€à€€!à€€à€€à€€Validà€€à€€!à€€à€€à€€Nullà€€á•à€€!à€€à€€à€€Taintedà€€ã²±à€€#à€€à€€à€€Accessà€€â±à€€uà€€à€€à€€à€€ValidElementsConstà€€á•à€€uà€€à€€à€€à€€ValidBytesConstà€€â±à€€à€€à€€à€€ValidElementsà€€à€€à€€à€€ à€€ValidBytesà€€ã²±à€€à€€à€€$à€€ValidElementsLengthà€€â±¦à€€à€€à€€(à€€ValidBytesLengthà€€áª€à€€uà€€à€€à€€,à€€WritableElementsConstà€€à€€uà€€à€€à€€0à€€WritableBytesConstà€€ã²±à€€à€€à€€4à€€WritableElementsà€€ã²±à€€à€€à€€8à€€WritableBytesà€€à€€à€€à€€<à€€WritableElementsLengthà€€ã²±à€€à€€à€€@à€€WritableBytesLengthà€€ã²±à€€uà€€à€€à€€Dà€€ElementSizeConstà€€áª€à€€à€€à€€Hà€€ElementSizeà€€ã²±à€€!à€€à€€Là€€NullTerminatedà€€ã²±à€€!à€€à€€Pà€€MustCheckà€€à€€à€€à€€Tà€€Conditionà€€Rà€€à€€Nà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Xà€€vc_attributes::PostAttributeà€€UPostAttribute@vc_attributes@@à€€áŠ€à€€à€€à€€Cà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAIà€€UtagCAI@@à€€ã²±à€€"à€€à€€à€€à€€à€€cbSizeà€€ã²±à€€ à€€à€€à€€pBlobDataà€€*à€€à€€à€€Qà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagBLOBà€€UtagBLOB@@à€€ã²±*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€ã²±à€€pà€€à€€à€€pElemsà€€ã²±&à€€à€€à€€Sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACà€€UtagCAC@@à€€áª€à€€"à€€à€€à€€à€€à€€cElemsà€€ã²±à€€ç®Žà€€à€€pElemsà€€ê€.à€€à€€à€€Uà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACLSIDà€€UtagCACLSID@@à€€ã²±å’©à€€
+à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€ã²±à€€Wà€€à€€à€€pElemsà€€á‚•*à€€à€€à€€Xà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAUHà€€UtagCAUH@@à€€â±‚*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€â±‚à€€Aà€€à€€à€€pElemsà€€â±‚*à€€à€€à€€Zà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCADBLà€€UtagCADBL@@à€€ã²±à€€"à€€à€€à€€à€€à€€cElemsà€€â±‚à€€ã²±à€€à€€pElemsà€€ë€6à€€à€€à€€\à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACLIPDATAà€€UtagCACLIPDATA@@à€€ã²±î€ƒà€€à€€à€€CHANGEKIND_ADDMEMBERà€€ã²±à€€à€€CHANGEKIND_DELETEMEMBERà€€ã²±à€€à€€CHANGEKIND_SETNAMESà€€â±ªà€€à€€CHANGEKIND_SETDOCUMENTATIONà€€ã²±à€€à€€CHANGEKIND_GENERALà€€ã€à€€à€€CHANGEKIND_INVALIDATEà€€à€€à€€CHANGEKIND_CHANGEFAILEDà€€ã²±à€€à€€CHANGEKIND_MAXà€€á¦€.à€€à€€à€€tà€€à€€à€€^à€€à€€tagCHANGEKINDà€€W4tagCHANGEKIND@@à€€
+à€€á®€à€€
+à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€á‚•à€€`à€€à€€à€€pElemsà€€ã²±6à€€à€€à€€aà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCABSTRBLOBà€€UtagCABSTRBLOB@@à€€á‚•
+à€€#à€€à€€à€€á‚•à€€à€€"à€€à€€à€€à€€à€€cElemsà€€ã²±à€€ã²±à€€à€€pElemsà€€â±‚:à€€à€€à€€dà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAPROPVARIANTà€€UtagCAPROPVARIANT@@à€€â±‚à€€à€€-à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCALà€€UtagCAL@@à€€á‚•à€€à€€à€€IdleShutdownà€€ã²±à€€à€€ForcedShutdownà€€ã²±2à€€à€€à€€tà€€à€€à€€gà€€à€€tagShutdownTypeà€€W4tagShutdownType@@à€€:à€€à€€à€€NODE_INVALIDà€€â±†à€€à€€NODE_ELEMENTà€€í€à€€à€€NODE_ATTRIBUTEà€€ä€€à€€à€€NODE_TEXTà€€à€€à€€NODE_CDATA_SECTIONà€€í€à€€à€€NODE_ENTITY_REFERENCEà€€à€€à€€NODE_ENTITYà€€í€à€€à€€NODE_PROCESSING_INSTRUCTIONà€€í€à€€à€€NODE_COMMENTà€€â±Šà€€	à€€NODE_DOCUMENTà€€à€€
+à€€NODE_DOCUMENT_TYPEà€€í€à€€à€€NODE_DOCUMENT_FRAGMENTà€€í€à€€à€€NODE_NOTATIONà€€2à€€à€€à€€tà€€à€€à€€ià€€à€€tagDOMNodeTypeà€€W4tagDOMNodeType@@à€€í€à€€
+à€€à€€UP
+à€€kà€€à€€
+à€€à€€à€€à€€à€€uà€€à€€zà€€à€€
+à€€í€à€€
+á‘•à€€	à€€à€€à€€á‘•à€€nà€€à€€à€€à€€mà€€à€€à€€à€€à€€à€€à€€	"à€€à€€à€€ã²±à€€nà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€â±ªà€€à€€áŠ€à€€qà€€à€€*à€€
+à€€à€€à€€à€€rà€€à€€à€€	à€€à€€à€€ä€€à€€nà€€à€€à€€sà€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€ã²±à€€nà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€uà€€à€€
+à€€Ñ€à€€*à€€à€€	wà€€à€€á‘€à€€nà€€à€€à€€à€€sà€€à€€à€€à€€à€€à€€và€€	à€€à€€là€€à€€à€€oà€€à€€à€€à€€à€€à€€QueryInterfaceà€€â€à€€pà€€à€€à€€à€€à€€AddRefà€€ã‘€à€€pà€€à€€à€€à€€à€€Releaseà€€à€€và€€à€€IUnknownà€€ã²±xà€€à€€operator=à€€áŠ€à€€à€€&yà€€à€€à€€à€€à€€à€€kà€€à€€à€€IUnknownà€€UIUnknown@@à€€â±Šà€€à€€à€€uà€€à€€
+à€€ï€à€€
+ë‘€à€€	à€€à€€à€€ï€à€€|à€€à€€à€€à€€{à€€à€€à€€à€€à€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ITypeInfoà€€UITypeInfo@@à€€ì‘€
+à€€~à€€à€€
+à€€
+à€€à€€à€€
+à€€à€€à€€à€€à€€uà€€à€€à€€"à€€à€€à€€í‘€à€€à€€	à€€à€€à€€ï€à€€|à€€à€€à€€à€€á‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€í‘€à€€uà€€à€€à€€"à€€à€€à€€à€€à€€à€€	à€€à€€à€€ï€à€€|à€€à€€à€€à€€í€à€€à€€à€€à€€à€€6à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagDISPPARAMSà€€UtagDISPPARAMS@@à€€â±‘
+à€€å‘€à€€
+à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagEXCEPINFOà€€UtagEXCEPINFO@@à€€ã²±ç‘€à€€
+à€€&à€€à€€à€€à€€à€€à€€à€€uà€€à€€"à€€à€€à€€!à€€à€€à€€æ‘€à€€é€à€€è‘€à€€uà€€à€€à€€	à€€à€€à€€ï€à€€|à€€à€€à€€à€€é‘€à€€à€€à€€à€€à€€
+à€€ï€à€€à€€â‘€à€€ä‘€à€€*à€€
+à€€à€€à€€à€€â±‘à€€à€€	à€€à€€à€€ï€à€€|à€€à€€à€€ê‘€à€€à€€à€€à€€à€€à€€	à€€à€€à€€ï€à€€|à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€î‘€à€€à€€à€€ï‘€à€€
+à€€ï€à€€*à€€à€€	á•à€€ï€à€€|à€€à€€à€€à€€Ñ€à€€à€€à€€à€€à€€î€ƒà€€à€€â±‘à€€à€€à€€â‘€à€€}à€€à€€à€€à€€à€€GetTypeInfoCountà€€â±Šà€€â±®à€€à€€à€€à€€GetTypeInfoà€€à€€ã‘€à€€à€€à€€à€€GetIDsOfNamesà€€ä‘€à€€ã²±à€€à€€à€€à€€Invokeà€€ê‡ƒà€€ã²±à€€IDispatchà€€ã²±á‚•à€€operator=à€€ã²±à€€
+à€€à€€UUUPã²±à€€à€€&ã²±à€€à€€à€€à€€à€€â±‚à€€à€€IDispatchà€€UIDispatch@@à€€á‚•ã²±à€€à€€BINDSTATUS_FINDINGRESOURCEà€€â±‚à€€à€€BINDSTATUS_CONNECTINGà€€à€€à€€BINDSTATUS_REDIRECTINGà€€á‚•à€€à€€BINDSTATUS_BEGINDOWNLOADDATAà€€â±‚à€€à€€BINDSTATUS_DOWNLOADINGDATAà€€ã²±à€€à€€BINDSTATUS_ENDDOWNLOADDATAà€€á‚•à€€à€€BINDSTATUS_BEGINDOWNLOADCOMPONENTSà€€á‚•à€€à€€BINDSTATUS_INSTALLINGCOMPONENTSà€€ã²±à€€	à€€BINDSTATUS_ENDDOWNLOADCOMPONENTSà€€â±‚à€€
+à€€BINDSTATUS_USINGCACHEDCOPYà€€á‚•à€€à€€BINDSTATUS_SENDINGREQUESTà€€à€€à€€BINDSTATUS_CLASSIDAVAILABLEà€€â±‚à€€à€€BINDSTATUS_MIMETYPEAVAILABLEà€€â±‚à€€à€€BINDSTATUS_CACHEFILENAMEAVAILABLEà€€à€€à€€BINDSTATUS_BEGINSYNCOPERATIONà€€à€€à€€BINDSTATUS_ENDSYNCOPERATIONà€€â±‚à€€à€€BINDSTATUS_BEGINUPLOADDATAà€€â±‚à€€à€€BINDSTATUS_UPLOADINGDATAà€€ã²±à€€à€€BINDSTATUS_ENDUPLOADDATAà€€á‚•à€€à€€BINDSTATUS_PROTOCOLCLASSIDà€€ã²±à€€à€€BINDSTATUS_ENCODINGà€€â±‚à€€à€€BINDSTATUS_VERIFIEDMIMETYPEAVAILABLEà€€ã²±à€€à€€BINDSTATUS_CLASSINSTALLLOCATIONà€€ã²±à€€à€€BINDSTATUS_DECODINGà€€á‚•à€€à€€BINDSTATUS_LOADINGMIMEHANDLERà€€à€€à€€BINDSTATUS_CONTENTDISPOSITIONATTACHà€€â±‚à€€à€€BINDSTATUS_FILTERREPORTMIMETYPEà€€ã²±à€€à€€BINDSTATUS_CLSIDCANINSTANTIATEà€€ã²±à€€à€€BINDSTATUS_IUNKNOWNAVAILABLEà€€ã²±à€€à€€BINDSTATUS_DIRECTBINDà€€à€€ã²±à€€BINDSTATUS_RAWMIMETYPEà€€ã²±à€€ à€€BINDSTATUS_PROXYDETECTINGà€€à€€!à€€BINDSTATUS_ACCEPTRANGESà€€ã²±à€€"à€€BINDSTATUS_COOKIE_SENTà€€â±‚à€€#à€€BINDSTATUS_COMPACT_POLICY_RECEIVEDà€€á‚•à€€$à€€BINDSTATUS_COOKIE_SUPPRESSEDà€€â±‚à€€%à€€BINDSTATUS_COOKIE_STATE_UNKNOWNà€€â±®à€€&à€€BINDSTATUS_COOKIE_STATE_ACCEPTà€€ã²±à€€'à€€BINDSTATUS_COOKIE_STATE_REJECTà€€ã²±à€€(à€€BINDSTATUS_COOKIE_STATE_PROMPTà€€á¶€à€€)à€€BINDSTATUS_COOKIE_STATE_LEASHà€€à€€*à€€BINDSTATUS_COOKIE_STATE_DOWNGRADEà€€à€€+à€€BINDSTATUS_POLICY_HREFà€€ã²±à€€,à€€BINDSTATUS_P3P_HEADERà€€à€€-à€€BINDSTATUS_SESSION_COOKIE_RECEIVEDà€€ê‘€à€€.à€€BINDSTATUS_PERSISTENT_COOKIE_RECEIVEDà€€à€€/à€€BINDSTATUS_SESSION_COOKIES_ALLOWEDà€€ã²±à€€0à€€BINDSTATUS_CACHECONTROLà€€ä€à€€1à€€BINDSTATUS_CONTENTDISPOSITIONFILENAMEà€€à€€2à€€BINDSTATUS_MIMETEXTPLAINMISMATCHà€€ã²±à€€3à€€BINDSTATUS_PUBLISHERAVAILABLEà€€à€€4à€€BINDSTATUS_DISPLAYNAMEAVAILABLEà€€ì‘€à€€5à€€BINDSTATUS_SSLUX_NAVBLOCKEDà€€ã²±à€€5à€€à€€tà€€à€€à€€æ‘€à€€tagBINDSTATUSà€€W4tagBINDSTATUS@@à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€í‘€à€€@à€€à€€à€€pElemsà€€á®€*à€€à€€à€€è‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAFLTà€€UtagCAFLT@@à€€â±à€€"à€€à€€à€€à€€à€€dwLowDateTimeà€€à€€"à€€à€€à€€à€€dwHighDateTimeà€€Â.à€€à€€à€€â±¾à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_FILETIMEà€€U_FILETIME@@à€€áŠ€
+à€€ã²±à€€
+à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€ã²±à€€ã²±à€€à€€pElemsà€€ã²±&à€€à€€à€€á•à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAHà€€UtagCAH@@à€€á•à€€oà€€à€€à€€à€€guidVersionà€€á•à€€á•à€€à€€à€€pStreamà€€ã²±à€€à€€à€€ï‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVersionedStreamà€€UtagVersionedStream@@à€€â±Mà€€æ”™à€€à€€tagPROPVARIANT::<unnamed-tag>à€€T<unnamed-tag>@tagPROPVARIANT@@à€€î…ƒà€€!à€€à€€à€€à€€à€€vtà€€ä€à€€!à€€à€€à€€à€€wReserved1à€€á•à€€!à€€à€€à€€à€€wReserved2à€€ã²±à€€!à€€à€€à€€à€€wReserved3à€€ã²±à€€pà€€à€€à€€à€€cValà€€â±à€€ à€€à€€à€€à€€bValà€€á•à€€à€€à€€à€€à€€iValà€€á•à€€!à€€à€€à€€à€€uiValà€€à€€à€€à€€à€€à€€lValà€€ê€à€€"à€€à€€à€€à€€ulValà€€à€€tà€€à€€à€€à€€intValà€€â±à€€uà€€à€€à€€à€€uintValà€€ë€à€€â±à€€à€€hValà€€ì€à€€å’©à€€à€€uhValà€€à€€@à€€à€€à€€à€€fltValà€€á•à€€Aà€€à€€à€€à€€dblValà€€ã²±à€€à€€à€€à€€à€€boolValà€€â±à€€à€€à€€à€€à€€scodeà€€à€€æ”™à€€à€€cyValà€€à€€Aà€€à€€à€€à€€dateà€€â±à€€ç€à€€à€€filetimeà€€á•à€€ç®Žà€€à€€puuidà€€à€€Âà€€à€€pclipdataà€€à€€qà€€à€€à€€bstrValà€€â±à€€Äà€€à€€bstrblobValà€€á•à€€Æà€€à€€blobà€€á•à€€pà€€à€€à€€pszValà€€Èà€€qà€€à€€à€€pwszValà€€ã²±à€€î€à€€à€€punkValà€€Éà€€à€€à€€à€€pdispValà€€â±à€€Êà€€à€€à€€pStreamà€€á•à€€Ëà€€à€€à€€pStorageà€€â±à€€Ìà€€à€€à€€pVersionedStreamà€€á•à€€Íà€€à€€à€€parrayà€€â±à€€Îà€€à€€à€€cacà€€á•à€€Ïà€€à€€à€€caubà€€â±à€€Ðà€€à€€à€€caià€€á•à€€Ñà€€à€€à€€cauià€€Òà€€Óà€€à€€à€€calà€€ã²±à€€Ôà€€à€€à€€caulà€€â±à€€Õà€€à€€à€€cahà€€á•à€€Öà€€à€€à€€cauhà€€ã²±à€€×à€€à€€à€€cafltà€€à€€ã²±à€€à€€à€€cadblà€€à€€Øà€€à€€à€€caboolà€€ã²±à€€Ùà€€à€€à€€cascodeà€€ã²±à€€Úà€€à€€à€€cacyà€€ã²±à€€Ûà€€à€€à€€cadateà€€ã²±à€€Üà€€à€€à€€cafiletimeà€€â±à€€Ýà€€à€€à€€cauuidà€€á•à€€Þà€€à€€à€€caclipdataà€€ã²±à€€ã²±à€€à€€à€€cabstrà€€â±à€€á•à€€à€€à€€cabstrblobà€€â±à€€â±à€€à€€à€€calpstrà€€á•à€€Ð€à€€à€€à€€calpwstrà€€â±à€€ã²±à€€à€€à€€capropvarà€€à€€pà€€à€€à€€pcValà€€à€€ à€€à€€à€€pbValà€€à€€à€€à€€à€€piValà€€à€€!à€€à€€à€€puiValà€€á€à€€à€€à€€à€€plValà€€à€€"à€€à€€à€€pulValà€€ã²±à€€tà€€à€€à€€pintValà€€â€à€€uà€€à€€à€€puintValà€€á•à€€@à€€à€€à€€pfltValà€€ã€à€€Aà€€à€€à€€pdblValà€€á•à€€à€€à€€à€€pboolValà€€ä€à€€â±à€€à€€pdecValà€€ã€à€€à€€à€€à€€pscodeà€€â±¢à€€â‘€à€€à€€pcyValà€€á•à€€Aà€€à€€à€€pdateà€€à€€á•à€€à€€pbstrValà€€á•à€€á•à€€à€€ppunkValà€€ã²±à€€â±à€€à€€ppdispValà€€à€€å’©à€€à€€pparrayà€€ä€à€€á•à€€à€€pvarValà€€ã²±à€€Là€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagPROPVARIANT::<unnamed-tag>::<unnamed-tag>à€€U<unnamed-tag>@0tagPROPVARIANT@@à€€Fà€€pà€€à€€à€€à€€à€€cValà€€â±à€€ à€€à€€à€€à€€à€€bValà€€á•à€€à€€à€€à€€à€€à€€iValà€€á•à€€!à€€à€€à€€à€€à€€uiValà€€à€€à€€à€€à€€à€€à€€lValà€€ê€à€€"à€€à€€à€€à€€à€€ulValà€€à€€tà€€à€€à€€à€€à€€intValà€€â±à€€uà€€à€€à€€à€€à€€uintValà€€ë€à€€â±à€€à€€à€€hValà€€ì€à€€å’©à€€à€€à€€uhValà€€à€€@à€€à€€à€€à€€à€€fltValà€€á•à€€Aà€€à€€à€€à€€à€€dblValà€€ã²±à€€à€€à€€à€€à€€à€€boolValà€€â±à€€à€€à€€à€€à€€à€€scodeà€€à€€æ”™à€€à€€à€€cyValà€€à€€Aà€€à€€à€€à€€à€€dateà€€â±à€€ç€à€€à€€à€€filetimeà€€á•à€€ç®Žà€€à€€à€€puuidà€€à€€Âà€€à€€à€€pclipdataà€€à€€qà€€à€€à€€à€€bstrValà€€â±à€€Äà€€à€€à€€bstrblobValà€€á•à€€Æà€€à€€à€€blobà€€á•à€€pà€€à€€à€€à€€pszValà€€Èà€€qà€€à€€à€€à€€pwszValà€€ã²±à€€î€à€€à€€à€€punkValà€€Éà€€à€€à€€à€€à€€pdispValà€€â±à€€Êà€€à€€à€€à€€pStreamà€€á•à€€Ëà€€à€€à€€à€€pStorageà€€â±à€€Ìà€€à€€à€€à€€pVersionedStreamà€€á•à€€Íà€€à€€à€€à€€parrayà€€â±à€€Îà€€à€€à€€à€€cacà€€á•à€€Ïà€€à€€à€€à€€caubà€€â±à€€Ðà€€à€€à€€à€€caià€€á•à€€Ñà€€à€€à€€à€€cauià€€Òà€€Óà€€à€€à€€à€€calà€€ã²±à€€Ôà€€à€€à€€à€€caulà€€â±à€€Õà€€à€€à€€à€€cahà€€á•à€€Öà€€à€€à€€à€€cauhà€€ã²±à€€×à€€à€€à€€à€€cafltà€€à€€ã²±à€€à€€à€€à€€cadblà€€à€€Øà€€à€€à€€à€€caboolà€€ã²±à€€Ùà€€à€€à€€à€€cascodeà€€ã²±à€€Úà€€à€€à€€à€€cacyà€€ã²±à€€Ûà€€à€€à€€à€€cadateà€€ã²±à€€Üà€€à€€à€€à€€cafiletimeà€€â±à€€Ýà€€à€€à€€à€€cauuidà€€á•à€€Þà€€à€€à€€à€€caclipdataà€€ã²±à€€ã²±à€€à€€à€€à€€cabstrà€€â±à€€á•à€€à€€à€€à€€cabstrblobà€€â±à€€â±à€€à€€à€€à€€calpstrà€€á•à€€Ð€à€€à€€à€€à€€calpwstrà€€â±à€€ã²±à€€à€€à€€à€€capropvarà€€à€€pà€€à€€à€€à€€pcValà€€à€€ à€€à€€à€€à€€pbValà€€à€€à€€à€€à€€à€€piValà€€à€€!à€€à€€à€€à€€puiValà€€á€à€€à€€à€€à€€à€€plValà€€à€€"à€€à€€à€€à€€pulValà€€ã²±à€€tà€€à€€à€€à€€pintValà€€â€à€€uà€€à€€à€€à€€puintValà€€á•à€€@à€€à€€à€€à€€pfltValà€€ã€à€€Aà€€à€€à€€à€€pdblValà€€á•à€€à€€à€€à€€à€€pboolValà€€ä€à€€â±à€€à€€à€€pdecValà€€ã€à€€à€€à€€à€€à€€pscodeà€€â±ªà€€ä‘€à€€à€€à€€pcyValà€€á•à€€Aà€€à€€à€€à€€pdateà€€à€€á¾€à€€à€€à€€pbstrValà€€ã²±à€€ä€€à€€à€€à€€ppunkValà€€ê‘€à€€ê‘€à€€à€€à€€ppdispValà€€à€€å’©à€€à€€à€€pparrayà€€ì‘€à€€â±Šà€€à€€à€€pvarValà€€ê‘€à€€Hà€€Ñ€à€€à€€tagPROPVARIANT::<unnamed-tag>::<unnamed-tag>::<unnamed-tag>à€€T<unnamed-tag>@00tagPROPVARIANT@@à€€>à€€à€€!à€€à€€à€€à€€à€€wLanguageà€€à€€!à€€à€€à€€à€€wCountryà€€ê‘€à€€!à€€à€€à€€à€€wCodePageà€€*à€€à€€à€€æ‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagLC_IDà€€UtagLC_ID@@à€€á‘€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ISequentialStreamà€€UISequentialStream@@à€€â‘€à€€à€€à€€à€€à€€à€€"à€€à€€à€€"à€€à€€
+à€€è‘€à€€
+ä‘€à€€	à€€à€€à€€è‘€à€€ê‘€à€€à€€à€€é‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€"à€€à€€à€€	à€€à€€à€€è‘€à€€Ñ€à€€à€€à€€í€à€€à€€à€€à€€à€€
+à€€è‘€à€€à€€â±‘à€€î‘€à€€*à€€
+à€€à€€à€€à€€ï‘€à€€à€€	à€€à€€à€€è‘€à€€ë‘€à€€à€€ã²±à€€à€€à€€à€€à€€à€€	à€€à€€à€€è‘€à€€í‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€â±à€€à€€à€€ã‘€à€€
+à€€è‘€à€€*à€€à€€	â±‘à€€è‘€à€€â±Šà€€à€€à€€ã²±à€€à€€à€€à€€à€€fà€€à€€à€€ã²±à€€à€€à€€ä€à€€ä€€à€€à€€à€€à€€Readà€€ê‘€à€€ê‘€à€€à€€à€€à€€Writeà€€ì‘€à€€Âà€€ISequentialStreamà€€ê‘€å‘€à€€operator=à€€ê‘€à€€
+à€€à€€UUPê‘€>à€€à€€&æ‘€à€€à€€à€€à€€à€€ç‘€à€€à€€ISequentialStreamà€€UISequentialStream@@à€€ê‘€à€€à€€à€€à€€áŠ€à€€"à€€à€€à€€Wà€€à€€
+à€€Pà€€à€€
+Å‘à€€	à€€à€€à€€Pà€€à€€Æ‘à€€à€€à€€é‘€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€å’©à€€à€€	à€€à€€à€€Pà€€à€€ê‘€à€€à€€à€€Ç‘à€€à€€à€€à€€à€€à€€à€€à€€à€€Âà€€à€€å’©à€€Wà€€à€€Wà€€à€€à€€	à€€à€€à€€Pà€€à€€É‘à€€à€€à€€î‘€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€"à€€à€€à€€à€€	à€€à€€à€€Pà€€à€€ê‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Pà€€à€€Ê‘à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€å’©à€€å’©à€€"à€€à€€à€€à€€	à€€à€€à€€Pà€€à€€â±Šà€€à€€à€€Nà€€à€€à€€à€€à€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagSTATSTGà€€UtagSTATSTG@@à€€Ì‘Í‘à€€à€€
+à€€à€€à€€à€€à€€ê‘€à€€à€€"à€€à€€à€€à€€	à€€à€€à€€Pà€€à€€ê‘€à€€à€€à€€Ï‘à€€à€€à€€à€€à€€à€€
+à€€Ð‘à€€à€€
+à€€
+à€€à€€à€€à€€Ò‘à€€à€€à€€	à€€à€€à€€Pà€€à€€ê‘€à€€à€€à€€â€ƒà€€à€€à€€à€€à€€à€€
+à€€Pà€€à€€à€€â±‘à€€ë‘€à€€à€€*à€€
+à€€à€€à€€à€€ã²±à€€à€€à€€	à€€à€€à€€Pà€€à€€í‘€à€€à€€Î‘à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Pà€€à€€á‘•à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€á‘•à€€à€€à€€à€€Â‘à€€à€€
+à€€Pà€€à€€*à€€à€€	á‘•à€€à€€Pà€€à€€Ä‘à€€à€€à€€Î‘à€€à€€à€€à€€à€€à€€á‘•à€€à€€è‘€à€€à€€à€€Ä‘à€€ã²±à€€à€€à€€à€€Seekà€€È‘à€€ã²±à€€à€€à€€à€€SetSizeà€€à€€ï‘€à€€à€€à€€à€€CopyToà€€Ë‘à€€Qà€€à€€ à€€à€€à€€Commità€€â±à€€Ñ‘à€€à€€$à€€à€€à€€Revertà€€Ó‘à€€â±Žà€€à€€(à€€à€€à€€LockRegionà€€ã²±à€€Ô‘à€€à€€,à€€à€€à€€UnlockRegionà€€Õ‘à€€ã²±à€€à€€0à€€à€€à€€Statà€€ã²±à€€×‘à€€à€€4à€€à€€à€€Cloneà€€Ø‘à€€Ù‘à€€à€€IStreamà€€ä€€à€€à€€operator=à€€Û‘à€€
+à€€à€€UUUUUUUÚ‘*à€€à€€&ã²±à€€à€€à€€à€€à€€à€€Ý‘à€€à€€à€€IStreamà€€UIStream@@à€€Þ‘2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagTYPEATTRà€€UtagTYPEATTR@@à€€ß‘
+à€€Û‘à€€à€€
+à€€
+à€€Ñ€à€€à€€
+à€€
+à€€à€€à€€à€€ã²±à€€à€€
+à€€~à€€à€€
+â‘€à€€	à€€à€€à€€~à€€à€€ã‘€à€€à€€à€€à€€ä‘€à€€à€€à€€à€€à€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ITypeCompà€€UITypeComp@@à€€Û‘
+à€€áŠ€à€€à€€
+à€€
+à€€Û‘à€€à€€
+à€€
+à€€à€€à€€à€€ê‘€à€€à€€à€€	à€€à€€à€€~à€€à€€â€à€€à€€à€€à€€Û‘à€€à€€à€€à€€à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagFUNCDESCà€€UtagFUNCDESC@@à€€ì‘€
+à€€Û‘à€€
+à€€
+à€€Û‘à€€
+à€€à€€à€€à€€à€€uà€€à€€à€€Ñ€à€€à€€	à€€à€€à€€~à€€à€€â€à€€à€€à€€à€€å‘€à€€à€€à€€à€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVARDESCà€€UtagVARDESC@@à€€Û‘ç‘€à€€
+à€€
+à€€è‘€à€€
+à€€à€€à€€à€€à€€uà€€à€€à€€é‘€à€€à€€	à€€à€€à€€~à€€à€€â‘€à€€à€€à€€à€€Û‘à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ä‘€à€€uà€€à€€à€€uà€€à€€à€€	à€€à€€à€€~à€€à€€â€à€€à€€à€€à€€â€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€"à€€à€€à€€	à€€à€€à€€~à€€à€€â€à€€à€€à€€à€€î‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€tà€€à€€à€€	à€€à€€à€€~à€€à€€Û‘à€€à€€à€€à€€â±‚à€€à€€à€€à€€à€€à€€à€€à€€à€€ã²±à€€uà€€à€€à€€à€€à€€à€€	à€€à€€à€€~à€€à€€ã²±à€€à€€à€€à€€â€à€€à€€à€€à€€à€€"à€€à€€à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€æ‘€à€€é€à€€è‘€à€€uà€€à€€à€€	à€€à€€à€€~à€€à€€â€à€€à€€à€€à€€Û‘à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ê‘€à€€Ñ€à€€"à€€à€€Û‘à€€à€€	à€€à€€à€€~à€€à€€ì‘€à€€à€€à€€à€€æ‘€à€€à€€à€€à€€à€€jà€€à€€à€€INVOKE_FUNCà€€Û‘à€€à€€INVOKE_PROPERTYGETà€€Û‘à€€à€€INVOKE_PROPERTYPUTà€€â€à€€à€€INVOKE_PROPERTYPUTREFà€€.à€€à€€à€€tà€€à€€à€€è‘€à€€tagINVOKEKINDà€€W4tagINVOKEKIND@@à€€à€€à€€à€€à€€à€€à€€à€€é‘€à€€Û‘à€€áŠ€à€€!à€€à€€à€€	à€€à€€à€€~à€€à€€Û‘à€€à€€à€€à€€Ø‘à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€Û‘à€€à€€	à€€à€€à€€~à€€à€€ã‘€à€€à€€à€€à€€Û‘à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€é‘€à€€zà€€à€€à€€	à€€à€€à€€~à€€à€€Û‘à€€à€€à€€à€€î‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€î€à€€uà€€à€€zà€€à€€à€€	à€€à€€à€€~à€€à€€â±Šà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Û‘à€€à€€	à€€à€€à€€~à€€à€€Û‘à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ITypeLibà€€UITypeLib@@à€€Û‘à€€à€€
+à€€
+à€€à€€à€€
+à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€	à€€à€€à€€~à€€à€€í€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€â±‘à€€à€€à€€	à€€à€€à€€~à€€à€€Ü‘à€€à€€à€€à€€	à€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€á‘€à€€à€€	à€€à€€à€€~à€€à€€ë‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€è‘€à€€à€€	à€€à€€à€€~à€€à€€á‘•à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€~à€€à€€à€€í‘€à€€à€€à€€*à€€
+à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€~à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€~à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€~à€€à€€*à€€à€€	à€€à€€~à€€à€€á‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€:à€€à€€ã²±à€€à€€à€€ã‘€à€€â±‘à€€à€€à€€à€€à€€GetTypeAttrà€€à€€á‘•à€€à€€à€€à€€GetTypeCompà€€à€€æ‘€à€€à€€à€€à€€GetFuncDescà€€à€€ã²±à€€à€€à€€à€€GetVarDescà€€ë‘€à€€í‘€à€€à€€à€€à€€GetNamesà€€á‘•à€€ï‘€à€€ à€€à€€à€€GetRefTypeOfImplTypeà€€á‘•à€€ã²±à€€$à€€à€€à€€GetImplTypeFlagsà€€á•à€€â±‘à€€(à€€à€€à€€GetIDsOfNamesà€€â±’à€€å‘€à€€,à€€à€€à€€Invokeà€€ã²±à€€ç‘€à€€0à€€à€€à€€GetDocumentationà€€ã²±à€€ã²±à€€4à€€à€€à€€GetDllEntryà€€à€€ã²±à€€8à€€à€€à€€GetRefTypeInfoà€€áª€à€€ï‘€à€€<à€€à€€à€€AddressOfMemberà€€à€€à€€à€€@à€€à€€à€€CreateInstanceà€€ã²±à€€à€€à€€Dà€€à€€à€€GetMopsà€€à€€à€€à€€Hà€€à€€à€€GetContainingTypeLibà€€á€à€€
+à€€à€€Là€€à€€à€€ReleaseTypeAttrà€€à€€à€€à€€Pà€€à€€à€€ReleaseFuncDescà€€à€€à€€à€€Tà€€à€€à€€ReleaseVarDescà€€ã²±à€€à€€à€€ITypeInfoà€€ã²±à€€à€€operator=à€€ã²±à€€
+à€€à€€UUUUUUUUUUUÉ‘.à€€à€€&à€€à€€à€€à€€à€€à€€à€€à€€à€€ITypeInfoà€€UITypeInfo@@à€€ä€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€É‘à€€é€à€€à€€pElemsà€€Ä.à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCALPSTRà€€UtagCALPSTR@@à€€Äà€€"à€€à€€à€€à€€à€€cElemsà€€â€à€€â€à€€à€€pElemsà€€Ä*à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCACYà€€UtagCACY@@à€€Ä2à€€à€€à€€)à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCALPWSTRà€€UtagCALPWSTR@@à€€áŠ€à€€à€€à€€à€€à€€à€€"à€€à€€à€€"à€€à€€à€€"à€€à€€à€€â±Šà€€à€€
+à€€Dà€€à€€
+Ç‘à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€â±Šà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€"à€€à€€à€€í€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€"à€€à€€à€€à€€à€€à€€
+à€€â±‘à€€à€€
+à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€"à€€à€€à€€"à€€à€€à€€$à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€%à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ã²±à€€à€€"à€€à€€à€€á‘•à€€"à€€à€€à€€$à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€'à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€qà€€à€€â±‘à€€á‘•à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€)à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€â±‘à€€à€€à€€à€€"à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€+à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€IEnumSTATSTGà€€UIEnumSTATSTG@@à€€á‘•/à€€à€€
+à€€
+à€€0à€€à€€
+à€€à€€à€€à€€à€€"à€€à€€à€€à€€à€€"à€€à€€à€€1à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€2à€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€4à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€+à€€à€€à€€à€€à€€à€€
+à€€ç€à€€à€€á‘•à€€7à€€à€€
+à€€à€€à€€à€€à€€à€€à€€8à€€à€€8à€€à€€8à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€9à€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€uà€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€;à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€"à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€=à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€à€€
+à€€Dà€€à€€à€€á‘•à€€@à€€à€€*à€€
+à€€à€€à€€à€€Aà€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€Bà€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€Dà€€à€€ à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Cà€€à€€à€€à€€Dà€€à€€
+à€€Dà€€à€€*à€€à€€	Fà€€à€€Dà€€à€€ à€€à€€à€€à€€Bà€€à€€à€€à€€à€€à€€îƒà€€à€€â±‘à€€à€€à€€ã²±à€€!à€€à€€à€€à€€à€€CreateStreamà€€ã²±à€€#à€€à€€à€€à€€à€€OpenStreamà€€ã²±à€€&à€€à€€à€€à€€à€€CreateStorageà€€ã²±à€€(à€€à€€à€€à€€à€€OpenStorageà€€à€€*à€€à€€à€€à€€à€€CopyToà€€â±Žà€€,à€€à€€ à€€à€€à€€MoveElementToà€€áª€à€€-à€€à€€$à€€à€€à€€Commità€€áª€à€€.à€€à€€(à€€à€€à€€Revertà€€ã²±à€€3à€€à€€,à€€à€€à€€EnumElementsà€€ã²±à€€5à€€à€€0à€€à€€à€€DestroyElementà€€ã²±à€€6à€€à€€4à€€à€€à€€RenameElementà€€ã²±à€€:à€€à€€8à€€à€€à€€SetElementTimesà€€à€€<à€€à€€<à€€à€€à€€SetClassà€€áº€à€€>à€€à€€@à€€à€€à€€SetStateBitsà€€ã²±à€€?à€€à€€Dà€€à€€à€€Statà€€ã²±à€€Eà€€à€€IStorageà€€ã²±Gà€€à€€operator=à€€áŠ€à€€
+à€€à€€UUUUUUUUUâ±²à€€&Hà€€à€€à€€à€€à€€à€€Ià€€à€€à€€IStorageà€€UIStorage@@à€€â±‚à€€"à€€à€€à€€à€€à€€cElemsà€€á‚•à€€!à€€à€€à€€pElemsà€€á‚•*à€€à€€à€€Kà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAUIà€€UtagCAUI@@à€€á¶€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagSAFEARRAYBOUNDà€€UtagSAFEARRAYBOUND@@à€€â±–à€€Mà€€à€€"à€€à€€à€€à€€à€€á•à€€!à€€à€€à€€à€€à€€cDimsà€€à€€!à€€à€€à€€à€€fFeaturesà€€à€€"à€€à€€à€€à€€cbElementsà€€á•à€€"à€€à€€à€€à€€cLocksà€€ã²±à€€à€€à€€à€€pvDataà€€â±à€€Nà€€à€€à€€rgsaboundà€€2à€€à€€à€€Oà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagSAFEARRAYà€€UtagSAFEARRAY@@à€€á•!à€€à€€à€€á®€à€€à€€à€€PSU_DEFAULTà€€áš€à€€à€€PSU_SECURITY_URL_ONLYà€€.à€€à€€à€€tà€€à€€à€€Rà€€à€€_tagPSUACTIONà€€W4_tagPSUACTION@@à€€jà€€à€€à€€à€€Uri_HOST_UNKNOWNà€€ã²±à€€à€€Uri_HOST_DNSà€€ã²±à€€à€€Uri_HOST_IPV4à€€à€€à€€Uri_HOST_IPV6à€€à€€à€€Uri_HOST_IDNà€€ã²±à€€à€€tà€€à€€à€€Tà€€à€€__MIDL_IUri_0002à€€W4__MIDL_IUri_0002@@à€€ã²±à€€à€€qà€€à€€à€€à€€pwcsNameà€€ã²±à€€"à€€à€€à€€à€€typeà€€ã²±à€€å’©à€€à€€cbSizeà€€ì€à€€ç€à€€à€€mtimeà€€à€€ç€à€€à€€ctimeà€€à€€ç€à€€ à€€atimeà€€à€€"à€€à€€à€€(à€€grfModeà€€ä€€à€€"à€€à€€à€€,à€€grfLocksSupportedà€€à€€oà€€à€€0à€€clsidà€€à€€"à€€à€€à€€@à€€grfStateBitsà€€ì€à€€"à€€à€€à€€Dà€€reservedà€€ì€à€€à€€Và€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Hà€€tagSTATSTGà€€UtagSTATSTG@@à€€ã€à€€é€à€€à€€à€€rgvargà€€ì€à€€à€€à€€à€€rgdispidNamedArgsà€€à€€uà€€à€€à€€à€€cArgsà€€à€€uà€€à€€à€€à€€cNamedArgsà€€â€6à€€à€€à€€Xà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagDISPPARAMSà€€UtagDISPPARAMS@@à€€ì€
+à€€ç€à€€
+à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€ì€à€€Zà€€à€€à€€pElemsà€€Ñ€6à€€à€€à€€[à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAFILETIMEà€€UtagCAFILETIME@@à€€ì€
+à€€ì€à€€
+ì€à€€	à€€à€€à€€ì€à€€]à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€â€à€€]à€€à€€à€€à€€ì€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€ç®Žà€€à€€	à€€à€€à€€í€à€€]à€€à€€à€€à€€`à€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€ì€à€€à€€	à€€à€€à€€ì€à€€]à€€à€€à€€à€€bà€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€"à€€à€€à€€	à€€à€€à€€ì€à€€]à€€à€€à€€à€€dà€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€ì€à€€à€€	à€€à€€à€€â±Šà€€]à€€à€€à€€à€€fà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€é€à€€à€€	à€€à€€à€€ì€à€€]à€€à€€à€€à€€hà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€é€à€€zà€€à€€à€€	à€€à€€à€€ì€à€€]à€€à€€à€€à€€jà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€à€€à€€à€€à€€à€€é€à€€à€€	à€€à€€à€€ì€à€€]à€€à€€à€€à€€là€€à€€à€€à€€à€€à€€à€€à€€à€€à€€"à€€à€€ì€à€€à€€	à€€à€€à€€Êà€€]à€€à€€à€€à€€nà€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€í€à€€à€€	tà€€à€€à€€â±‘à€€]à€€à€€à€€à€€pà€€à€€à€€à€€à€€à€€à€€	à€€à€€á‘•à€€]à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€zà€€à€€à€€	à€€à€€à€€á‘•à€€]à€€à€€à€€à€€sà€€à€€à€€à€€à€€à€€
+à€€ã²±à€€à€€á‘•à€€uà€€à€€*à€€
+à€€à€€à€€à€€và€€à€€à€€	à€€à€€à€€ã²±à€€]à€€à€€à€€wà€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€á‘•à€€]à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€xà€€à€€à€€à€€yà€€à€€
+à€€â±‘à€€*à€€à€€	{à€€à€€á‘•à€€]à€€à€€à€€à€€wà€€à€€à€€à€€à€€à€€ã²±à€€à€€ã²±à€€à€€à€€â±à€€^à€€à€€à€€à€€à€€RecordInità€€â±Žà€€^à€€à€€à€€à€€à€€RecordClearà€€à€€_à€€à€€à€€à€€à€€RecordCopyà€€ã²±à€€aà€€à€€à€€à€€à€€GetGuidà€€à€€cà€€à€€à€€à€€à€€GetNameà€€à€€eà€€à€€ à€€à€€à€€GetSizeà€€à€€gà€€à€€$à€€à€€à€€GetTypeInfoà€€à€€ià€€à€€(à€€à€€à€€GetFieldà€€â±à€€kà€€à€€,à€€à€€à€€GetFieldNoCopyà€€á•à€€mà€€à€€0à€€à€€à€€PutFieldà€€Ò€à€€mà€€à€€4à€€à€€à€€PutFieldNoCopyà€€ã²±à€€oà€€à€€8à€€à€€à€€GetFieldNamesà€€Ò€à€€qà€€à€€<à€€à€€à€€IsMatchingTypeà€€á²€à€€rà€€à€€@à€€à€€à€€RecordCreateà€€á’€à€€tà€€à€€Dà€€à€€à€€RecordCreateCopyà€€ã²±à€€^à€€à€€Hà€€à€€à€€RecordDestroyà€€â±Šà€€zà€€à€€IRecordInfoà€€|à€€à€€operator=à€€ã’€à€€
+à€€à€€UUUUUUUUUP2à€€à€€&}à€€à€€à€€à€€à€€à€€~à€€à€€à€€IRecordInfoà€€UIRecordInfo@@à€€ä€€Zà€€à€€à€€è¿à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ULARGE_INTEGER::<unnamed-type-u>à€€U<unnamed-type-u>@_ULARGE_INTEGER@@à€€fà€€à€€"à€€à€€à€€à€€à€€LowPartà€€ã’€à€€"à€€à€€à€€à€€HighPartà€€ä’€à€€à€€â±à€€<unnamed-type-u>à€€ã²±à€€æ’€à€€à€€à€€uà€€à€€#à€€à€€à€€à€€à€€QuadPartà€€â±®à€€ã²±à€€à€€_ULARGE_INTEGERà€€T_ULARGE_INTEGER@@à€€ã²±bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€vc_attributes::FormatStringAttributeà€€UFormatStringAttribute@vc_attributes@@à€€ê’€à€€ì’€à€€
+í’€à€€	à€€à€€à€€Ò€à€€â’€à€€à€€à€€à€€à€€à€€à€€à€€à€€Và€€à€€å’€à€€FormatStringAttributeà€€ã’€à€€à€€à€€à€€à€€Styleà€€à€€à€€à€€à€€UnformattedAlternativeà€€ã²±bà€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€vc_attributes::FormatStringAttributeà€€UFormatStringAttribute@vc_attributes@@à€€áŠ€à€€à€€à€€Zà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCADATEà€€UtagCADATE@@à€€ë’€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyVarObjectà€€UPyVarObject@@à€€í’€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€í’€à€€
+à€€à€€à€€à€€à€€å’©à€€à€€à€€tà€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€á’€à€€
+à€€ã²±à€€
+à€€à€€à€€à€€à€€å’©à€€pà€€à€€à€€å’©à€€à€€à€€à€€ï’€à€€
+à€€ã’€à€€
+à€€à€€à€€à€€à€€å’©à€€pà€€à€€å’©à€€à€€tà€€à€€à€€à€€à€€à€€æ’€à€€
+à€€ã²±à€€
+à€€à€€å’©à€€à€€à€€à€€à€€à€€
+à€€å’€à€€
+à€€:à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyNumberMethodsà€€UPyNumberMethods@@à€€è’€
+à€€ç’€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PySequenceMethodsà€€UPySequenceMethods@@à€€ã²±
+à€€é’€à€€
+à€€:à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyMappingMethodsà€€UPyMappingMethods@@à€€ê’€í€à€€
+à€€à€€à€€à€€à€€å’©à€€å’©à€€å’©à€€à€€å’©à€€à€€à€€à€€ì’€à€€
+à€€î’€à€€
+à€€
+à€€'à€€à€€
+à€€à€€tà€€à€€à€€à€€à€€à€€í’€à€€
+à€€í€à€€
+à€€6à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyBufferProcsà€€UPyBufferProcs@@à€€Ò€
+à€€â±à€€
+à€€à€€à€€à€€à€€å’©à€€å’©à€€tà€€à€€à€€à€€å’©à€€à€€à€€à€€å’€à€€
+à€€â±à€€
+à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyMemberDefà€€UPyMemberDef@@à€€á•
+à€€â±à€€
+à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyGetSetDefà€€UPyGetSetDef@@à€€ë’€
+à€€ã²±à€€
+à€€à€€à€€à€€à€€á•à€€tà€€à€€à€€à€€å’©à€€à€€à€€à€€á’€à€€
+à€€ã²±à€€
+à€€à€€à€€à€€à€€ä’€à€€å’©à€€å’©à€€à€€å’©à€€à€€à€€à€€ï’€à€€
+à€€ã²±à€€
+à€€à€€é’€à€€à€€à€€ob_baseà€€â±à€€à€€à€€à€€tp_nameà€€æ’€à€€tà€€à€€à€€à€€tp_basicsizeà€€â±à€€tà€€à€€à€€à€€tp_itemsizeà€€è’€à€€á•à€€à€€tp_deallocà€€ê’€à€€î’€à€€à€€tp_printà€€ã²±à€€ì’€à€€ à€€tp_getattrà€€â±à€€â±à€€$à€€tp_setattrà€€æ’€à€€à€€à€€(à€€tp_reservedà€€ã²±à€€Ò€à€€,à€€tp_reprà€€â±à€€â’€à€€0à€€tp_as_numberà€€â±à€€ä’€à€€4à€€tp_as_sequenceà€€á•à€€á•à€€8à€€tp_as_mappingà€€à€€à€€à€€<à€€tp_hashà€€ã²±à€€ï’€à€€@à€€tp_callà€€â±à€€á•à€€Dà€€tp_strà€€ã²±à€€æ’€à€€Hà€€tp_getattroà€€â±à€€æ’€à€€Là€€tp_setattroà€€â±à€€ã²±à€€Pà€€tp_as_bufferà€€ã²±à€€à€€à€€à€€Tà€€tp_flagsà€€ë’€à€€à€€à€€Xà€€tp_docà€€í€à€€à€€à€€\à€€tp_traverseà€€â±à€€à€€à€€`à€€tp_clearà€€ä€´à€€ç’€à€€dà€€tp_richcompareà€€â±à€€tà€€à€€à€€hà€€tp_weaklistoffsetà€€à€€á•à€€là€€tp_iterà€€â’€à€€ì€´à€€pà€€tp_iternextà€€á•à€€à€€à€€tà€€tp_methodsà€€â’€à€€é’€à€€xà€€tp_membersà€€ä€´à€€â±à€€|à€€tp_getsetà€€à€€á•à€€4p_baseà€€á’€à€€å’©à€€ì€´p_dictà€€ã²±à€€ï’€à€€è€´p_descr_getà€€â±à€€ä€´à€€á•p_descr_setà€€á•à€€tà€€à€€à€€4p_dictoffsetà€€à€€ì€´à€€ã²±p_inità€€á•à€€î’€à€€è€´p_allocà€€ä€´à€€â±à€€ë’€p_newà€€ì€´à€€à€€à€€4p_freeà€€ã²±à€€à€€à€€ã²±p_is_gcà€€â’€à€€å’©à€€è€´p_basesà€€Ä€à€€å’©à€€ã²±p_mroà€€ã²±à€€å’©à€€4p_cacheà€€ã²±à€€å’©à€€ã²±p_subclassesà€€à€€å’©à€€è€´p_weaklistà€€ã²±à€€á•à€€á•p_delà€€á•à€€uà€€à€€à€€à€€tp_version_tagà€€ã²±2à€€/à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€â±_typeobjectà€€U_typeobject@@à€€á•Bà€€2à€€î€à€€à€€tagVARIANT::<unnamed-tag>à€€T<unnamed-tag>@tagVARIANT@@à€€îƒƒà€€!à€€à€€à€€à€€à€€vtà€€â±à€€!à€€à€€à€€à€€wReserved1à€€â±à€€!à€€à€€à€€à€€wReserved2à€€á•à€€!à€€à€€à€€à€€wReserved3à€€Èà€€à€€à€€à€€à€€llValà€€à€€à€€à€€à€€à€€lValà€€ã²±à€€ à€€à€€à€€à€€bValà€€ã²±à€€à€€à€€à€€à€€iValà€€â±à€€@à€€à€€à€€à€€fltValà€€â±à€€Aà€€à€€à€€à€€dblValà€€á•à€€à€€à€€à€€à€€boolValà€€ã²±à€€à€€à€€à€€à€€scodeà€€à€€æ”™à€€à€€cyValà€€à€€Aà€€à€€à€€à€€dateà€€á€à€€qà€€à€€à€€bstrValà€€ã²±à€€î€à€€à€€punkValà€€â€à€€à€€à€€à€€pdispValà€€á•à€€ã€à€€à€€à€€parrayà€€á•à€€ à€€à€€à€€pbValà€€à€€à€€à€€à€€piValà€€à€€à€€à€€à€€plValà€€à€€à€€à€€à€€pllValà€€ä€à€€@à€€à€€à€€pfltValà€€â±à€€Aà€€à€€à€€pdblValà€€â±à€€à€€à€€à€€pboolValà€€á•à€€à€€à€€à€€pscodeà€€ã²±à€€ã²±à€€à€€pcyValà€€â±à€€Aà€€à€€à€€pdateà€€à€€Ð€à€€à€€pbstrValà€€â±à€€ã²±à€€à€€ppunkValà€€ã²±à€€â±à€€à€€ppdispValà€€à€€å’©à€€à€€pparrayà€€â±à€€é€à€€à€€pvarValà€€á•à€€à€€à€€à€€byrefà€€à€€pà€€à€€à€€à€€cValà€€á•à€€!à€€à€€à€€à€€uiValà€€à€€"à€€à€€à€€à€€ulValà€€à€€#à€€à€€à€€à€€ullValà€€í€à€€tà€€à€€à€€à€€intValà€€áš€à€€uà€€à€€à€€à€€uintValà€€á•à€€á•à€€à€€pdecValà€€á•à€€pà€€à€€à€€pcValà€€à€€!à€€à€€à€€puiValà€€ã²±à€€"à€€à€€à€€pulValà€€ã²±à€€#à€€à€€à€€pullValà€€â±à€€tà€€à€€à€€pintValà€€á•à€€uà€€à€€à€€puintValà€€â±à€€à€€à€€à€€pvRecordà€€â±à€€á•à€€à€€pRecInfoà€€È1à€€å’€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVARIANT::<unnamed-tag>::<unnamed-tag>à€€U<unnamed-tag>@0tagVARIANT@@à€€Fà€€à€€à€€à€€à€€à€€llValà€€à€€à€€à€€à€€à€€à€€lValà€€ã²±à€€ à€€à€€à€€à€€à€€bValà€€ã²±à€€à€€à€€à€€à€€à€€iValà€€â±à€€@à€€à€€à€€à€€à€€fltValà€€â±à€€Aà€€à€€à€€à€€à€€dblValà€€á•à€€à€€à€€à€€à€€à€€boolValà€€ã²±à€€à€€à€€à€€à€€à€€scodeà€€à€€æ”™à€€à€€à€€cyValà€€à€€Aà€€à€€à€€à€€à€€dateà€€á€à€€qà€€à€€à€€à€€bstrValà€€ã²±à€€î€à€€à€€à€€punkValà€€â€à€€à€€à€€à€€à€€pdispValà€€á•à€€ã€à€€à€€à€€à€€parrayà€€á•à€€ à€€à€€à€€à€€pbValà€€à€€à€€à€€à€€à€€piValà€€à€€à€€à€€à€€à€€plValà€€à€€à€€à€€à€€à€€pllValà€€ä€à€€@à€€à€€à€€à€€pfltValà€€â±à€€Aà€€à€€à€€à€€pdblValà€€â±à€€à€€à€€à€€à€€pboolValà€€á•à€€à€€à€€à€€à€€pscodeà€€ã²±à€€ã²±à€€à€€à€€pcyValà€€â±à€€Aà€€à€€à€€à€€pdateà€€à€€Ð€à€€à€€à€€pbstrValà€€â±à€€ã²±à€€à€€à€€ppunkValà€€ã²±à€€â±à€€à€€à€€ppdispValà€€à€€å’©à€€à€€à€€pparrayà€€â±à€€é€à€€à€€à€€pvarValà€€á•à€€à€€à€€à€€à€€byrefà€€à€€pà€€à€€à€€à€€à€€cValà€€á•à€€!à€€à€€à€€à€€à€€uiValà€€à€€"à€€à€€à€€à€€à€€ulValà€€à€€#à€€à€€à€€à€€à€€ullValà€€í€à€€tà€€à€€à€€à€€à€€intValà€€á¢€à€€uà€€à€€à€€à€€à€€uintValà€€á•à€€í€à€€à€€à€€pdecValà€€áº€à€€pà€€à€€à€€à€€pcValà€€à€€!à€€à€€à€€à€€puiValà€€ê€ƒà€€"à€€à€€à€€à€€pulValà€€ã²±à€€#à€€à€€à€€à€€pullValà€€á‚•à€€tà€€à€€à€€à€€pintValà€€á‚•à€€uà€€à€€à€€à€€puintValà€€â±‚à€€à€€à€€à€€à€€pvRecordà€€ã²±à€€â±‚à€€à€€pRecInfoà€€â±‚-à€€ç’€à€€à€€tagVARIANT::<unnamed-tag>::<unnamed-tag>::<unnamed-tag>à€€T<unnamed-tag>@00tagVARIANT@@à€€*à€€à€€à€€à€€à€€à€€pvRecordà€€ë’€à€€ã²±à€€à€€pRecInfoà€€ášà€€é’€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagVARIANT::<unnamed-tag>::<unnamed-tag>::<unnamed-tag>::<unnamed-tag>à€€U<unnamed-tag>@000tagVARIANT@@à€€á•à€€à€€à€€TKIND_ENUMà€€á•à€€à€€TKIND_RECORDà€€ã²±à€€à€€TKIND_MODULEà€€á•à€€à€€TKIND_INTERFACEà€€â±à€€à€€TKIND_DISPATCHà€€â±à€€à€€TKIND_COCLASSà€€à€€à€€TKIND_ALIASà€€ã²±à€€à€€TKIND_UNIONà€€ì’€à€€à€€TKIND_MAXà€€*à€€	à€€à€€tà€€à€€à€€á•à€€tagTYPEKINDà€€W4tagTYPEKIND@@à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagTYPEDESCà€€UtagTYPEDESC@@à€€ã²±.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagIDLDESCà€€UtagIDLDESC@@à€€ã²±à€€oà€€à€€à€€à€€guidà€€â±à€€"à€€à€€à€€à€€lcidà€€ã²±à€€"à€€à€€à€€à€€dwReservedà€€á•à€€à€€à€€à€€à€€memidConstructorà€€á•à€€à€€à€€à€€à€€memidDestructorà€€í’€à€€qà€€à€€ à€€lpstrSchemaà€€ã²±à€€"à€€à€€à€€$à€€cbSizeInstanceà€€â±²à€€ã²±à€€(à€€typekindà€€ã²±à€€!à€€à€€à€€,à€€cFuncsà€€ã²±à€€!à€€à€€à€€.à€€cVarsà€€à€€!à€€à€€à€€0à€€cImplTypesà€€ã²±à€€!à€€à€€à€€2à€€cbSizeVftà€€à€€!à€€à€€à€€4à€€cbAlignmentà€€â±à€€!à€€à€€à€€6à€€wTypeFlagsà€€á•à€€!à€€à€€à€€8à€€wMajorVerNumà€€â±Žà€€!à€€à€€à€€:à€€wMinorVerNumà€€Å’à€€Æ’à€€<à€€tdescAliasà€€È’à€€î’€à€€Dà€€idldescTypeà€€É’à€€à€€à€€ï’€à€€à€€à€€à€€à€€à€€à€€à€€à€€Là€€tagTYPEATTRà€€UtagTYPEATTR@@à€€Ë’>à€€à€€"à€€à€€à€€à€€à€€cbSizeà€€Ò€à€€à€€à€€à€€à€€ulClipFmtà€€à€€ à€€à€€à€€pClipDataà€€2à€€à€€à€€Rà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCLIPDATAà€€UtagCLIPDATA@@à€€Ç’Rà€€à€€pà€€à€€à€€à€€localeà€€Ç’à€€qà€€à€€à€€wlocaleà€€â±à€€tà€€à€€à€€refcountà€€á•à€€tà€€à€€à€€wrefcountà€€~à€€à€€Oà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadlocaleinfostruct::<unnamed-type-lc_category>à€€U<unnamed-type-lc_category>@threadlocaleinfostruct@@à€€Ê’à€€à€€à€€à€€å’©à€€tà€€à€€à€€à€€å’©à€€à€€à€€à€€â±à€€à€€
+à€€á•à€€à€€
+à€€à€€à€€à€€à€€å’©à€€tà€€à€€à€€å’©à€€à€€tà€€à€€à€€à€€à€€à€€Ì’à€€à€€
+à€€â±à€€à€€
+à€€à€€tà€€à€€à€€à€€à€€à€€&à€€à€€
+à€€Ò€à€€à€€
+à€€î€ƒà€€à€€à€€à€€à€€sq_lengthà€€à€€Ç’à€€à€€sq_concatà€€à€€Í’à€€à€€à€€sq_repeatà€€à€€ã²±à€€à€€à€€sq_itemà€€ê€ƒà€€à€€à€€à€€was_sq_sliceà€€á•à€€á•à€€à€€à€€sq_ass_itemà€€á•à€€à€€à€€à€€was_sq_ass_sliceà€€á¦€à€€Ï’à€€à€€à€€sq_containsà€€á¶€à€€á•à€€ à€€sq_inplace_concatà€€à€€Ñ’à€€à€€$à€€sq_inplace_repeatà€€>à€€
+à€€à€€á’€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€(à€€PySequenceMethodsà€€UPySequenceMethods@@à€€Ó’á•à€€!à€€à€€à€€à€€à€€wReservedà€€à€€ à€€à€€à€€à€€scaleà€€à€€ à€€à€€à€€à€€signà€€áº€à€€!à€€à€€à€€à€€signscaleà€€à€€"à€€à€€à€€à€€Hi32à€€Õ’à€€"à€€à€€à€€à€€Lo32à€€á•à€€"à€€à€€à€€à€€Mid32à€€à€€#à€€à€€à€€à€€Lo64à€€×’à€€à€€ä€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagDECà€€UtagDEC@@à€€Ù’à€€ à€€à€€à€€à€€à€€scaleà€€à€€ à€€à€€à€€à€€signà€€Ñ€à€€!à€€à€€à€€à€€à€€signscaleà€€:à€€à€€Ù’à€€à€€à€€tagDEC::<unnamed-tag>à€€T<unnamed-tag>@tagDEC@@à€€"à€€à€€ à€€à€€à€€à€€à€€scaleà€€à€€ à€€à€€à€€à€€signà€€Û’à€€ì’€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagDEC::<unnamed-tag>::<unnamed-tag>à€€U<unnamed-tag>@0tagDEC@@à€€2à€€à€€"à€€à€€à€€à€€à€€Lo32à€€Ý’à€€"à€€à€€à€€à€€Mid32à€€à€€#à€€à€€à€€à€€à€€Lo64à€€Ù’à€€Þ’à€€à€€à€€tagDEC::<unnamed-tag>à€€T<unnamed-tag>@tagDEC@@à€€"à€€à€€"à€€à€€à€€à€€à€€Lo32à€€Ñ€à€€"à€€à€€à€€à€€Mid32à€€Rà€€à€€Ù’à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagDEC::<unnamed-tag>::<unnamed-tag>à€€U<unnamed-tag>@0tagDEC@@à€€
+à€€à€€à€€
+Ò€à€€	uà€€à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€â’€à€€à€€	à€€à€€à€€à€€à€€ã’€à€€à€€à€€à€€ä’€à€€à€€à€€à€€à€€à€€
+à€€Ù’à€€
+à€€à€€à€€à€€à€€uà€€à€€à€€Ù’à€€à€€à€€	à€€à€€à€€à€€à€€Ñ€à€€à€€à€€à€€â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€â€à€€à€€	à€€à€€à€€à€€à€€â€à€€à€€à€€à€€Ù’à€€à€€à€€à€€à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagTLIBATTRà€€UtagTLIBATTR@@à€€è’€
+à€€Ù’à€€
+à€€
+à€€ê’€à€€
+à€€
+à€€à€€à€€à€€Ñ€à€€à€€	à€€à€€à€€à€€à€€Ù’à€€à€€à€€à€€å’€à€€à€€à€€à€€à€€à€€	à€€à€€à€€à€€à€€ì’€à€€à€€à€€à€€ã’€à€€à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€Ù’à€€â±Šà€€"à€€à€€Ò€à€€à€€	à€€à€€à€€à€€à€€á’€à€€à€€à€€à€€Ù’à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€"à€€à€€à€€tà€€à€€à€€	à€€à€€à€€à€€à€€â’€à€€à€€à€€à€€Ù’à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€"à€€à€€à€€ã’€à€€à€€à€€!à€€à€€à€€	à€€à€€à€€à€€à€€ä’€à€€à€€à€€à€€æ’€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€Ù’à€€à€€	à€€à€€à€€à€€à€€â’€à€€à€€à€€à€€î’€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€í€à€€â±‘à€€*à€€
+à€€à€€à€€à€€Ú’à€€à€€	à€€à€€à€€à€€à€€ã²±à€€à€€à€€Ü’à€€à€€à€€à€€à€€à€€	à€€à€€à€€à€€à€€ß’à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€á’€à€€à€€à€€â±‘à€€
+à€€à€€à€€*à€€à€€	æ’€à€€à€€à€€á‘•à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€Bà€€à€€ë’€à€€à€€à€€á‘•à€€í’€à€€à€€à€€à€€à€€GetTypeInfoCountà€€ã²±à€€ã²±à€€à€€à€€à€€à€€GetTypeInfoà€€à€€â±Žà€€à€€à€€à€€à€€GetTypeInfoTypeà€€à€€ã²±à€€à€€à€€à€€GetTypeInfoOfGuidà€€è’€à€€á’€à€€à€€à€€à€€GetLibAttrà€€Æ‘à€€ç’€à€€ à€€à€€à€€GetTypeCompà€€à€€é’€à€€$à€€à€€à€€GetDocumentationà€€ä€€à€€ì’€à€€(à€€à€€à€€IsNameà€€ë’€à€€ì’€à€€,à€€à€€à€€FindNameà€€ì’€à€€ï’€à€€0à€€à€€à€€ReleaseTLibAttrà€€à€€å’€à€€ITypeLibà€€ì’€ç’€à€€operator=à€€â±Šà€€
+à€€à€€UUUUUUPì’€*à€€à€€&ì’€à€€à€€à€€à€€à€€é’€à€€à€€ITypeLibà€€UITypeLib@@à€€ì’€à€€à€€à€€"à€€à€€à€€ê€ƒà€€à€€"à€€à€€
+à€€/à€€à€€
+í€à€€	à€€à€€à€€/à€€à€€â±‘à€€à€€à€€í’€à€€à€€à€€à€€à€€à€€	à€€à€€à€€/à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€/à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€à€€à€€à€€1à€€à€€à€€	à€€à€€à€€/à€€à€€â±‘à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€/à€€à€€à€€â±à€€à€€à€€*à€€
+à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€/à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€/à€€à€€â±²à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
+à€€/à€€à€€*à€€à€€	à€€à€€/à€€à€€ä‘€à€€à€€à€€à€€à€€à€€à€€à€€à€€áš€à€€à€€â±¦à€€à€€à€€â±à€€á•à€€à€€à€€à€€Nextà€€ã²±à€€î’€à€€à€€à€€à€€Skipà€€á®€à€€ï’€à€€à€€à€€à€€Resetà€€á‚€à€€à€€à€€à€€à€€à€€Cloneà€€â±‚à€€à€€à€€IEnumSTATSTGà€€â±º	à€€à€€operator=à€€á•à€€à€€&
+à€€à€€à€€à€€à€€à€€á•à€€à€€IEnumSTATSTGà€€UIEnumSTATSTG@@à€€â±à€€à€€è¿à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_LARGE_INTEGER::<unnamed-type-u>à€€U<unnamed-type-u>@_LARGE_INTEGER@@à€€á•à€€à€€"à€€à€€à€€à€€à€€LowPartà€€á•à€€à€€à€€à€€à€€HighPartà€€ã²±à€€à€€à€€à€€<unnamed-type-u>à€€ã²±à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€QuadPartà€€ã²±à€€à€€à€€à€€_LARGE_INTEGERà€€T_LARGE_INTEGER@@à€€á’€à€€à€€à€€SYS_WIN16à€€à€€à€€SYS_WIN32à€€à€€à€€SYS_MACà€€â±à€€à€€SYS_WIN64à€€*à€€à€€à€€tà€€à€€à€€à€€à€€tagSYSKINDà€€W4tagSYSKIND@@à€€Ò€à€€à€€oà€€à€€à€€à€€guidà€€â±à€€"à€€à€€à€€à€€lcidà€€á•à€€à€€à€€à€€syskindà€€ã²±à€€!à€€à€€à€€à€€wMajorVerNumà€€ã²±à€€!à€€à€€à€€à€€wMinorVerNumà€€ã²±à€€!à€€à€€à€€à€€wLibFlagsà€€2à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€tagTLIBATTRà€€UtagTLIBATTR@@à€€â±‚&à€€à€€"à€€à€€à€€à€€à€€cbSizeà€€â±ªà€€ à€€à€€à€€pDataà€€2à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagBSTRBLOBà€€UtagBSTRBLOB@@à€€á‚•à€€à€€à€€"à€€à€€à€€ à€€à€€á‚•à€€à€€à€€à€€à€€ml_nameà€€â±‚à€€â±‚à€€à€€ml_methà€€ã²±à€€tà€€à€€à€€à€€ml_flagsà€€ã²±à€€à€€à€€à€€ml_docà€€ã²±2à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyMethodDefà€€UPyMethodDef@@à€€áŠ€Nà€€à€€à€€à€€URLZONEREG_DEFAULTà€€á•à€€à€€URLZONEREG_HKLMà€€á¶€à€€à€€URLZONEREG_HKCUà€€ã²±à€€à€€à€€tà€€à€€à€€à€€à€€_URLZONEREGà€€W4_URLZONEREG@@à€€nà€€à€€à€€à€€FUNC_VIRTUALà€€âƒƒà€€à€€FUNC_PUREVIRTUALà€€á‚•à€€à€€FUNC_NONVIRTUALà€€â±‚à€€à€€FUNC_STATICà€€â±‚à€€à€€FUNC_DISPATCHà€€*à€€à€€à€€tà€€à€€à€€à€€à€€tagFUNCKINDà€€W4tagFUNCKIND@@à€€*à€€à€€"à€€à€€à€€à€€à€€cElemsà€€â±‚à€€ à€€à€€à€€pElemsà€€â±‚*à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCAUBà€€UtagCAUB@@à€€á‚•.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€bufferinfoà€€Ubufferinfo@@à€€â±‚à€€à€€
+à€€à€€à€€à€€à€€å’©à€€ã²±à€€à€€tà€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€ à€€à€€
+à€€!à€€à€€
+à€€à€€à€€à€€à€€å’©à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€#à€€à€€
+à€€$à€€à€€
+à€€6à€€à€€"à€€à€€à€€à€€bf_getbufferà€€ã²±à€€%à€€à€€à€€bf_releasebufferà€€ã²±à€€à€€&à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyBufferProcsà€€UPyBufferProcs@@à€€ã²±ã²±à€€à€€à€€VT_EMPTYà€€ã²±à€€à€€VT_NULLà€€ã²±à€€à€€VT_I2à€€à€€à€€VT_I4à€€à€€à€€VT_R4à€€à€€à€€VT_R8à€€à€€à€€VT_CYà€€à€€à€€VT_DATEà€€â±‚à€€à€€VT_BSTRà€€â±‚à€€	à€€VT_DISPATCHà€€ã²±à€€
+à€€VT_ERRORà€€ã²±à€€à€€VT_BOOLà€€á‚•à€€à€€VT_VARIANTà€€ã²±à€€à€€VT_UNKNOWNà€€á‚•à€€à€€VT_DECIMALà€€ã²±à€€à€€VT_I1à€€à€€à€€VT_UI1à€€â±‚à€€à€€VT_UI2à€€â±‚à€€à€€VT_UI4à€€â±‚à€€à€€VT_I8à€€à€€à€€VT_UI8à€€ã²±à€€à€€VT_INTà€€ã²±à€€à€€VT_UINTà€€á‚•à€€à€€VT_VOIDà€€ã²±à€€à€€VT_HRESULTà€€á‚•à€€à€€VT_PTRà€€â±‚à€€à€€VT_SAFEARRAYà€€á‚•à€€à€€VT_CARRAYà€€à€€à€€VT_USERDEFINEDà€€á‚•à€€à€€VT_LPSTRà€€á‚•à€€à¿¿à€€VT_LPWSTRà€€à€€$à€€VT_RECORDà€€à€€%à€€VT_INT_PTRà€€á‚•à€€&à€€VT_UINT_PTRà€€á‚•à€€@à€€VT_FILETIMEà€€â±¢à€€Aà€€VT_BLOBà€€â±à€€Bà€€VT_STREAMà€€à€€Cà€€VT_STORAGEà€€á–€à€€Dà€€VT_STREAMED_OBJECTà€€â±šà€€Eà€€VT_STORED_OBJECTà€€Ú‚à€€Fà€€VT_BLOB_OBJECTà€€á‚•à€€Gà€€VT_CFà€€à€€Hà€€VT_CLSIDà€€â±‚à€€Ià€€VT_VERSIONED_STREAMà€€á‚•à€€ï–T_BSTR_BLOBà€€â±‚à€€à€€VT_VECTORà€€à€€à€€ VT_ARRAYà€€ã²±à€€à€€@VT_BYREFà€€á‚•à€€à€€VT_RESERVEDà€€à€€â±‚VT_ILLEGALà€€â±‚à€€ï–T_ILLEGALMASKEDà€€á‚•à€€ï–T_TYPEMASKà€€á‚•à€€4à€€à€€tà€€à€€à€€(à€€à€€VARENUMà€€W4VARENUM@@à€€*à€€à€€"à€€à€€à€€à€€à€€LowPartà€€á‚•à€€"à€€à€€à€€à€€HighPartà€€ã²±à€€*à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ULARGE_INTEGER::<unnamed-tag>à€€U<unnamed-tag>@_ULARGE_INTEGER@@à€€á‚•à€€à€€*à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ULARGE_INTEGER::<unnamed-type-u>à€€U<unnamed-type-u>@_ULARGE_INTEGER@@à€€ã²±à€€à€€COMIMAGE_FLAGS_ILONLYà€€à€€à€€COMIMAGE_FLAGS_32BITREQUIREDà€€áŽ€à€€à€€COMIMAGE_FLAGS_IL_LIBRARYà€€à€€à€€COMIMAGE_FLAGS_STRONGNAMESIGNEDà€€â±ªà€€à€€à€€COMIMAGE_FLAGS_TRACKDEBUGDATAà€€à€€à€€COR_VERSION_MAJOR_V2à€€â±à€€à€€COR_VERSION_MAJORà€€à€€à€€à€€COR_VERSION_MINORà€€à€€à€€COR_DELETED_NAME_LENGTHà€€á’€à€€à€€COR_VTABLEGAP_NAME_LENGTHà€€à€€à€€NATIVE_TYPE_MAX_CBà€€â±†à€€ï€ƒOR_ILMETHOD_SECT_SMALL_MAX_DATASIZEà€€à¿•à€€à€€IMAGE_COR_MIH_METHODRVAà€€á‚•à€€à€€IMAGE_COR_MIH_EHRVAà€€ã²±à€€à€€IMAGE_COR_MIH_BASICBLOCKà€€á‚•à€€à€€COR_VTABLE_32BITà€€â±‚à€€à€€COR_VTABLE_64BITà€€á‚•à€€à€€COR_VTABLE_FROM_UNMANAGEDà€€à€€à€€COR_VTABLE_FROM_UNMANAGED_RETAIN_APPDOMAINà€€ã²±à€€à€€COR_VTABLE_CALL_MOST_DERIVEDà€€á‚•à€€ à€€IMAGE_COR_EATJ_THUNK_SIZEà€€à€€à€€MAX_CLASS_NAMEà€€áª€à€€à€€MAX_PACKAGE_NAMEà€€â±ªà€€à€€tà€€à€€à€€-à€€à€€ReplacesCorHdrNumericDefinesà€€W4ReplacesCorHdrNumericDefines@@à€€â±¾à€€à€€"à€€à€€à€€à€€à€€LowPartà€€ã²±à€€à€€à€€à€€à€€HighPartà€€ã²±à€€/à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_LARGE_INTEGER::<unnamed-tag>à€€U<unnamed-tag>@_LARGE_INTEGER@@à€€Zà€€à€€/à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_LARGE_INTEGER::<unnamed-type-u>à€€U<unnamed-type-u>@_LARGE_INTEGER@@à€€áŠ€à€€à€€í’€RLZONE_INVALIDà€€áŠ€à€€à€€à€€URLZONE_PREDEFINED_MINà€€â±à€€à€€à€€URLZONE_LOCAL_MACHINEà€€à€€à€€URLZONE_INTRANETà€€â±à€€à€€URLZONE_TRUSTEDà€€á•à€€à€€URLZONE_INTERNETà€€ã²±à€€à€€URLZONE_UNTRUSTEDà€€à€€æ»…RLZONE_PREDEFINED_MAXà€€ã²±à€€èƒ•RLZONE_USER_MINà€€â±à€€'URLZONE_USER_MAXà€€â±
+à€€à€€tà€€à€€à€€2à€€à€€tagURLZONEà€€W4tagURLZONE@@à€€á†€à€€à€€"à€€à€€à€€à€€à€€cElementsà€€à€€à€€à€€à€€à€€lLboundà€€â±¦à€€à€€à€€4à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagSAFEARRAYBOUNDà€€UtagSAFEARRAYBOUND@@à€€á‚•.à€€à€€"à€€à€€à€€à€€à€€dwReservedà€€ã²±à€€!à€€à€€à€€à€€wIDLFlagsà€€.à€€à€€à€€6à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagIDLDESCà€€UtagIDLDESC@@à€€â±‚â±‚à€€
+à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagARRAYDESCà€€UtagARRAYDESC@@à€€ã²±9à€€à€€
+à€€Nà€€à€€8à€€à€€à€€à€€lptdescà€€â±¦à€€:à€€à€€à€€à€€lpadescà€€á•à€€"à€€à€€à€€à€€à€€hreftypeà€€â±à€€!à€€à€€à€€à€€vtà€€â±2à€€à€€à€€;à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagTYPEDESCà€€UtagTYPEDESC@@à€€â±>à€€à€€8à€€à€€à€€à€€lptdescà€€â±²à€€:à€€à€€à€€à€€lpadescà€€ã²±à€€"à€€à€€à€€à€€à€€hreftypeà€€â€ƒà€€=à€€à€€à€€tagTYPEDESC::<unnamed-tag>à€€T<unnamed-tag>@tagTYPEDESC@@à€€á‚•à€€à€€à€€à€€TYSPEC_CLSIDà€€â±‚à€€à€€TYSPEC_FILEEXTà€€áª€à€€à€€TYSPEC_MIMETYPEà€€áŠ€à€€à€€TYSPEC_FILENAMEà€€Ñ€à€€à€€TYSPEC_PROGIDà€€à€€à€€TYSPEC_PACKAGENAMEà€€Ý‘à€€à€€TYSPEC_OBJECTIDà€€ä€€à€€à€€à€€tà€€à€€à€€?à€€à€€tagTYSPECà€€W4tagTYSPEC@@à€€à€€å’©à€€à€€à€€à€€à€€à€€
+à€€Aà€€à€€
+à€€à€€à€€à€€à€€å’©à€€å’©à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€Cà€€à€€
+à€€Dà€€à€€
+à€€Và€€à€€pà€€à€€à€€à€€nameà€€Ý‘à€€Bà€€à€€à€€getà€€Ñ€à€€Eà€€à€€à€€setà€€ß‘à€€pà€€à€€à€€docà€€Ý‘à€€à€€à€€à€€closureà€€Ý‘à€€à€€à€€Fà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyGetSetDefà€€UPyGetSetDef@@à€€â±ŠÝ‘à€€à€€à€€DESCKIND_NONEà€€à€€à€€DESCKIND_FUNCDESCà€€à€€à€€DESCKIND_VARDESCà€€Ý‘à€€à€€DESCKIND_TYPECOMPà€€à€€à€€DESCKIND_IMPLICITAPPOBJà€€Ý‘à€€à€€DESCKIND_MAXà€€Ý‘à€€à€€tà€€à€€à€€Hà€€à€€tagDESCKINDà€€W4tagDESCKIND@@à€€
+à€€Ià€€à€€
+à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€tagBINDPTRà€€TtagBINDPTR@@à€€í€Kà€€à€€
+à€€à€€à€€à€€à€€qà€€à€€"à€€à€€à€€!à€€à€€à€€â±‘à€€Jà€€à€€Là€€à€€
+à€€ã²±à€€à€€
+ã²±à€€	à€€à€€à€€â±‘à€€à€€Nà€€à€€à€€à€€Mà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€"à€€à€€à€€â±®à€€ã²±à€€à€€à€€	à€€à€€à€€ã²±à€€à€€Nà€€à€€à€€à€€Pà€€à€€à€€à€€à€€à€€
+à€€ã²±à€€à€€à€€ã²±à€€Rà€€à€€*à€€
+à€€à€€à€€à€€Sà€€à€€à€€	à€€à€€à€€ã²±à€€à€€Nà€€à€€à€€Tà€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€ã²±à€€à€€Nà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Uà€€à€€à€€à€€Và€€à€€
+à€€â±šà€€à€€*à€€à€€	Xà€€à€€ã²±à€€à€€Nà€€à€€à€€à€€Tà€€à€€à€€à€€à€€à€€bà€€à€€à€€ã²±à€€à€€à€€â±‚à€€Oà€€à€€à€€à€€à€€Bindà€€ã²±à€€Qà€€à€€à€€à€€à€€BindTypeà€€ã²±à€€Wà€€à€€ITypeCompà€€â±‚Yà€€à€€operator=à€€â±‚à€€à€€&Zà€€à€€à€€à€€à€€à€€ç‘€à€€à€€ITypeCompà€€UITypeComp@@à€€á‚•2à€€à€€"à€€à€€à€€à€€à€€Loà€€â±‚à€€à€€à€€à€€à€€Hià€€á²€à€€à€€à€€à€€à€€à€€int64à€€à€€à€€à€€\à€€à€€à€€tagCYà€€TtagCY@@à€€ã²±"à€€à€€"à€€à€€à€€à€€à€€Loà€€á‚•à€€à€€à€€à€€à€€Hià€€â±‚Bà€€à€€^à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagCY::<unnamed-tag>à€€U<unnamed-tag>@tagCY@@à€€ã²±à€€à€€QUERY_EXPIRATION_DATEà€€à€€à€€QUERY_TIME_OF_LAST_CHANGEà€€à€€à€€QUERY_CONTENT_ENCODINGà€€â±‚à€€à€€QUERY_CONTENT_TYPEà€€ã²±à€€à€€QUERY_REFRESHà€€à€€à€€QUERY_RECOMBINEà€€á‚•à€€à€€QUERY_CAN_NAVIGATEà€€á‚•à€€à€€QUERY_USES_NETWORKà€€ã²±à€€	à€€QUERY_IS_CACHEDà€€ã²±à€€
+à€€QUERY_IS_INSTALLEDENTRYà€€á‚•à€€à€€QUERY_IS_CACHED_OR_MAPPEDà€€à€€à€€QUERY_USES_CACHEà€€ã²±à€€à€€QUERY_IS_SECUREà€€á‚•à€€à€€QUERY_IS_SAFEà€€à€€à€€QUERY_USES_HISTORYFOLDERà€€â±‚à€€à€€tà€€à€€à€€`à€€à€€_tagQUERYOPTIONà€€W4_tagQUERYOPTION@@à€€î‚ƒà€€à€€à€€Uri_PROPERTY_ABSOLUTE_URIà€€à€€à€€à€€Uri_PROPERTY_STRING_STARTà€€à€€à€€Uri_PROPERTY_AUTHORITYà€€â±¶à€€à€€Uri_PROPERTY_DISPLAY_URIà€€â±¶à€€à€€Uri_PROPERTY_DOMAINà€€ã²±à€€à€€Uri_PROPERTY_EXTENSIONà€€â±‚à€€à€€Uri_PROPERTY_FRAGMENTà€€à€€à€€Uri_PROPERTY_HOSTà€€à€€à€€Uri_PROPERTY_PASSWORDà€€à€€à€€Uri_PROPERTY_PATHà€€à€€	à€€Uri_PROPERTY_PATH_AND_QUERYà€€á‚•à€€
+à€€Uri_PROPERTY_QUERYà€€â±‚à€€à€€Uri_PROPERTY_RAW_URIà€€â±‚à€€à€€Uri_PROPERTY_SCHEME_NAMEà€€â±‚à€€à€€Uri_PROPERTY_USER_INFOà€€á‚•à€€à€€Uri_PROPERTY_USER_NAMEà€€â±‚à€€à€€Uri_PROPERTY_STRING_LASTà€€â±‚à€€à€€Uri_PROPERTY_HOST_TYPEà€€ã²±à€€à€€Uri_PROPERTY_DWORD_STARTà€€ã²±à€€à€€Uri_PROPERTY_PORTà€€à€€à€€Uri_PROPERTY_SCHEMEà€€ã²±à€€à€€Uri_PROPERTY_ZONEà€€à€€à€€Uri_PROPERTY_DWORD_LASTà€€ã²±à€€à€€à€€tà€€à€€à€€bà€€à€€__MIDL_IUri_0001à€€W4__MIDL_IUri_0001@@à€€â±®à€€à€€BINDSTRING_HEADERSà€€ã²±à€€à€€BINDSTRING_ACCEPT_MIMESà€€â±‚à€€à€€BINDSTRING_EXTRA_URLà€€ã²±à€€à€€BINDSTRING_LANGUAGEà€€áª€à€€à€€BINDSTRING_USERNAMEà€€â±’à€€à€€BINDSTRING_PASSWORDà€€â±à€€à€€BINDSTRING_UA_PIXELSà€€ã²±à€€à€€BINDSTRING_UA_COLORà€€â±à€€	à€€BINDSTRING_OSà€€à€€
+à€€BINDSTRING_USER_AGENTà€€à€€à€€BINDSTRING_ACCEPT_ENCODINGSà€€â±®à€€à€€BINDSTRING_POST_COOKIEà€€áª€à€€à€€BINDSTRING_POST_DATA_MIMEà€€à€€à€€BINDSTRING_URLà€€ã²±à€€à€€BINDSTRING_IIDà€€í’€à€€à€€BINDSTRING_FLAG_BIND_TO_OBJECTà€€á²€à€€à€€BINDSTRING_PTR_BIND_CONTEXTà€€áŠ€à€€à€€à€€tà€€à€€à€€dà€€à€€tagBINDSTRINGà€€W4tagBINDSTRING@@à€€2à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagELEMDESCà€€UtagELEMDESC@@à€€Î€Rà€€à€€à€€à€€VAR_PERINSTANCEà€€ã²±à€€à€€VAR_STATICà€€â±à€€à€€VAR_CONSTà€€à€€à€€VAR_DISPATCHà€€á•à€€à€€tà€€à€€à€€gà€€à€€tagVARKINDà€€W4tagVARKIND@@à€€ã²±à€€à€€à€€à€€à€€à€€à€€memidà€€à€€qà€€à€€à€€lpstrSchemaà€€á¶€à€€"à€€à€€à€€à€€oInstà€€à€€é€à€€à€€lpvarValueà€€â±‚à€€fà€€à€€à€€elemdescVarà€€á‚•à€€!à€€à€€à€€à€€wVarFlagsà€€à€€hà€€à€€ à€€varkindà€€â±‚à€€à€€à€€ià€€à€€à€€à€€à€€à€€à€€à€€à€€à€€$à€€tagVARDESCà€€UtagVARDESC@@à€€á‚•à€€"à€€à€€à€€à€€à€€oInstà€€à€€é€à€€à€€à€€lpvarValueà€€â±‚Bà€€à€€kà€€à€€à€€tagVARDESC::<unnamed-tag>à€€T<unnamed-tag>@tagVARDESC@@à€€:à€€à€€ã²±à€€à€€à€€tdescElemà€€à€€!à€€à€€à€€à€€cDimsà€€à€€Nà€€à€€à€€rgboundsà€€Ò€à€€à€€mà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagARRAYDESCà€€UtagARRAYDESC@@à€€ã²±à€€à€€à€€è‘€à€€à€€à€€à€€à€€à€€à€€oà€€à€€
+à€€pà€€à€€
+à€€Ò€à€€!à€€à€€à€€à€€à€€wCodeà€€à€€!à€€à€€à€€à€€wReservedà€€à€€qà€€à€€à€€bstrSourceà€€â±à€€qà€€à€€à€€bstrDescriptionà€€Ò€à€€qà€€à€€à€€bstrHelpFileà€€â±à€€"à€€à€€à€€à€€dwHelpContextà€€à€€à€€à€€à€€pvReservedà€€Ò€à€€qà€€à€€à€€pfnDeferredFillInà€€à€€à€€à€€à€€à€€scodeà€€2à€€	à€€à€€rà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€tagEXCEPINFOà€€UtagEXCEPINFO@@à€€á•à€€à€€à€€XMLELEMTYPE_ELEMENTà€€Ò€à€€à€€XMLELEMTYPE_TEXTà€€á•à€€à€€XMLELEMTYPE_COMMENTà€€æ’€à€€à€€XMLELEMTYPE_DOCUMENTà€€â±à€€à€€XMLELEMTYPE_DTDà€€æ’€à€€à€€XMLELEMTYPE_PIà€€â±à€€à€€XMLELEMTYPE_OTHERà€€2à€€à€€à€€tà€€à€€à€€tà€€à€€tagXMLEMEM_TYPEà€€W4tagXMLEMEM_TYPE@@à€€Jà€€æ’€à€€à€€à€€nb_addà€€â±à€€â±à€€à€€nb_subtractà€€æ’€à€€Ò€à€€à€€nb_multiplyà€€Ò€à€€Ò€à€€à€€nb_remainderà€€ã²±à€€Ò€à€€à€€nb_divmodà€€à€€ï’€à€€à€€nb_powerà€€ã²±à€€Ò€à€€à€€nb_negativeà€€æ’€à€€ã²±à€€à€€nb_positiveà€€â±à€€æ’€à€€ à€€nb_absoluteà€€á•à€€à€€à€€$à€€nb_boolà€€Ò€à€€ã²±à€€(à€€nb_invertà€€à€€Ò€à€€,à€€nb_lshiftà€€à€€â±à€€0à€€nb_rshiftà€€à€€Ò€à€€4à€€nb_andà€€â±à€€Ò€à€€8à€€nb_xorà€€á•à€€á•à€€<à€€nb_orà€€à€€Ò€à€€@à€€nb_intà€€Ò€à€€à€€à€€Dà€€nb_reservedà€€Ò€à€€ã²±à€€Hà€€nb_floatà€€Ò€à€€ã²±à€€Là€€nb_inplace_addà€€Ò€à€€Ò€à€€Pà€€nb_inplace_subtractà€€â±à€€Ò€à€€Tà€€nb_inplace_multiplyà€€ã²±à€€Ò€à€€Xà€€nb_inplace_remainderà€€â±à€€ï’€à€€\à€€nb_inplace_powerà€€Ò€à€€ã²±à€€`à€€nb_inplace_lshiftà€€à€€æ’€à€€dà€€nb_inplace_rshiftà€€à€€ä€®à€€hà€€nb_inplace_andà€€áº€à€€ã²±à€€là€€nb_inplace_xorà€€á•à€€â±à€€pà€€nb_inplace_orà€€à€€á•à€€tà€€nb_floor_divideà€€â±à€€ã²±à€€xà€€nb_true_divideà€€á•à€€â±à€€|à€€nb_inplace_floor_divideà€€á•à€€ã²±à€€.b_inplace_true_divideà€€ã²±à€€á‚•à€€á‚•b_indexà€€â±‚"à€€à€€và€€à€€à€€à€€à€€à€€à€€à€€à€€à€€è€yNumberMethodsà€€UPyNumberMethods@@à€€á‚•
+à€€fà€€à€€
+à€€î€ƒà€€à€€à€€à€€à€€à€€memidà€€à€€à€€à€€à€€lprgscodeà€€à€€xà€€à€€à€€lprgelemdescParamà€€à€€à€€à€€à€€funckindà€€ã²±à€€é‘€à€€à€€invkindà€€á‚•à€€Hà€€à€€à€€callconvà€€â±‚à€€à€€à€€à€€à€€cParamsà€€â±‚à€€à€€à€€à€€à€€cParamsOptà€€ï¿à€€à€€à€€à€€à€€oVftà€€â±ºà€€à€€à€€à€€à€€cScodesà€€ã²±à€€fà€€à€€ à€€elemdescFuncà€€â±Žà€€!à€€à€€à€€0à€€wFuncFlagsà€€á¦€2à€€à€€à€€yà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€4à€€tagFUNCDESCà€€UtagFUNCDESC@@à€€â±à€€à€€à€€PIDMSI_STATUS_NORMALà€€â±à€€à€€PIDMSI_STATUS_NEWà€€à€€à€€PIDMSI_STATUS_PRELIMà€€â±à€€à€€PIDMSI_STATUS_DRAFTà€€á•à€€à€€PIDMSI_STATUS_INPROGRESSà€€á•à€€à€€PIDMSI_STATUS_EDITà€€á•à€€à€€PIDMSI_STATUS_REVIEWà€€ã²±à€€à€€PIDMSI_STATUS_PROOFà€€â±à€€à€€PIDMSI_STATUS_FINALà€€ã²±à€€ã²±IDMSI_STATUS_OTHERà€€á®€à€€
+à€€à€€tà€€à€€à€€{à€€à€€PIDMSI_STATUS_VALUEà€€W4PIDMSI_STATUS_VALUE@@à€€6à€€à€€à€€à€€ServerApplicationà€€à€€à€€LibraryApplicationà€€Ó€:à€€à€€à€€tà€€à€€à€€}à€€à€€tagApplicationTypeà€€W4tagApplicationType@@à€€á²€à€€tà€€à€€à€€"à€€à€€à€€à€€à€€áº€à€€à€€à€€à€€à€€bufà€€í’€à€€å’©à€€à€€objà€€â±à€€tà€€à€€à€€à€€lenà€€â“€à€€tà€€à€€à€€à€€itemsizeà€€ã“€à€€tà€€à€€à€€à€€readonlyà€€ã²±à€€tà€€à€€à€€à€€ndimà€€â±à€€pà€€à€€à€€formatà€€â“€à€€tà€€à€€à€€shapeà€€à€€tà€€à€€ à€€stridesà€€â±Šà€€tà€€à€€$à€€suboffsetsà€€Ò€à€€à€€à€€(à€€smalltableà€€á•à€€à€€à€€0à€€internalà€€â’€à€€à€€áº€à€€à€€à€€à€€à€€à€€à€€à€€à€€4à€€bufferinfoà€€Ubufferinfo@@à€€áª€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagPARAMDESCà€€UtagPARAMDESC@@à€€ä€à€€â±à€€à€€à€€tdescà€€à€€î’€à€€à€€idldescà€€â±²à€€ã²±à€€à€€paramdescà€€2à€€à€€à€€áŠ€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagELEMDESCà€€UtagELEMDESC@@à€€ë“€*à€€à€€î’€à€€à€€à€€idldescà€€ì“€à€€á•à€€à€€à€€paramdescà€€Fà€€à€€å“€à€€à€€tagELEMDESC::<unnamed-tag>à€€T<unnamed-tag>@tagELEMDESC@@à€€â±²à€€à€€à€€à€€à€€à€€mp_lengthà€€à€€í“€à€€à€€mp_subscriptà€€á‚€à€€ã‘€à€€à€€mp_ass_subscriptà€€ã²±à€€à€€ç“€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyMappingMethodsà€€UPyMappingMethods@@à€€Þ‘à€€â±¦à€€à€€à€€ob_baseà€€á²€à€€tà€€à€€à€€à€€ob_sizeà€€ã²±à€€à€€à€€éˆ¾à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€PyVarObjectà€€UPyVarObject@@à€€â±¶6à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagPARAMDESCEXà€€UtagPARAMDESCEX@@à€€á“€á€€à€€
+à€€2à€€à€€ä®±à€€à€€à€€pparamdescexà€€ì¯¿à€€!à€€à€€à€€à€€wParamFlagsà€€â¦€à€€à€€à€€ã¶€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagPARAMDESCà€€UtagPARAMDESC@@à€€í´€à€€Ø»à€€à€€à€€lpfuncdescà€€ÕŠà€€è‘€à€€à€€à€€lpvardescà€€à€€í¡€à€€à€€à€€à€€lptcompà€€Ð„à€€à€€à€€ï“€à€€à€€tagBINDPTRà€€TtagBINDPTR@@à€€ê€€à€€"à€€à€€à€€à€€à€€cBytesà€€Ç‡à€€ç®Žà€€à€€varDefaultValueà€€í“€à€€à€€à€€ä¡€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tagPARAMDESCEXà€€UtagPARAMDESCEX@@à€€ê­€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ëœ€,zRà€€à€€à€€5q(!æ€Fä³€ç©¾à€€à€€à€€/namesà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à¾€à€€ÓŸà€€ïŒ€à€€ÎŸà€€à€€hà€€à€€Ú‡à€€ALà€€à€€Xlà€€à€€i2à€€à€€Qà€€à€€d
+à€€à€€nWà€€à€€	Fà€€à€€ï¹à€€à€€Qmà€€à€€f2à€€à€€hà€€à€€v}à€€à€€ïº€à€€à€€e{à€€à€€`	à€€à€€â¼€à€€à€€â“€à€€Jyà€€à€€Mà€€à€€ä†€à€€à€€ç€€à€€Ðœà€€àº€à€€à€€+~à€€à€€H+à€€à€€ã‡€à€€Ó à€€ë €à€€r2à€€à€€ç‡€à€€STà€€à€€á©€à€€H4à€€à€€zuà€€à€€USà€€à€€2!à€€à€€8Nà€€à€€Lqà€€à€€à¶€à€€î¬€à€€Zlà€€à€€_tà€€à€€Õ‹à€€ã¦€à€€à€€Tà€€à€€ã³€à€€à€€è³€à€€á•€à€€æ€à€€9)à€€à€€á‰€à€€'à€€à€€á©€à€€ë›€à€€É¾à€€à€€)Yà€€à€€éà€€á’€à€€R=à€€à€€t2à€€à€€èˆ€à€€jà€€à€€uà€€à€€?,à€€à€€Ó«à€€=à€€à€€â¦€à€€à€€Qà€€à€€	?à€€à€€rà€€à€€à€€ä¼¼à€€?.à€€à€€N[à€€à€€QWà€€à€€RPà€€à€€ç‘€à€€Õ€à€€á–€à€€}@à€€à€€ì€à€€é¡€à€€à€€*rà€€à€€ì¸€à€€~à€€à€€à€€èŠ€à€€z	à€€à€€à€€à€€Î€à€€1Sà€€à€€bà€€à€€1xà€€à€€v2à€€à€€.(à€€à€€}8à€€à€€è„€à€€Oà€€à€€èª˜à€€é»ƒà€€åœ‹à€€^Eà€€à€€9rà€€à€€é¨€à€€Uqà€€à€€ëŒ€à€€Æ¶à€€4sà€€à€€à²€à€€â³€à€€à€€ë€à€€X-à€€à€€äª€à€€à€€`à€€à€€Là€€à€€2~à€€à€€8à€€à€€9à€€à€€Ê€à€€í±€à€€à€€Ò€à€€9Jà€€à€€dFà€€à€€Ç²à€€wsà€€à€€ÖŠà€€*oà€€à€€ë·€à€€u^à€€à€€ëŸ€à€€btà€€à€€ê€à€€áª€à€€á €à€€à€€n>à€€à€€[à€€à€€\9à€€à€€%pà€€à€€í½€à€€ë¯€à€€í¯€à€€í€à€€Ï›à€€à€€Sà€€à€€è–€à€€"&à€€à€€GIà€€à€€qoà€€à€€ä­€à€€u1à€€à€€å‘€à€€à€€à€€â‘€à€€åˆ–à€€è¬€à€€4#à€€à€€ï²€à€€à€€é€à€€î­€à€€gà€€à€€ì£€à€€à€€]'à€€à€€k_à€€à€€&[à€€à€€	à€€à€€â®€à€€Wà€€à€€)Fà€€à€€å¶€à€€ë´€à€€~à€€à€€á¿€à€€ßà€€è’™à€€ë¥€à€€.à€€à€€ä¡€à€€á¸€à€€ï³€à€€Eà€€à€€yà€€à€€â†€à€€~à€€à€€b5à€€à€€~à€€à€€và€€à€€ Và€€à€€ç‡Žà€€è„¹à€€äŒ€à€€à€€'à€€à€€Ä­à€€Aà€€à€€ì˜€à€€Èà€€î¤€à€€B à€€à€€.là€€à€€Î¦à€€à€€J=à€€à€€ç¶´à€€ã”€à€€P?à€€à€€q[à€€à€€f#à€€à€€î¨€à€€ã¨€à€€âš€à€€ubà€€à€€î³€à€€åœ‹à€€âƒ€à€€saà€€à€€oqà€€à€€@/à€€à€€92à€€à€€è‰€à€€å¶à€€lrà€€à€€Ö¹à€€à€€zZà€€à€€Pgà€€à€€í¿€à€€%à€€à€€ë´€à€€gà€€à€€Ryà€€à€€ã€à€€mvà€€à€€Ô¤à€€å‰ƒà€€Ù¬à€€æ¿€à€€é‹€à€€Ü’à€€á§€à€€à€€ "à€€à€€åƒ€à€€7tà€€à€€æ·¨à€€0|à€€à€€KXà€€à€€ê™€à€€à€€ã’€à€€`%à€€à€€@à€€à€€ieà€€à€€3aà€€à€€æ¾€à€€'Cà€€à€€Ø€à€€~à€€à€€é¹€à€€ã€à€€&à€€à€€á²€à€€à€€ï¾€à€€p^à€€à€€5à€€à€€*à€€à€€è£€à€€Ð‚à€€m
+à€€à€€î°€à€€;	à€€à€€<(à€€à€€ä“€à€€ÞŽà€€à€€ Wà€€à€€à€€à€€Çà€€à€€î¸€à€€	à€€à€€}à€€à€€à€€à€€ê‡€à€€à€€è§€à€€(nà€€à€€ã€à€€ä¢€à€€Wà€€à€€3à€€à€€TQà€€à€€b}à€€à€€zà€€à€€á¦€à€€58à€€à€€\'à€€à€€Ià€€à€€"mà€€à€€ç¿€à€€Ä†à€€4Qà€€à€€Î¨à€€à€€î˜€à€€k1à€€à€€Ú‰à€€IIà€€à€€Ò˜:à€€à€€2à€€à€€:à€€à€€Ià€€à€€Eà€€à€€îŸ€à€€Î¹à€€à€€ãœ€à€€Xà€€à€€<à€€à€€í‚€à€€O@à€€à€€è§€à€€yà€€à€€é»€à€€;à€€à€€HSà€€à€€S.à€€à€€ìƒ€à€€dà€€à€€GYà€€à€€9{à€€à€€52à€€à€€;à€€à€€à·€à€€}gà€€à€€ë»€à€€à€€é¹€à€€.Zà€€à€€îž€à€€	Rà€€à€€Ïšà€€à€€Fà€€à€€Î™à€€à€€æƒ€à€€Ö©à€€à€€í¸€à€€ë°€à€€HNà€€à€€<ià€€à€€!kà€€à€€M|à€€à€€Ycà€€à€€ê€€à€€ß¢à€€zEà€€à€€ç¬€à€€ìŸ€à€€à€€æ¾à€€é§˜à€€à¡€Uà€€à€€:à€€à€€1à€€à€€?>à€€à€€l*à€€à€€Üƒà€€à€€à€€à€€à€€à€€ì”€à€€à€€A.à€€à€€ä…€à€€å­€à€€í†€à€€SWà€€à€€ì±€à€€%à€€à€€ë†€à€€ë£€à€€]à€€à€€î•€à€€=à€€à€€]\à€€à€€Kà€€à€€'8à€€à€€ì´€à€€'=à€€à€€éŒ€à€€à€€à€€mà€€à€€éˆ€à€€è™€à€€Zà€€à€€(à€€à€€à€€à€€gMà€€à€€å±€à€€Ì¦à€€à€€Ç€à€€à€€=Nà€€à€€q*à€€à€€ê¿€à€€Ù‚à€€jà€€à€€ÓŸà€€HRà€€à€€hnà€€à€€R)à€€à€€=zà€€à€€	$à€€à€€^9à€€à€€3dà€€à€€
+à€€à€€n{à€€à€€Ôà€€à€€aà€€à€€#$à€€à€€Yà€€à€€kvà€€à€€-hà€€à€€Mà€€à€€vjà€€à€€2[à€€à€€à€€à€€d:à€€à€€5/à€€à€€(	à€€à€€|Ià€€à€€É§à€€Âà€€æ°€à€€7+à€€à€€é¡€à€€à€€â¹€à€€æª¢à€€è·à€€ZQà€€à€€.à€€à€€è…€à€€á§€à€€Ú‡à€€ä¥€à€€Ugà€€à€€[à€€à€€è•€à€€ì‘€à€€í¬€à€€^@à€€à€€Xfà€€à€€YOà€€à€€å†€à€€2à€€à€€tkà€€à€€ä €à€€à€€),à€€à€€í€à€€à€€y0à€€à€€)à€€à€€>à€€à€€â£€à€€ä¨€à€€à€€Ýµà€€à€€Pà€€à€€á°€à€€à€€fà€€à€€yà€€à€€Eà€€à€€Bà€€à€€4à€€à€€.à€€à€€h:à€€à€€eà€€à€€và€€à€€#Rà€€à€€ìŽ€à€€à€€I1à€€à€€=8à€€à€€Wrà€€à€€È¬à€€à€€Ô€à€€ä‡€à€€4à€€à€€éŠ€à€€âˆ€à€€cà€€à€€?à€€à€€Þ©à€€	à€€à€€é¾œà€€5?à€€à€€Ç’à€€à€€'zà€€à€€$à€€à€€:Dà€€à€€1à€€à€€Å¤à€€æ’€à€€B_à€€à€€zfà€€à€€í„€à€€à€€à€€à€€Pà€€à€€ä°€à€€á¾€à€€7à€€à€€ì¸€à€€Èƒà€€""à€€à€€é¯€à€€ZIà€€à€€Ô¨à€€à€€çª€à€€ï¾€à€€bà€€à€€aà€€à€€î€à€€*à€€à€€é´€à€€yPà€€à€€ÐŸà€€â‰€à€€à€€ià€€à€€×”à€€à€€à€€p=à€€à€€Ì¥à€€Î›à€€à€€T`à€€à€€í¡€à€€oà€€à€€åˆ‡à€€Ñ€à€€à€€pYà€€à€€Ê‚à€€à€€bà€€à€€`bà€€à€€ÆŸà€€à€€Y à€€à€€î‹€à€€é¡€à€€6	à€€à€€cdà€€à€€à¤€à€€è¿«à€€o à€€à€€â­€à€€á˜€à€€ë¿€à€€FEà€€à€€é€†à€€ä’€à€€à€€)Qà€€à€€G	à€€à€€é¶¿à€€
+à€€à€€Öžà€€à€€à€€à€€!à€€à€€ä‡€à€€ë²€à€€à€€Kpà€€à€€â€€à€€Ý½à€€à€€ãŸ€à€€à€€5]à€€à€€dà€€à€€e1à€€à€€â†€&à€€à€€Ò¾à€€-Uà€€à€€å§€à€€ê¶€à€€à€€}Kà€€à€€4wà€€à€€?à€€à€€á€à€€à€€ç·€à€€-aà€€à€€Òà€€à€€~gà€€à€€â¼€à€€fhà€€à€€ì©€à€€í¶€à€€ç—€à€€æœ€à€€k=à€€à€€â¤€à€€!à€€à€€×«aà€€à€€Õ½à€€Ú‡à€€Âà€€à€€^và€€à€€á¦€à€€:à€€à€€85à€€à€€Và€€à€€à€€à€€à€€Oà€€à€€é¡€à€€Ü›à€€åº€à€€Fà€€à€€à€€ÚŒ|à€€à€€j/à€€à€€æ€à€€Zà€€à€€î´€à€€æ¯€à€€è„€à€€O#à€€à€€Xà€€à€€wqà€€à€€Ìà€€à€€áœ€à€€í†€à€€ZEà€€à€€æ¬¾à€€Æ€à€€à€€Ùƒà€€@kà€€à€€Ëà€€å‚€à€€f1à€€à€€C
+à€€à€€ï‡€à€€ê”€à€€à€€Î—à€€à€€{Yà€€à€€]à€€à€€î€€à€€Öºà€€
+Ià€€à€€Õ»à€€(@à€€à€€Ù»à€€Gà€€à€€ÅŠà€€â‰€à€€à€€$à€€à€€y^à€€à€€= à€€à€€â€€à€€à€€à€€à€€èž¿à€€(;à€€à€€îµ€à€€Eà€€à€€Ó±à€€à€€é½”à€€æŒ€à€€rà€€à€€ä‚€à€€à€€ì½€à€€rà€€à€€Ð€à€€á»€à€€à€€Ö»à€€à€€Ù£à€€à€€Eà€€à€€í…€à€€dà€€à€€à¬€à€€â£€à€€à€€=Nà€€à€€å–€à€€\à€€à€€áƒ€à€€à€€åˆ–à€€è¼€à€€î‰€à€€â¾€à€€à€€é½€à€€Eà€€à€€\dà€€à€€@^à€€à€€^-à€€à€€Ì¤à€€à€€à€€9]à€€à€€;yà€€à€€(à€€à€€Éªà€€à€€æ¢€à€€v.à€€à€€_à€€à€€ê¡€à€€à€€à³€à€€à€€é€à€€	!à€€à€€r)à€€à€€åˆ‡à€€3`à€€à€€ï®€à€€à€€n5à€€à€€î²€à€€å’€à€€ãž€à€€Zcà€€à€€ßžà€€â¿€à€€à€€à®€à€€Ê—à€€s9à€€à€€r9à€€à€€ià€€à€€(5à€€à€€9Eà€€à€€Õˆà€€æ€à€€Hpà€€à€€â­€à€€ã€€à€€h2à€€à€€Ø€à€€à€€ë‡€à€€à€€Mà€€à€€ä‡€à€€@à€€à€€È à€€è†à€€-à€€à€€~à€€à€€r^à€€à€€à€€à€€Í¬à€€?!à€€à€€ï¬€à€€O2à€€à€€ã®€à€€:à€€à€€Fuà€€à€€!à€€à€€,\à€€à€€\dà€€à€€hà€€à€€`=à€€à€€å»‹à€€æ…€à€€0à€€à€€
+à€€à€€ä›€à€€à€€ë›€à€€à€€à¯€à€€Ò˜à€€P9à€€à€€]à€€à€€ì¢€à€€è™€à€€W\à€€à€€Sà€€à€€ìŸ€à€€ê¡€à€€à€€×‘à€€Ô«à€€>Aà€€à€€W&à€€à€€î¬€à€€ì¸€à€€à€€Î²à€€à€€ä¦€à€€à€€æ›€à€€á €à€€)à€€à€€|Jà€€à€€{Xà€€à€€è§€à€€è–€à€€ëµ€à€€ì¾€à€€ï©€à€€ã‹€à€€à€€yqà€€à€€@à€€Ïœà€€à€€Ý“à€€è’€à€€và€€à€€í”€à€€4Rà€€à€€{à€€à€€m*à€€à€€×Šà€€6zà€€à€€&*à€€à€€î™€à€€5Mà€€à€€ç§€à€€Ô¡à€€Yoà€€à€€Ð à€€à€€Çªà€€*Ià€€à€€1à€€à€€7à€€à€€W~à€€à€€æ·¨à€€*à€€à€€swà€€à€€bà€€à€€(à€€à€€È¥à€€í‰€à€€è¬€à€€à€€à€€à€€à€€â²€à€€à€€C2à€€à€€ì¾€à€€à€€â¤€à€€}à€€à€€kZà€€à€€	~à€€à€€G=à€€à€€(à€€à€€àº€à€€XNà€€à€€æ¬€à€€q5à€€à€€Îà€€#à€€à€€ë—€à€€Úˆà€€Ô€à€€æˆ€à€€auà€€à€€à€€à€€à€€à€€Í„à€€}Sà€€à€€nà€€à€€ÌŠà€€à€€ã»€à€€à€€	,à€€à€€}Cà€€à€€A à€€à€€Ü‹à€€\-à€€à€€Ö€à€€ç“€à€€1Mà€€à€€ê €à€€à€€?à€€à€€Øà€€à€€d,à€€à€€ì‘€à€€à€€:à€€à€€[à€€à€€$à€€à€€k=à€€à€€kaà€€à€€4à€€à€€ê’€à€€à€€Q/à€€à€€Uià€€à€€ä€€à€€à€€æ‡·à€€<à€€à€€Lfà€€à€€å‡ºà€€Ì€à€€4à€€à€€äŽ€à€€BYà€€à€€Xtà€€à€€GFà€€à€€kIà€€à€€Eà€€à€€â±Šà€€tHà€€à€€ç§€à€€èŒ€à€€â±Šà€€|à€€à€€{ à€€à€€6à€€à€€&	à€€à€€Yà€€à€€heà€€à€€ã²±à€€áŠ€à€€à€€ã²±à€€â±à€€à€€Nà€€à€€<uà€€à€€i
+à€€à€€à€€à€€â±¾à€€;Tà€€à€€ã²±à€€à€€M,à€€à€€áŠ€à€€à€€á•à€€á•à€€à€€á•à€€=[à€€à€€l5à€€à€€'>à€€à€€â±à€€Sà€€à€€á†€à€€à€€[à€€à€€N^à€€à€€ipà€€à€€(à€€à€€à€€à€€à€€à€€à€€à€€à€€ç®Žà€€$ à€€à€€Yà€€à€€$@à€€à€€ã²±à€€`à€€à€€á•à€€à€€à€€à€€à€€uà€€à€€â±ªà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€`à€€à€€à€€Gà€€à€€à€€0ã²±à€€à€€à€€à€€à€€à€€à€€à€€â±Šà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€pà€€à€€à€€à€€áŠ€à€€à€€à€€
+à€€
+à€€qà€€à€€à€€à€€ã²±à€€à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€ã²±
+à€€à€€à€€
+à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€	à€€à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadlocaleinfostructà€€Uthreadlocaleinfostruct@@à€€â±à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadmbcinfostructà€€Uthreadmbcinfostruct@@à€€â±
+à€€à€€à€€
+à€€*à€€à€€à€€à€€à€€à€€locinfoà€€ã²±à€€à€€à€€à€€mbcinfoà€€â±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€â±à€€à€€à€€à€€qà€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_iobufà€€U_iobuf@@à€€â±à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€î€ƒà€€pà€€à€€à€€à€€_ptrà€€áž€à€€tà€€à€€à€€à€€_cntà€€áŽ€à€€pà€€à€€à€€_baseà€€à€€tà€€à€€à€€à€€_flagà€€à€€tà€€à€€à€€à€€_fileà€€à€€tà€€à€€à€€à€€_charbufà€€áŠ€à€€tà€€à€€à€€à€€_bufsizà€€áŠ€à€€pà€€à€€à€€_tmpfnameà€€&à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_iobufà€€U_iobuf@@à€€Þ€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€#à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€%à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€'à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€à€€à€€à€€)à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€+à€€à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€ã²±"à€€à€€à€€à€€à€€à€€à€€quotà€€â±à€€à€€à€€à€€à€€remà€€á•à€€à€€à€€.à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€-à€€à€€à€€à€€à€€0à€€à€€
+à€€à€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€2à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€Aà€€à€€à€€à€€à€€à€€4à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€6à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€à€€à€€8à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€:à€€à€€
+à€€à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€<à€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€>à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€Bà€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€à€€à€€Dà€€à€€
+à€€à€€à€€à€€à€€ã²±à€€Fà€€à€€
+à€€
+à€€à€€à€€à€€Gà€€à€€à€€qà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Jà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€Là€€à€€à€€pà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€pà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Oà€€à€€à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tmà€€Utm@@à€€â±Qà€€à€€
+à€€æ†®à€€tà€€à€€à€€à€€à€€tm_secà€€â±à€€tà€€à€€à€€à€€tm_minà€€á•à€€tà€€à€€à€€à€€tm_hourà€€á•à€€tà€€à€€à€€à€€tm_mdayà€€á¢€à€€tà€€à€€à€€à€€tm_monà€€á®€à€€tà€€à€€à€€à€€tm_yearà€€áŽ€à€€tà€€à€€à€€à€€tm_wdayà€€â±Šà€€tà€€à€€à€€à€€tm_ydayà€€ã²±à€€tà€€à€€à€€ à€€tm_isdstà€€â±Š	à€€à€€Sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€$à€€tmà€€Utm@@à€€á‚€Rà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€Rà€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Và€€à€€
+à€€à€€à€€à€€Rà€€à€€à€€à€€à€€à€€à€€à€€à€€Xà€€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Zà€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_stat64i32à€€U_stat64i32@@à€€ã²±\à€€à€€
+à€€à€€à€€à€€à€€tà€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€^à€€à€€"à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€statà€€Ustat@@à€€â±Š`à€€à€€
+à€€â±Šà€€uà€€à€€à€€à€€à€€st_devà€€áŠ€à€€!à€€à€€à€€à€€st_inoà€€áŠ€à€€!à€€à€€à€€à€€st_modeà€€ã²±à€€à€€à€€à€€à€€st_nlinkà€€á€à€€à€€à€€à€€
+à€€st_uidà€€ã€à€€à€€à€€à€€à€€st_gidà€€ä€à€€uà€€à€€à€€à€€st_rdevà€€ã²±à€€à€€à€€à€€à€€st_sizeà€€ã²±à€€à€€à€€à€€à€€st_atimeà€€ê€à€€à€€à€€à€€ à€€st_mtimeà€€ë€à€€à€€à€€à€€(à€€st_ctimeà€€â±žà€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€statà€€Ustat@@à€€â±à€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€_stat64i32à€€U_stat64i32@@à€€Ð€à€€à€€à€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€eà€€à€€
+à€€tà€€à€€à€€à€€á•à€€gà€€à€€
+à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€uà€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€ià€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€kà€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€mà€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€â€
+à€€oà€€à€€à€€á•à€€pà€€à€€
+à€€à€€ à€€à€€à€€"à€€à€€à€€à€€à€€ã²±à€€"à€€à€€à€€à€€à€€Data1à€€à€€!à€€à€€à€€à€€Data2à€€à€€!à€€à€€à€€à€€Data3à€€à€€rà€€à€€à€€Data4à€€&à€€à€€à€€sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€â±
+à€€pà€€à€€*à€€à€€à€€à€€à€€uà€€à€€uà€€à€€à€€tà€€à€€à€€à€€à€€à€€và€€à€€
+à€€à€€à€€à€€à€€ì€à€€xà€€à€€
+à€€
+à€€à€€à€€
+à€€
+à€€pà€€à€€à€€à€€á•à€€{à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€í€}à€€à€€
+à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_POOLà€€U_TP_POOL@@à€€ã²±à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CLEANUP_GROUPà€€U_TP_CLEANUP_GROUP@@à€€í€
+à€€áŠ€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Ð€à€€
+à€€â€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ACTIVATION_CONTEXTà€€U_ACTIVATION_CONTEXT@@à€€ì€
+à€€æ”™à€€
+à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_INSTANCEà€€U_TP_CALLBACK_INSTANCE@@à€€í€
+à€€ç®Žà€€
+à€€à€€à€€à€€à€€é€à€€à€€à€€à€€à€€à€€à€€à€€à€€ê€…à€€
+à€€È·à€€
+à€€^à€€à€€à€€è¿à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>à€€T<unnamed-type-u>@_TP_CALLBACK_ENVIRON@@à€€ÐŠà€€à€€"à€€à€€à€€à€€à€€Versionà€€ë €à€€â¦€à€€à€€Poolà€€ã¶€à€€í´€à€€à€€CleanupGroupà€€Ø»à€€å’©à€€à€€CleanupGroupCancelCallbackà€€ÕŠà€€à€€à€€à€€RaceDllà€€í¡€à€€ç€à€€à€€ActivationContextà€€à€€Ð„à€€à€€FinalizationCallbackà€€ê€€à€€à€€Ç‡à€€<unnamed-type-u>à€€í“€à€€ä¡€à€€à€€uà€€Bà€€	à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€ê­€ëœ€à€€
+à€€
+à€€ä³€à€€
+à€€
+à€€å’©à€€
+à€€
+à€€ç€à€€
+à€€
+à€€à¾€à€€
+à€€
+à€€ÓŸà€€
+à€€
+à€€å’©à€€
+à€€Ú‡à€€à€€è¿à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>::<unnamed-type-s>à€€U<unnamed-typåª¯à€€'à€€à€€aà€€à€€à€€à€€ïº€à€€à€€sGà€€à€€L=à€€à€€à€€à€€â¼€à€€à€€5_à€€à€€â“€à€€è’™à€€<à€€à€€Hpà€€à€€é¤˜à€€Aà€€à€€cqà€€à€€Zeà€€à€€ä†€à€€Ðœà€€ïŒ€à€€ÎŸà€€à€€hà€€à€€àº€à€€ALà€€à€€Xlà€€à€€i2à€€à€€Qà€€à€€d
+à€€à€€nWà€€à€€	Fà€€à€€ï¹à€€à€€Qmà€€à€€f2à€€à€€hà€€à€€v}à€€à€€ã‡€à€€à€€e{à€€à€€`	à€€à€€Ó à€€à€€ë €à€€Jyà€€à€€Mà€€à€€á©€à€€à€€ç€€à€€à¶€à€€Õ‹à€€à€€+~à€€à€€H+à€€à€€ã¦€à€€ã³€à€€á•€à€€r2à€€à€€ç‡€à€€STà€€à€€á‰€à€€H4à€€à€€zuà€€à€€USà€€à€€2!à€€à€€8Nà€€à€€Lqà€€à€€á©€à€€î¬€à€€Zlà€€à€€_tà€€à€€ë›€à€€É¾à€€à€€Tà€€à€€á’€à€€à€€è³€à€€Ó«à€€æ€à€€9)à€€à€€â¦€à€€'à€€à€€Õ€à€€á–€à€€ì€à€€à€€)Yà€€à€€éà€€é¡€à€€R=à€€à€€t2à€€à€€èˆ€à€€jà€€à€€uà€€à€€?,à€€à€€ì¸€à€€=à€€à€€Î€à€€à€€Qà€€à€€	?à€€à€€rà€€à€€à€€ä¼¼à€€?.à€€à€€N[à€€à€€QWà€€à€€RPà€€à€€ç‘€à€€é¨€à€€ëŒ€à€€}@à€€à€€Æ¶à€€à²€à€€à€€*rà€€à€€â³€à€€~à€€à€€à€€èŠ€à€€z	à€€à€€à€€à€€ë€à€€1Sà€€à€€bà€€à€€1xà€€à€€v2à€€à€€.(à€€à€€}8à€€à€€è„€à€€Oà€€à€€èª˜à€€é»ƒà€€åœ‹à€€^Eà€€à€€9rà€€à€€äª€à€€Uqà€€à€€Ê€à€€í±€à€€4sà€€à€€Ò€à€€Ç²à€€à€€ÖŠà€€X-à€€à€€ë·€à€€à€€`à€€à€€Là€€à€€2~à€€à€€8à€€à€€9à€€à€€ëŸ€à€€ê€à€€à€€áª€à€€9Jà€€à€€dFà€€à€€á €à€€wsà€€à€€í½€à€€*oà€€à€€ë¯€à€€u^à€€à€€í¯€à€€btà€€à€€í€à€€Ï›à€€ä­€à€€à€€n>à€€à€€[à€€à€€\9à€€à€€%pà€€à€€â‘€à€€ï²€à€€ì£€à€€â®€à€€ë´€à€€à€€Sà€€à€€è–€à€€"&à€€à€€GIà€€à€€qoà€€à€€á¿€à€€u1à€€à€€å‘€à€€à€€à€€ßà€€åˆ–à€€è¬€à€€4#à€€à€€ë¥€à€€à€€é€à€€î­€à€€gà€€à€€ä¡€à€€à€€]'à€€à€€k_à€€à€€&[à€€à€€	à€€à€€á¸€à€€Wà€€à€€)Fà€€à€€å¶€à€€ï³€à€€~à€€à€€â†€à€€äŒ€à€€è’™à€€Ä­à€€.à€€à€€ì˜€à€€Èà€€ã”€à€€Eà€€à€€yà€€à€€ã¨€à€€~à€€à€€b5à€€à€€~à€€à€€và€€à€€ Và€€à€€ç‡Žà€€è„¹à€€âš€à€€à€€'à€€à€€âƒ€à€€Aà€€à€€Ö¹à€€í¿€à€€î¤€à€€B à€€à€€.là€€à€€Î¦à€€à€€J=à€€à€€ç¶´à€€ë´€à€€P?à€€à€€q[à€€à€€f#à€€à€€î¨€à€€ã€à€€Ô¤à€€ubà€€à€€î³€à€€åœ‹à€€Ù¬à€€saà€€à€€oqà€€à€€@/à€€à€€92à€€à€€è‰€à€€å¶à€€lrà€€à€€Ü’à€€à€€zZà€€à€€Pgà€€à€€á§€à€€%à€€à€€åƒ€à€€gà€€à€€Ryà€€à€€ê™€à€€mvà€€à€€ã’€à€€å‰ƒà€€Ø€à€€æ¿€à€€é‹€à€€é¹€à€€ã€à€€à€€ "à€€à€€á²€à€€7tà€€à€€æ·¨à€€0|à€€à€€KXà€€à€€ï¾€à€€à€€Ð‚à€€`%à€€à€€@à€€à€€ieà€€à€€3aà€€à€€æ¾€à€€'Cà€€à€€ä“€à€€~à€€à€€ÞŽà€€Çà€€&à€€à€€ê‡€à€€à€€ã€à€€p^à€€à€€5à€€à€€*à€€à€€è£€à€€ä¢€à€€m
+à€€à€€î°€à€€;	à€€à€€<(à€€à€€á¦€à€€Ä†à€€à€€ Wà€€à€€à€€à€€Ú‰à€€à€€î¸€à€€	à€€à€€}à€€à€€à€€à€€Ò˜à€€à€€è§€à€€(nà€€à€€ãœ€à€€í‚€à€€Wà€€à€€3à€€à€€TQà€€à€€b}à€€à€€zà€€à€€ìƒ€à€€58à€€à€€\'à€€à€€Ià€€à€€"mà€€à€€ç¿€à€€à·€à€€4Qà€€à€€Î¨à€€à€€î˜€à€€k1à€€à€€ë»€à€€IIà€€à€€é¹€:à€€à€€2à€€à€€:à€€à€€Ià€€à€€Eà€€à€€îŸ€à€€Î¹à€€à€€Ïšà€€Xà€€à€€<à€€à€€Ö©à€€O@à€€à€€è§€à€€yà€€à€€é»€à€€;à€€à€€HSà€€à€€S.à€€à€€í¸€à€€dà€€à€€GYà€€à€€9{à€€à€€52à€€à€€;à€€à€€ë°€à€€}gà€€à€€ê€€à€€à€€ß¢à€€.Zà€€à€€îž€à€€	Rà€€à€€ìŸ€à€€à€€Fà€€à€€Î™à€€à€€æƒ€à€€à¡€à€€à€€Üƒà€€ì”€à€€HNà€€à€€<ià€€à€€!kà€€à€€M|à€€à€€Ycà€€à€€ä…€à€€í†€à€€zEà€€à€€ç¬€à€€ì±€à€€à€€æ¾à€€é§˜à€€ë†€Uà€€à€€:à€€à€€1à€€à€€?>à€€à€€l*à€€à€€ë£€à€€à€€à€€à€€à€€à€€ì´€à€€à€€A.à€€à€€Ì¦à€€å­€à€€Ç€à€€SWà€€à€€ê¿€à€€%à€€à€€Ù‚à€€ÓŸà€€]à€€à€€î•€à€€=à€€à€€]\à€€à€€Kà€€à€€'8à€€à€€Ôà€€'=à€€à€€éŒ€à€€à€€à€€mà€€à€€éˆ€à€€è™€à€€Zà€€à€€(à€€à€€à€€à€€gMà€€à€€å±€à€€É§à€€à€€Âà€€à€€=Nà€€à€€q*à€€à€€é¡€à€€â¹€à€€jà€€à€€è…€à€€HRà€€à€€hnà€€à€€R)à€€à€€=zà€€à€€	$à€€à€€^9à€€à€€3dà€€à€€
+à€€à€€n{à€€à€€á§€à€€à€€aà€€à€€#$à€€à€€Yà€€à€€kvà€€à€€-hà€€à€€Mà€€à€€vjà€€à€€2[à€€à€€à€€à€€d:à€€à€€5/à€€à€€(	à€€à€€|Ià€€à€€Ú‡à€€ä¥€à€€æ°€à€€7+à€€à€€ì‘€à€€à€€í¬€à€€æª¢à€€è·à€€ZQà€€à€€.à€€à€€ä €à€€í€à€€â£€à€€ä¨€à€€Ugà€€à€€[à€€à€€è•€à€€Ýµà€€á°€à€€^@à€€à€€Xfà€€à€€YOà€€à€€å†€à€€2à€€à€€tkà€€à€€ìŽ€à€€à€€),à€€à€€È¬à€€à€€y0à€€à€€)à€€à€€>à€€à€€Ô€à€€ä‡€à€€à€€âˆ€à€€à€€Pà€€à€€Þ©à€€à€€fà€€à€€yà€€à€€Eà€€à€€Bà€€à€€4à€€à€€.à€€à€€h:à€€à€€eà€€à€€và€€à€€#Rà€€à€€Ç’à€€à€€I1à€€à€€=8à€€à€€Wrà€€à€€Å¤à€€à€€æ’€à€€í„€à€€4à€€à€€éŠ€à€€ä°€à€€cà€€à€€?à€€à€€á¾€à€€	à€€à€€é¾œà€€5?à€€à€€ì¸€à€€à€€'zà€€à€€$à€€à€€:Dà€€à€€1à€€à€€Èƒà€€Ô¨à€€B_à€€à€€zfà€€à€€ï¾€à€€à€€à€€à€€Pà€€à€€ÐŸà€€â‰€à€€7à€€à€€×”à€€Ì¥à€€""à€€à€€é¯€à€€ZIà€€à€€í¡€à€€à€€çª€à€€Ñ€à€€bà€€à€€aà€€à€€î€à€€*à€€à€€é´€à€€yPà€€à€€Ê‚à€€ÆŸà€€à€€ià€€à€€é¡€à€€à€€à€€p=à€€à€€à¤€à€€Î›à€€à€€T`à€€à€€â­€à€€oà€€à€€åˆ‡à€€á˜€à€€à€€pYà€€à€€ë¿€à€€à€€bà€€à€€`bà€€à€€ä’€à€€à€€Y à€€à€€î‹€à€€Öžà€€6	à€€à€€cdà€€à€€ä‡€à€€è¿«à€€o à€€à€€ë²€à€€â€€à€€Ý½à€€FEà€€à€€é€†à€€ãŸ€à€€à€€)Qà€€à€€G	à€€à€€é¶¿à€€
+à€€à€€â†€à€€à€€à€€à€€!à€€à€€Ò¾à€€ê¶€à€€à€€Kpà€€à€€á€à€€Òà€€à€€â¼€à€€à€€5]à€€à€€dà€€à€€e1à€€à€€ì©€&à€€à€€í¶€à€€-Uà€€à€€å§€à€€â¤€à€€à€€}Kà€€à€€4wà€€à€€?à€€à€€×«à€€à€€ç·€à€€-aà€€à€€Õ½à€€à€€~gà€€à€€Ú‡à€€fhà€€à€€Âà€€á¦€à€€ç—€à€€æœ€à€€k=à€€à€€é¡€à€€!à€€à€€Ü›aà€€à€€ÚŒà€€Ìà€€áœ€à€€à€€^và€€à€€í†€à€€:à€€à€€85à€€à€€Và€€à€€à€€à€€à€€Oà€€à€€Æ€à€€Ùƒà€€åº€à€€Fà€€à€€à€€Ë|à€€à€€j/à€€à€€æ€à€€Zà€€à€€î´€à€€æ¯€à€€è„€à€€O#à€€à€€Xà€€à€€wqà€€à€€ê”€à€€à€€Öºà€€Õ»à€€ZEà€€à€€æ¬¾à€€Ù»à€€à€€ÅŠà€€@kà€€à€€â‰€à€€å‚€à€€f1à€€à€€C
+à€€à€€ï‡€à€€â€€à€€à€€Î—à€€à€€{Yà€€à€€]à€€à€€î€€à€€Ó±à€€
+Ià€€à€€ä‚€à€€(@à€€à€€ì½€à€€Gà€€à€€Ð€à€€á»€à€€à€€$à€€à€€y^à€€à€€= à€€à€€Ö»à€€à€€à€€à€€èž¿à€€(;à€€à€€îµ€à€€Eà€€à€€Ù£à€€à€€é½”à€€æŒ€à€€rà€€à€€í…€à€€à€€à¬€à€€rà€€à€€â£€à€€áƒ€à€€à€€â¾€à€€à€€Ì¤à€€à€€Eà€€à€€Éªà€€dà€€à€€ê¡€à€€à³€à€€à€€=Nà€€à€€å–€à€€\à€€à€€ï®€à€€à€€åˆ–à€€è¼€à€€î‰€à€€ãž€à€€à€€é½€à€€Eà€€à€€\dà€€à€€@^à€€à€€^-à€€à€€ßžà€€à€€à€€9]à€€à€€;yà€€à€€(à€€à€€â¿€à€€à€€æ¢€à€€v.à€€à€€_à€€à€€à®€à€€à€€Ê—à€€à€€é€à€€	!à€€à€€r)à€€à€€åˆ‡à€€3`à€€à€€Õˆà€€à€€n5à€€à€€î²€à€€å’€à€€â­€à€€Zcà€€à€€Ø€à€€ë‡€à€€à€€ä‡€à€€È à€€s9à€€à€€r9à€€à€€ià€€à€€(5à€€à€€9Eà€€à€€Í¬à€€æ€à€€Hpà€€à€€ï¬€à€€ã€€à€€h2à€€à€€ã®€à€€à€€ä›€à€€à€€Mà€€à€€ë›€à€€@à€€à€€à¯€à€€è†à€€-à€€à€€~à€€à€€r^à€€à€€à€€à€€Ò˜à€€?!à€€à€€ì¢€à€€O2à€€à€€ìŸ€à€€:à€€à€€Fuà€€à€€!à€€à€€,\à€€à€€\dà€€à€€hà€€à€€`=à€€à€€å»‹à€€æ…€à€€0à€€à€€
+à€€à€€ê¡€à€€à€€×‘à€€à€€Ô«à€€ì¸€à€€P9à€€à€€]à€€à€€ä¦€à€€è™€à€€W\à€€à€€Sà€€à€€á €à€€ëµ€à€€à€€ì¾€à€€ï©€à€€>Aà€€à€€W&à€€à€€î¬€à€€ã‹€à€€à€€Î²à€€à€€Ïœà€€à€€æ›€à€€Ý“à€€)à€€à€€|Jà€€à€€{Xà€€à€€è§€à€€è–€à€€è’€à€€í”€à€€×Šà€€Ô¡à€€à€€yqà€€à€€@à€€Ð à€€à€€Çªà€€È¥à€€và€€à€€í‰€à€€4Rà€€à€€{à€€à€€m*à€€à€€â²€à€€6zà€€à€€&*à€€à€€î™€à€€5Mà€€à€€ç§€à€€ì¾€à€€Yoà€€à€€â¤€à€€à€€àº€à€€*Ià€€à€€1à€€à€€7à€€à€€W~à€€à€€æ·¨à€€*à€€à€€swà€€à€€bà€€à€€(à€€à€€Îà€€ë—€à€€è¬€à€€à€€à€€à€€à€€Úˆà€€à€€C2à€€à€€Ô€à€€à€€Í„à€€}à€€à€€kZà€€à€€	~à€€à€€G=à€€à€€(à€€à€€ÌŠà€€XNà€€à€€æ¬€à€€q5à€€à€€ã»€à€€#à€€à€€Ü‹à€€Ö€à€€ê €à€€æˆ€à€€auà€€à€€à€€à€€à€€à€€Øà€€}Sà€€à€€nà€€à€€ì‘€à€€à€€ê’€à€€à€€	,à€€à€€}Cà€€à€€A à€€à€€ä€€à€€\-à€€à€€Ê±à€€ç“€à€€1Mà€€à€€ã“€à€€à€€?à€€à€€ï¿„à€€à€€d,à€€à€€äŽ€à€€à€€:à€€à€€[à€€à€€$à€€à€€k=à€€à€€kaà€€à€€4à€€à€€â±Šà€€à€€Q/à€€à€€Uià€€à€€â±Šà€€à€€æ‡·à€€<à€€à€€Lfà€€à€€å‡ºà€€â±Šà€€4à€€à€€ã²±à€€BYà€€à€€Xtà€€à€€GFà€€à€€kIà€€à€€Eà€€à€€áŠ€à€€tHà€€à€€ç§€à€€èŒ€à€€ã²±à€€|à€€à€€{ à€€à€€6à€€à€€&	à€€à€€Yà€€à€€heà€€à€€â±à€€â±¾à€€à€€ã²±à€€áŠ€à€€à€€Nà€€à€€<uà€€à€€i
+à€€à€€à€€à€€á•à€€;Tà€€à€€á•à€€à€€M,à€€à€€á•à€€à€€â±à€€á†€à€€à€€ã²±à€€=[à€€à€€l5à€€à€€'>à€€à€€á•à€€Sà€€à€€â±ªà€€à€€[à€€à€€N^à€€à€€ipà€€à€€(à€€à€€à€€à€€à€€à€€à€€à€€à€€ç®Žà€€$ à€€à€€Yà€€à€€$@à€€à€€ã²±à€€`à€€à€€â±Šà€€à€€à€€à€€à€€uà€€à€€áŠ€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ã²±8à€€à€€à€€à€€à€€à€€ã²±à€€è‹€à€€à€€â±à€€à€€à€€à€€à€€à€€à€€à€€Là€€à€€Là€€à€€8à€€à€€à€€â±à€€à€€à€€à€€à€€
+à€€à€€à€€à€€à€€ã²±à€€à€€à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€
+à€€pà€€à€€à€€à€€â±à€€à€€à€€
+à€€
+à€€qà€€à€€à€€à€€â±à€€à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€â±
+à€€à€€à€€
+à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€	à€€à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadlocaleinfostructà€€Uthreadlocaleinfostruct@@à€€áž€à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€threadmbcinfostructà€€Uthreadmbcinfostruct@@à€€áŽ€
+à€€à€€à€€
+à€€*à€€à€€à€€à€€à€€à€€locinfoà€€áŠ€à€€à€€à€€à€€mbcinfoà€€áŠ€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€localeinfo_structà€€Ulocaleinfo_struct@@à€€Þ€à€€à€€à€€à€€qà€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€pà€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_iobufà€€U_iobuf@@à€€ã²±à€€à€€
+à€€
+à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€î€ƒà€€pà€€à€€à€€à€€_ptrà€€ã²±à€€tà€€à€€à€€à€€_cntà€€â±à€€pà€€à€€à€€_baseà€€à€€tà€€à€€à€€à€€_flagà€€à€€tà€€à€€à€€à€€_fileà€€à€€tà€€à€€à€€à€€_charbufà€€á•à€€tà€€à€€à€€à€€_bufsizà€€ã²±à€€pà€€à€€à€€_tmpfnameà€€&à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_iobufà€€U_iobuf@@à€€ã²±à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€â±à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€à€€à€€à€€!à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€#à€€à€€à€€à€€à€€à€€à€€à€€tà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€%à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€'à€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€à€€à€€à€€à€€à€€à€€)à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€+à€€à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€â±"à€€à€€à€€à€€à€€à€€à€€quotà€€á•à€€à€€à€€à€€à€€remà€€á•à€€à€€à€€.à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ldiv_tà€€U_ldiv_t@@à€€á¢€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€-à€€à€€à€€à€€à€€0à€€à€€
+à€€à€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€2à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€Aà€€à€€à€€à€€à€€à€€4à€€à€€à€€à€€à€€à€€Aà€€à€€à€€tà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€6à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€à€€à€€8à€€à€€à€€à€€à€€à€€Aà€€à€€à€€Aà€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€:à€€à€€
+à€€à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€<à€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€>à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€@à€€à€€à€€tà€€à€€à€€à€€@à€€à€€à€€à€€à€€à€€Bà€€à€€à€€à€€à€€à€€@à€€à€€à€€@à€€à€€à€€@à€€à€€à€€à€€à€€à€€Dà€€à€€
+à€€à€€à€€à€€à€€á®€à€€Fà€€à€€
+à€€
+à€€à€€à€€à€€Gà€€à€€à€€qà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€qà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Jà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Aà€€à€€à€€à€€à€€à€€Là€€à€€à€€pà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€pà€€à€€uà€€à€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Oà€€à€€à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€tmà€€Utm@@à€€áŽ€Qà€€à€€
+à€€æ†®à€€tà€€à€€à€€à€€à€€tm_secà€€â±Šà€€tà€€à€€à€€à€€tm_minà€€ã²±à€€tà€€à€€à€€à€€tm_hourà€€â±Šà€€tà€€à€€à€€à€€tm_mdayà€€á‚€à€€tà€€à€€à€€à€€tm_monà€€ã²±à€€tà€€à€€à€€à€€tm_yearà€€â±Šà€€tà€€à€€à€€à€€tm_wdayà€€â±Šà€€tà€€à€€à€€à€€tm_ydayà€€áŠ€à€€tà€€à€€à€€ à€€tm_isdstà€€áŠ€	à€€à€€Sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€$à€€tmà€€Utm@@à€€ã²±Rà€€à€€à€€à€€à€€Hà€€à€€à€€à€€à€€à€€Rà€€à€€Gà€€à€€à€€tà€€à€€à€€à€€à€€à€€Và€€à€€
+à€€à€€à€€à€€Rà€€à€€à€€à€€à€€à€€à€€à€€à€€Xà€€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Zà€€à€€.à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_stat64i32à€€U_stat64i32@@à€€á€\à€€à€€
+à€€à€€à€€à€€à€€tà€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€^à€€à€€"à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€statà€€Ustat@@à€€ã€`à€€à€€
+à€€ä€à€€uà€€à€€à€€à€€à€€st_devà€€ã²±à€€!à€€à€€à€€à€€st_inoà€€ã²±à€€!à€€à€€à€€à€€st_modeà€€ê€à€€à€€à€€à€€à€€st_nlinkà€€ë€à€€à€€à€€à€€
+à€€st_uidà€€â±žà€€à€€à€€à€€à€€st_gidà€€â±à€€uà€€à€€à€€à€€st_rdevà€€Ð€à€€à€€à€€à€€à€€st_sizeà€€á•à€€à€€à€€à€€à€€st_atimeà€€â€à€€à€€à€€à€€ à€€st_mtimeà€€á•à€€à€€à€€à€€(à€€st_ctimeà€€ã²±à€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€statà€€Ustat@@à€€â±à€€à€€bà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€0à€€_stat64i32à€€U_stat64i32@@à€€ì€à€€à€€à€€à€€à€€]à€€à€€à€€tà€€à€€à€€à€€à€€à€€eà€€à€€
+à€€tà€€à€€à€€à€€á•à€€gà€€à€€
+à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€uà€€à€€à€€à€€tà€€à€€à€€à€€à€€à€€ià€€à€€à€€à€€à€€à€€à€€à€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€kà€€à€€à€€à€€à€€à€€à€€à€€qà€€à€€à€€uà€€à€€à€€à€€à€€à€€à€€à€€à€€mà€€à€€&à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€í€
+à€€oà€€à€€à€€ã²±à€€pà€€à€€
+à€€à€€ à€€à€€à€€"à€€à€€à€€à€€à€€í€à€€"à€€à€€à€€à€€à€€Data1à€€à€€!à€€à€€à€€à€€Data2à€€à€€!à€€à€€à€€à€€Data3à€€à€€rà€€à€€à€€Data4à€€&à€€à€€à€€sà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_GUIDà€€U_GUID@@à€€áŠ€
+à€€pà€€à€€*à€€à€€à€€à€€à€€uà€€à€€uà€€à€€à€€tà€€à€€à€€à€€à€€à€€và€€à€€
+à€€à€€à€€à€€à€€Ð€à€€xà€€à€€
+à€€
+à€€à€€à€€
+à€€
+à€€pà€€à€€à€€à€€â€à€€{à€€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€ì€}à€€à€€
+à€€*à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_POOLà€€U_TP_POOL@@à€€í€à€€à€€
+à€€>à€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CLEANUP_GROUPà€€U_TP_CLEANUP_GROUP@@à€€ê€…
+à€€ì¯¿à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€Ì€à€€
+à€€äŽ€à€€
+à€€Bà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_ACTIVATION_CONTEXTà€€U_ACTIVATION_CONTEXT@@à€€äŽ€
+à€€æ”™à€€
+à€€Fà€€à€€à€€Â€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_INSTANCEà€€U_TP_CALLBACK_INSTANCE@@à€€äŽ€
+à€€ç®Žà€€
+à€€à€€à€€à€€à€€é€à€€à€€à€€à€€à€€à€€à€€à€€à€€äŽ€à€€
+à€€äŽ€à€€
+à€€^à€€à€€à€€è¿à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>à€€T<unnamed-type-u>@_TP_CALLBACK_ENVIRON@@à€€äŽ€à€€à€€"à€€à€€à€€à€€à€€Versionà€€äŽ€à€€äŽ€à€€à€€Poolà€€äŽ€à€€äŽ€à€€à€€CleanupGroupà€€äŽ€à€€å’©à€€à€€CleanupGroupCancelCallbackà€€äŽ€à€€à€€à€€à€€RaceDllà€€äŽ€à€€ç€à€€à€€ActivationContextà€€à€€äŽ€à€€à€€FinalizationCallbackà€€äŽ€à€€à€€äŽ€à€€<unnamed-type-u>à€€äŽ€à€€äŽ€à€€à€€uà€€Bà€€	à€€î€à€€à€€à€€à€€à€€à€€à€€à€€à€€ à€€_TP_CALLBACK_ENVIRONà€€U_TP_CALLBACK_ENVIRON@@à€€äŽ€äŽ€à€€
+à€€
+à€€äŽ€à€€
+à€€
+à€€å’©à€€
+à€€
+à€€ç€à€€
+à€€
+à€€äŽ€à€€
+à€€
+à€€äŽ€à€€
+à€€
+à€€å’©à€€
+à€€äŽ€à€€à€€è¿à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€_TP_CALLBACK_ENVIRON::<unnamed-type-u>::<unnamed-type-s>à€€U<unnamed-typà€€à€€à€€,zRà€€à€€à€€5q(!æ€FäŽ€ç©¾à€€à€€à€€/namesà€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€`à€€à€€à€€Gà€€à€€à€€0äŽ€à€€à€€à€€à€€à€€à€€à€€à€€äŽ€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€	à€€à€€à€€
+à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€à€€
